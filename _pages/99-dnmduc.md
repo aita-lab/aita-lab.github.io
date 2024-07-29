@@ -267,7 +267,7 @@ Master students
 
 * Tran Khanh Duong, "Enhancing the reliability of broadcasting safety message in VANETs", Ton Duc Thang University, 2020 
 
-* Ngo Tu Quynh, "A Dynamic Cooperative MAC Protocol for Vehicular Ad-hoc Networks", Ho Chi Minh City University of Science, 2016 
+* [Ngo Tu Quynh](https://scholar.google.com/citations?user=_TR3TQwAAAAJ&hl=en), "A Dynamic Cooperative MAC Protocol for Vehicular Ad-hoc Networks", Ho Chi Minh City University of Science, 2016 
 
 Membership
 ------------
@@ -290,16 +290,45 @@ Conference Committee
 * General Chair, 2024 9th International Conference on Intelligent Information Technology (ICIIT 2024), Ho Chi Minh City, Vietnam
 * Technical Program Committee Member, 2024 RIVF International Conference on Computing and Communication Technologies (RIVF), Da Nang, Vietnam
 * Technical Program Committee Member, 2024 3rd International Conference on Intelligence of Things (ICIT), Da Nang, Vietnam
-
-
+* Technical Program Committee Member, The 3rd International Conference on Intelligence of Things 2024
+* Technical Program Committee Member, 2023 RIVF International Conference on Computing and Communication Technologies (RIVF)
+* Technical Program Committee Member, 2023 International Symposium on Electrical and Electronics Engineering (ISEE)
+* Technical Program Committee Member, 2023 International Conference on Advanced Technologies for Communications (ATC)
+* Technical Program Committee Member, 2022 RIVF International Conference on Computing and Communication Technologies (RIVF)
+* Technical Program Committee Member, 2022 IEEE Ninth International Conference on Communications and Electronics (ICCE)
+* Technical Program Committee Member, 2021 8th NAFOSTED Conference on Information and Computer Science (NICS)
+* Technical Program Committee Member, 2021 International Conference on Advanced Technologies for Communications (ATC)
+* Technical Program Committee Member, 2021 International Symposium on Electrical and Electronics Engineering (ISEE)
+* Technical Program Committee Member, 2020 IEEE Eighth International Conference on Communications and Electronics (ICCE) (2021)
+* Technical Program Committee Member, 2020 1st Conference on Internet of Things and Embedded Intelligence
+* Technical Program Committee Member, IEEE KSE 2020 (The Twelfth IEEE International Conference on Knowledge and Systems Engineering)
+* Technical Program Committee Member, The International Conference on Advanced Engineering – Theory and Applications 2019
+* Technical Program Committee Member, 2018 IEEE Seventh International Conference on Communications and Electronics (ICCE)
+* Technical Program Committee Member, The International Conference on Advanced Engineering – Theory and Applications 2018
+* Technical Program Committee Member, IEEE ICC 2018 Ad-Hoc and Sensor Networking Symposium
+* Technical Program Committee Member, 2017 International Conference on Advanced Technologies for Communications (ATC)
+* Technical Program Committee Member, 2017 International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)
+* Technical Program Committee Member, The International Conference on Advanced Engineering – Theory and Applications 2017
+* Technical Program Committee Member, 2016 International Conference on Advanced Technologies for Communications (ATC)
+* Technical Program Committee Member, The International Conference on Advanced Engineering – Theory and Applications 2016
+* Technical Program Committee Member, 2016 3rd National Foundation for Science and Technology Development Conference on Information and Computer Science (NICS)
+* Technical Program Committee Member, 2015 International Conference on Advanced Technologies for Communications (ATC)
+* Technical Program Committee Member, The International Conference on Advanced Engineering – Theory and Applications 2015
+* Technical Program Committee Member, ECIT2015 (2015 National Conference on Electronics, Communications and Information Technology)
+* Technical Program Committee Member, IEEE WCNC'14 Track 2 (MAC and Cross-Layer Design) (2014)
+* Technical Program Committee Member, 2014 IEEE World Forum on Internet of Things (WF-IoT)
+* Technical Program Committee Member, International Conference on Green and Human Information Technology 2014
+* Technical Program Committee Member, The International Conference on Advanced Technologies for Communications 2013
+* Technical Program Committee Member, 2013 IEEE Wireless Communications and Networking Conference (WCNC): MAC
+* Technical Program Committee Member, International Conference on Information Networking 2013
+* Technical Program Committee Member, International Conference on ICT Convergence 2011
 
 Peer Review
 ------------
 
 <!-- * Reviewer, Computers, since Sep 2020
-* Reviewer, Complexity, since Aug 2020
-* Reviewer, Technology in Society, since Aug 2020
 * Reviewer, PeerJ Computer Science, since Mar 2016 -->
+* Journal of Information and Telecommunication
 * Expert Systems with Applications
 * IEEE Communications Letters
 * IEEE Wireless Communications Letters
@@ -317,8 +346,6 @@ Peer Review
 * Computer Communications
 * Vehicular Communications
 * China Communications
-
-
 
 
 ***

@@ -98,13 +98,13 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 # Alumni
 ***
 
-#### Ph.D.
+<!-- #### Ph.D.
 
 * TBA
 
 #### M.Sc.
 
-* TBA
+* TBA -->
 
 #### B.Sc.
 
@@ -149,9 +149,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 # Collaborators
 ***
 
-* Dr. Anh-Khoa Tran, National Institute of Information and Communications Technology, Tokyo, Japan
-* Dr. [Tuan Cuong Nguyen](https://ntcuong2103.github.io/), Vietnamese-German University, Vietnam
+* Dr. [Anh-Khoa Tran](https://dblp.org/pid/203/1237.html), National Institute of Information and Communications Technology, Tokyo, Japan
+* Dr. [Tuan Cuong Nguyen](https://ntcuong2103.github.io/), Vietnamese - German University, Vietnam
+* Ph.D.c [Ngoc-Hanh Dang](https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en), University of Technology Sydney, NSW, Australia
 * Ph.D.c [Pham Nhat Truong](https://nhattruongpham.github.io/), Sungkyunkwan University, Suwon, Korea
-
-
-
