@@ -263,11 +263,11 @@ Master students
 
 * Tran Van Thau, "Multi-Channel MAC protocol for IEEE 802.11ah wireless networks", Ton Duc Thang University, 2021
 
-* [Pham Nhat Truong](https://nhattruongpham.github.io/), "A method upon deep learning for speech emotion recognition", Ton Duc Thang University, 2021
+* <a href="https://nhattruongpham.github.io/" target="_blank">Nhat Truong Pham</a>, "A method upon deep learning for speech emotion recognition", Ton Duc Thang University, 2021
 
 * Tran Khanh Duong, "Enhancing the reliability of broadcasting safety message in VANETs", Ton Duc Thang University, 2020 
 
-* [Ngo Tu Quynh](https://scholar.google.com/citations?user=_TR3TQwAAAAJ&hl=en), "A Dynamic Cooperative MAC Protocol for Vehicular Ad-hoc Networks", Ho Chi Minh City University of Science, 2016 
+* <a href="https://scholar.google.com/citations?user=_TR3TQwAAAAJ&hl=en" target="_blank">Ngo Tu Quynh</a>, "A Dynamic Cooperative MAC Protocol for Vehicular Ad-hoc Networks", Ho Chi Minh City University of Science, 2016 
 
 Membership
 ------------
