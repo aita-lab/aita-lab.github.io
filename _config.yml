@@ -1,5 +1,5 @@
-baseurl: "/zolan" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aita-lab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -8,7 +8,10 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll/tagging
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-toc
+  - jemoji
 
 paginate: 5
 paginate_path: "/page/:num"
@@ -24,6 +27,9 @@ defaults:
 include:
   - _pages
 
+
+logo: /images/Logo_Wide.png
+email: aita.fptu@gmail.com
 
 # Tags
 tag_page_dir:         tag
