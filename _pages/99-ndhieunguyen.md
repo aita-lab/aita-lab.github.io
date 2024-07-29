@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nguyen Doan Hieu Nguyen, Ph.D.c"
+title: "Nguyen Doan Hieu Nguyen, Master & Ph.D. student"
 permalink: /member/ndhieunguyen
 image: 
 description: Curriculum vitae of Nguyen Doan Hieu Nguyen

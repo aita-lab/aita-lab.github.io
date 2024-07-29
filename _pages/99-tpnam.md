@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Phuong-Nam Tran, Ph.D.c"
+title: "Phuong-Nam Tran, Master & Ph.D. student"
 permalink: /member/tpnam
 image: Members/Researchers/tpnam/background.jpg
 description: Curriculum vitae of Phuong-Nam Tran

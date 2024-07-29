@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Trung Minh Nguyen, B.Sc.c"
+title: "Trung Minh Nguyen, B.Sc. student"
 permalink: /member/nmtrung
 image: 
 description: Curriculum vitae of Trung Minh Nguyen

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Duong Thanh Tran, Ph.D.c"
+title: "Duong Thanh Tran, Master & Ph.D. student"
 permalink: /member/ttduong
 image: 
 description: Curriculum vitae of Duong Thanh Tran

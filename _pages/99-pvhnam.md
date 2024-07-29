@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Phan Van Hai Nam, B.Sc.c"
+title: "Phan Van Hai Nam, B.Sc. student"
 permalink: /member/pvhnam
 image: 
 description: Curriculum vitae of Phan Van Hai Nam

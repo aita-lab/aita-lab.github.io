@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Thu Thuy Le, B.Sc.c"
+title: "Thu Thuy Le, B.Sc. student"
 permalink: /member/ltthuy
 image: 
 description: Curriculum vitae of Thu Thuy Le
