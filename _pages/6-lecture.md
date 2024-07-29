@@ -44,7 +44,7 @@ toc_label: "Table of Contents"
 * [06837-01 Graph Mining](https://ns-cuk.notion.site/06837-Graph-Mining-Spring-2024-d61162f663a141929559c406d83ca187?pvs=4)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://aita-lab.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://aita-lab.github.io/member/thanhdo19730), and [Huy Quang Tran](https://aita-lab.github.io/member/huy)
-  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/AiTa-Lab/Graph-Mining-Spring-2024)
   * [![Kaggle](https://img.shields.io/badge/Kaggle-Term%20Project-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/competitions/2024-1-cuk-gm-project/overview)
 
 * 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
@@ -96,7 +96,7 @@ toc_label: "Table of Contents"
 * [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2023-f147ff0f52ab41acbcb8636de7e44d46?pvs=4)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://aita-lab.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://aita-lab.github.io/member/sangnguyen)
-  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023)
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/AiTa-Lab/Graph-Neural-Networks-Fall-2023)
 
 * 54345-01 Artificial Intelligence/Robot Ethics (Graduate Course)
   * Instructor: Eun-Soon You
@@ -149,7 +149,7 @@ toc_label: "Table of Contents"
 * [06837-01 Graph Mining](https://ns-cuk.notion.site/Syllabus-Graph-Mining-0b9257569a0e4ad3be2bac9ed427a4ed)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://aita-lab.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://aita-lab.github.io/member/sangnguyen)
-  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2023)
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/AiTa-Lab/Graph-Mining-Spring-2023)
 
 * 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI

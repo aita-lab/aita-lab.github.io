@@ -9,7 +9,7 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
-<!-- ![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4)
+<!-- ![image](https://github.com/AiTa-Lab/AiTa-Lab.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4)
 
 
 
