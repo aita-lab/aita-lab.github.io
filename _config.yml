@@ -1,7 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aita-lab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-
 # Build settings
 markdown: kramdown
 permalink: pretty
@@ -16,6 +15,7 @@ plugins:
 paginate: 5
 paginate_path: "/page/:num"
 
+futrue: true
 
 # Pages Path
 defaults:
@@ -27,9 +27,15 @@ defaults:
 include:
   - _pages
 
+# Atom Feed
+author:
+  name: AiTA@FPTU
 
 logo: /images/Logo_Wide.png
 email: aita.fptu@gmail.com
+
+feed:
+  path: atom.xml
 
 # Tags
 tag_page_dir:         tag
@@ -39,3 +45,8 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+
+# analytics:
+#   provider: google
+#   google:
+#     tracking_id: G-1MH93MRZ7X

@@ -1,7 +1,8 @@
 #-------------------------------
 # General Site Settings
 title: AI Technology and Application Research Lab @ FPTU - HCMC
-logo: FPTU/AiTA_logo.jpg # You can add own logo.
+logo: FPTU/AiTA_logo.jpg
+#LabLogo.png
 description: Official website of the AI Technology and Application Research Lab at the FPT University (AiTA Lab@FPTU)
 author: AiTA@FPTU
 creator: AiTA@FPTU
@@ -18,7 +19,6 @@ author:
   say-hello: <strong>AI Technology and Application Research Lab</strong>
   bio: Welcome to the AI Technology and Application Research Lab, where innovation meets interdisciplinary collaboration. Our researchers work alongside experts in computer science, electrical engineering, mathematics, environmental science, medicine, and more to develop cutting-edge AI solutions aimed at improving human life and tackling societal challenges. We are dedicated to training the next generation of AI researchers and practitioners by providing hands-on research experience, state-of-the-art AI technology training, and professional development opportunities. Our ultimate goal is to push the boundaries of AI and promote the responsible and ethical development and deployment of AI technologies.
 
-
 #-------------------------------
 # Contact links
 # twitter: https://twitter.com/NS_CUK
@@ -31,20 +31,21 @@ facebook: https://www.facebook.com/profile.php?id=61561670231932 # Add your Face
 # demopage: https://nslab.catholic.ac.kr/
 # youtube: https://www.youtube.com/channel/UCxIbebomcnCapufjTmr8-ZQ
 
-# #-------------------------------
-# # Comment Section (Disqus)
-# disqus-identifier: aita # add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 
 
-# #-------------------------------
-# # Instagram Feed
-# instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-# instagram-profile: artemsheludko_ # Add instagram username
+#-------------------------------
+# Instagram Feed
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: # Add instagram username
 
 
-# #-------------------------------
-# # Google Analytics
-# google-analytics: # Add your identifier. For example UA-99631805-1.
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
