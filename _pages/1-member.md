@@ -115,6 +115,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
             <li><a href="https://github.com/trungtndev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
+</table>
 
 ###### <a href="/member/lttha" target="_blank">Tha Thanh Le</a> (Dec 2022 -- Present)
 <table border="0">  
@@ -137,6 +138,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 		</ul></td>
 	</tr>
 </table>
+
 ***
 # Alumni
 ***
