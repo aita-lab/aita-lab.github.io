@@ -19,98 +19,11 @@ toc_label: "Table of Contents"
 
 ***
 
-<!-- * Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) DOI:10.36747/ellf84.6
+* Tran Anh Khoa, Trac Nguyen Dang, Tinh Vo Phuc, Nam Nguyen Hoang, Duc Ngoc Minh Dang, Son Hoang Hai and Lam Pham Duc, "Safety Is Our Friend: A Federated Learning Framework Toward Driver’s State and Behavior Detection", IEEE Transactions on Computational Social Systems, 2023, DOI: 10.1109/TCSS.2023.3273727
 
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JSEN.2024.3364682
-<span class="__dimensions_badge_embed__" data-doi="10.1109/JSEN.2024.3364682" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Nhat Truong Pham, Duc Ngoc Minh Dang, N. D., Nguyen, T. T., Nguyen, H., Manavalan, B., Lim, C. P., & Nguyen, S. D. "Hybrid data augmentation and deep attention-based dilated convolutional-recurrent neural networks for speech emotion recognition". Expert Systems with Applications, 2023. DOI: j.eswa.2023.120608
 
-* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JIOT.2024.3365144 [![Link](https://img.shields.io/badge/JCR%20Top%203%25-0C2E86?style=flat-square)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
-<span class="__dimensions_badge_embed__" data-doi="10.1109/JIOT.2024.3365144" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Hyun-Cheol Park, YunSang Joo, O-Joun Lee, Kunkyu Lee, Tai-Kyong Song, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 02/2024; 24: 36. DOI:10.1186/s12880-024-01209-4
-<span class="__dimensions_badge_embed__" data-doi="10.1186/s12880-024-01209-4" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) DOI:10.1016/j.ultras.2023.107167
-[![Link](https://img.shields.io/badge/JCR%20Top%2015%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/ultrasonics)
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ultras.2023.107167" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. (In Korean) DOI:10.18658/humancon.2023.12.107
-
-* Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. DOI:10.1109/ACCESS.2023.3324046
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2023.3324046" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Van Thuy Hoang, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, O-Joun Lee: Graph Representation Learning and its Applications: A Survey. Sensors 04/2023; 23(8): 4168. DOI:10.3390/s23084168
-<span class="__dimensions_badge_embed__" data-doi="10.3390/s23084168" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Yunsang Joo, Hyun-Cheol Park, O-Joun Lee, Changhan Yoon, Moon Hyung Choi, Chang Choi: Classification of Liver Fibrosis from Heterogeneous Ultrasound Image. IEEE Access 01/2023; 11: 9920-9930. DOI:10.1109/ACCESS.2023.3240216
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2023.3240216" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports 11/2022; 12: 19873. (†: Co-correspondence) DOI:10.1038/s41598-022-22075-6 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-022-22075-6" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors 09/2022; 22(19): 7179. DOI:10.3390/s22197179 <span class="__dimensions_badge_embed__" data-doi="10.3390/s22197179" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Reports 04/2022; 12: 6891. DOI:10.1038/s41598-022-10882-w <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-022-10882-w" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Seungha Hong, Jin-Taek Kim: Interinstitutional Research Team Formation Based on Bibliographic Network Embedding. Mobile Information Systems 02/2021; 2021: 6629520. DOI:10.1155/2021/6629520 <span class="__dimensions_badge_embed__" data-doi="10.1155/2021/6629520" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Eun-Soon You, Jin-Taek Kim: Plot Structure Decomposition in Narrative Multimedia by Analyzing Personalities of Fictional Characters. Applied Sciences 02/2021; 11(4): 1645. DOI:10.3390/app11041645 <span class="__dimensions_badge_embed__" data-doi="10.3390/app11041645" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Hyeon-Ju Jeon, Jason J. Jung: Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks. Journal of Informetrics 02/2021; 15(1): 101126. DOI:10.1016/j.joi.2020.101126
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/journal-of-informetrics)
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.joi.2020.101126" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Heelim Hong, Eun-Soon You, Jin-Taek Kim: Discovering Social Desires and Conflicts from Subculture Narrative Multimedia. Sustainability 12/2020; 12(24): 10241. DOI:10.3390/su122410241 <span class="__dimensions_badge_embed__" data-doi="10.3390/su122410241" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Eun-Soon You, O-Joun Lee, Jin-Taek Kim: Computational Narrative Generation: A Survey. Journal of Information Technology and Applied Engineering 06/2020; 10(1): 9-18. (In Korean), DOI:10.22733/JITAE.2020.10.01.002
-
-* Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5): 1212., DOI:10.3390/cancers12051212 (†: Co-first authors)
-[![Link](https://img.shields.io/badge/JCR%20Top%2015%25-0C2E86?style=flat-square)](https://www.mdpi.com/journal/cancers)
-<span class="__dimensions_badge_embed__" data-doi="10.3390/cancers12051212" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Jason J. Jung, Jin-Taek Kim: Learning Hierarchical Representations of Stories by Using Multi-layered Structures in Narrative Multimedia. Sensors 04/2020; 20(7): 1978., DOI:10.3390/s20071978 <span class="__dimensions_badge_embed__" data-doi="10.3390/s20071978" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Jason J. Jung: Story Embedding: Learning Distributed Representations of Stories based on Character Networks. Artificial Intelligence 04/2020; 281: 103235., DOI:10.1016/j.artint.2020.103235
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/artificial-intelligence)
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.artint.2020.103235" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: A novel network virtualization based on data analytics in connected environment. Journal of Ambient Intelligence and Humanized Computing 01/2020; 11: 75–86., DOI:10.1007/s12652-018-1083-x
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12652)
-<span class="__dimensions_badge_embed__" data-doi="10.1007/s12652-018-1083-x" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Hyeon-Ju Jeon, O-Joun Lee, Jason. J. Jung: Is Performance of Scholars Correlated to Their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39)., DOI:10.3389/fdata.2019.00039
-[![Link](https://img.shields.io/badge/CIKMw'19-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3357384.3358806)
-<span class="__dimensions_badge_embed__" data-doi="10.3389/fdata.2019.00039" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Jason J. Jung: Integrating character networks for extracting narratives from multimodal data. Information Processing & Management 09/2019; 56(5): 1894-1923., DOI:10.1016/j.ipm.2019.02.005
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/information-processing-and-management)
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ipm.2019.02.005" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Jason J. Jung: Modeling affective character network for story analytics. Future Generation Computer Systems 03/2019; 92: 458-478., DOI:10.1016/j.future.2018.01.030
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.future.2018.01.030" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Jae-Hong Park, O-Joun Lee, Jai E. Jung: Spatio-temporal query contextualization for microtext retrieval in social media. Concurrency and Computation Practice and Experience 08/2018; 30(15): e4458., DOI:10.1002/cpe.4458 <span class="__dimensions_badge_embed__" data-doi="10.1002/cpe.4458" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Jai E. Jung: Owner-Borrower Model for Recommenders in O2O Services. Mobile Networks and Applications 08/2018; 23(4): 1089-1096., DOI:10.1007/s11036-018-1073-4 <span class="__dimensions_badge_embed__" data-doi="10.1007/s11036-018-1073-4" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Yunhu Kim, Hoang Long Nguyen, Jai E. Jung: Multi-scaled Spatial Analytics on Discovering Latent Social Events for Smart Urban Services. Journal of Universal Computer Science 03/2018; 24(3): 322-337., DOI:10.3217/jucs-024-03-0322 <span class="__dimensions_badge_embed__" data-doi="10.3217/jucs-024-03-0322" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Jae-Hong Park, O-Joun Lee, Joo-Man Han, Eon-Ji Lee, Jason J. Jung, Luca Carratore, Francesco Piccialli: Spatio-Temporal Contextualization of Queries for Microtexts in Social Media: Mathematical Modeling. Procedia Computer Science 09/2017; 113: 525-530., DOI:10.1016/j.procs.2017.08.317 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.procs.2017.08.317" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jai E. Jung: Exploiting Character Networks for Movie Summarization. Multimedia Tools and Applications 04/2017; 76(8): 10357–10369., DOI:10.1007/s11042-016-3633-6 <span class="__dimensions_badge_embed__" data-doi="10.1007/s11042-016-3633-6" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Jai E. Jung, O-Joun Lee†, Eun-Soon You, Myoung-Hee Nam: A Computational Model of Transmedia Ecosystem for Story-based Contents. Multimedia Tools and Applications 04/2017; 16(8): 10371–10388., DOI:10.1007/s11042-016-3626-5 (†: Corresponding author) <span class="__dimensions_badge_embed__" data-doi="10.1007/s11042-016-3626-5" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Hoang Long Nguyen, O-Joun Lee, Jai E. Jung, Jaehwa Park, Tai-Won Um, Hyun-Woo Lee: Event-Driven Trust Refreshment on Ambient Services. IEEE Access 03/2017; 5: 4664-4670., DOI:10.1109/ACCESS.2017.2677917 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2017.2677917" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Hoang Long Nguyen, Jai E. Jung, Hyun-Woo Lee, Tai-Won Um: Towards Ontological Approach on Trust-Aware Ambient Services. IEEE Access 02/2017; 5: 1589-1599., DOI:10.1109/ACCESS.2017.2663407 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2017.2663407" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Jai E. Jung: Sequence Clustering-based Automated Rule Generation for Adaptive Complex Event Processing. Future Generation Computer Systems 01/2017; 66: 100–109., DOI:10.1016/j.future.2016.02.011
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.future.2016.02.011" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-oun Lee, Min-sung Hong, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2): 179-194., DOI:10.12700/APH.13.2.2016.2.10 <span class="__dimensions_badge_embed__" data-doi="10.12700/APH.13.2.2016.2.10" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> -->
-
+* Nhat Truong Pham, Sy Dzung Nguyen, Vu Song Thuy Nguyen, Bich Ngoc Hong Pham, and Duc Ngoc Minh Dang “Speech emotion recognition using overlapping sliding window and Shapley additive explainable deep neural network”, Journal of Information and Telecommunication, 2023, DOI: 10.1080/24751839.2023.2187278
 
 
 ***
@@ -118,90 +31,37 @@ toc_label: "Table of Contents"
 # Conference Proceedings
 
 ***
-<!-- * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. 
-[![Link](https://img.shields.io/badge/AAAIw'24-0C2E86?style=flat-square)](https://xai4sci.github.io/)
+* Nam Van Hai Phan, Tha Thanh Le, Tuan Phu Phan, Thuy Thu Le, Phuong-Nam Tran, Nhat Truong Pham and Duc Ngoc Minh Dang, “Deep Learning-Based Automated Cashier System for Bakeries”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
-* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. DOI:10.1609/aaai.v38i11.29138
-[![Link](https://img.shields.io/badge/AAAI'24-0C2E86?style=flat-square)](https://aaai.org/aaai-conference/)
-<span class="__dimensions_badge_embed__" data-doi="10.1609/aaai.v38i11.29138" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Dang Khoa Phan, Phuong-Nam Tran, Nhat Truong Pham, Tra Huong Thi Le and Duc Ngoc Minh Dang, “Innovative Multi-Modal Control for Surveillance Spider Robot: An Integration of Voice and Hand Gesture Recognition”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
-* Daehun Kim, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Development of an Automatic Monitoring System for Ultrasound Signals Using Artificial Intelligence and Convolutional Neural Networks. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1UmF5wgWtroScELO2_vaKRavFpiiDnnWx/view?usp=sharing); in Korean)
+* Dinh Thuan Nguyen, Minh Khanh Phan, Phuong-Nam Tran and Duc Ngoc Minh Dang, “Vietnamese Traffic Sign Recognition Using Deep Learning”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
-* So Yeon Moon, Hyeon-Ju Jeon, Yeongho Sung, Min-Seo Kim, Daehun Kim, Jaeyeop Choi, Junghwan Oh, O-Joun Lee, Hae Gyun Lim: Dual-mode diagnosis system for water quality and corrosion in pipe using convolutional neural networks (CNN) and ultrasound. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing); in Korean)
+* Chi Hung Le, Hung Phat Ly, Duc Tien Nguyen, Hanh Dang-Ngoc, Thuy-Duong Thi Vu and Duc Ngoc Minh Dang, “Deep Learning Based Attendance Check System At FPT University”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Blood Glucose Classification Using high-Frequency Ultrasound and Artificial Intelligence. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023. ([Poster](https://drive.google.com/file/d/1GUoRZhbhRHc8hNTWGhlYDD_Re6mNVPwt/view?usp=sharing))
+* Triet Minh Huynh, Duy Linh Nguyen, Thanh Tri Nguyen, Thuy-Duong Thi Vu, Hanh Dang-Ngoc and Duc Ngoc Minh Dang, “CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024 
 
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023. ([Poster](https://drive.google.com/file/d/1SlepM15zrz8L5jP0Z96vSluohlZS8Fgr/view?usp=sharing))
+* Binh Dang Hai, Huu Duc Nguyen, Thanh Nam Vo, Phuong-Nam Tran, Cuong Tuan Nguyen and Duc Ngoc Minh Dang, “Performance Comparison in Traffic Sign Recognition using Deep Learning”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024
 
-* Akshat Gaurav, Varsha Arya, Kwok Tai Chui, Brij B. Gupta, Chang Choi, O-Joun Lee: Long Short-Term Memory Network (LSTM) based Stock Price Prediction. The 2023 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2023), Gdańsk, Poland; 08/2023. DOI:10.1145/3599957.3606240 <span class="__dimensions_badge_embed__" data-doi="10.1145/3599957.3606240" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Quan Bao Le, Kiet Tuan Trinh, Nguyen Dinh Hung Son, Phuong-Nam Tran, Cuong Tuan Nguyen, and Duc Ngoc Minh Dang, “MERSA: Multimodal Emotion Recognition with Self-Align Embedding”, The 38th International Conference on Information Networking (ICOIN 2024), January 17-19, 2024
 
-* Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023), Yokohama, Japan; 07/2023. ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
+* Nhat Truong Pham, Le Thi Phan, Duc Ngoc Minh Dang, and Balachandran Manavalan, “SER-Fuse: An Emotion Recognition Application Utilizing Multi-Modal, Multi-Lingual, and Multi-Feature Fusion”, The 12th International Symposium on Information and Communication Technology (SoICT 2023), Ho Chi Minh City, Vietnam, Dec 7-8, 2023
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023. ([Poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing); in Korean)
+* Duong Thanh Tran, Hieu-Nguyen Nguyen-Doan, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Duc Ngoc Minh Dang, “Vitexco: Exemplar-based Video Colorization using Vision Transformer”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
 
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Automated Dysnatremia Measurement using Ultrasound Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023. ([Poster](https://drive.google.com/file/d/1pb3myPMBzHBZCg1shM38BCV7fSXJL496/view?usp=sharing); in Korean)
+* Duc-Hieu Hoang, Duc Ngoc Minh Dang, Hanh Dang-Ngoc, Anh-Khoa Tran, Phuong-Nam Tran, Cuong Tuan Nguyen, “RBBA: ResNet - BERT - Bahdanau Attention for Image Caption Generator”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
 
-* Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023. ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
+* Phuong-Nam Tran, Thuy-Duong Thi Vu, Nhat Truong Pham, Hanh Dang-Ngoc, Duc Ngoc Minh Dang, “Comparative analysis of multi-loss functions for enhanced multi-modal speech emotion recognition”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023
 
-* San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. Findings of the Association for Computational Linguistics - The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023. DOI:10.18653/v1/2023.findings-eacl.85
-[![Link](https://img.shields.io/badge/EACL'23-0C2E86?style=flat-square)](https://2023.eacl.org/)
-<span class="__dimensions_badge_embed__" data-doi="10.18653/v1/2023.findings-eacl.85" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Nam Phuong Tran, Thuy-Duong Vu, Duc Ngoc Minh Dang, Nhat Truong Pham, Anh Khoa Tran, “Multi-modal Speech Emotion Recognition: Improving Accuracy through Fusion of VGGish and BERT Features with Multi-head Attention”, 9th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2023), Ho Chi Minh City, Vietnam, Aug 2-3, 2023
 
-* Min-Woo Choi, Hyeon-Ju Jeon, [Joo-Ho Lee](https://aita-lab.github.io/member/jhlee), O-Joun Lee: Topographic-aware wind forecasting system using multi-modal spatio-temporal graph neural network. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023. (in Korean)
+* Phuc Tinh Vo, Viet Anh Nguyen, Xuyen Bao Le Nguyen, Duc Ngoc Minh Dang, Anh Khoa Tran, “Performance Analysis of Distributed Learning in Edge Computing on Handwritten Digits Dataset”, 9th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2023), Ho Chi Minh City, Vietnam, Aug 2-3, 2023
 
-* [Ho-Beom Kim](https://aita-lab.github.io/member/hbkim), [Joo-Ho Lee](https://aita-lab.github.io/member/jhlee), O-Joun Lee: Detection of Influential Unethical Expressions through Construction of a Spread Graph for Unethical Expression Propagation. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023. (in Korean)
+* Nhat Truong Pham, Duc Ngoc Minh Dang, Bich Ngoc Hong Pham and Sy Dzung Nguyen, "SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings “, 2023: 8th International Conference on Intelligent Information Technology (ICIIT 2023), Da Nang, Vietnam, February 24 - 26, 2023.
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023. ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing); in Korean)
+* Nhat Truong Pham, Anh-Tuan Tran, Bich Ngoc Hong Pham, Hanh Dang-Ngoc, Sy Dzung Nguyen and Duc Ngoc Minh Dang, "Speech Emotion Recognition: A Brief Review of Multi-modal Multi-task Learning Approaches", The 7th International Conference on Advanced Engineering – Theory and Applications (AETA-2022), Vietnam, Dec 8-10, 2022.
 
-* [Ji-Yoon Song](https://aita-lab.github.io/member/jysong), [Se-Eun Cho](https://aita-lab.github.io/member/secho), [Joo-Ho Lee](https://aita-lab.github.io/member/jhlee), [Yeong-Min Kim](https://aita-lab.github.io/member/ymkim), [Hye-Bin Ahn](https://aita-lab.github.io/member/hbahn), O-Joun Lee: Context-aware Cross-domain Recommendation System for Retail Kiosk. The 2022 Conference of Korea Institute of Smart Media (KISM 2022), Daejeon, Korea; 06/2022 (in Korean).
 
-* Won-Sik Oh, [Se-Eun Cho](https://aita-lab.github.io/member/secho), [Ji-Yoon Song](https://aita-lab.github.io/member/jysong), [Hye-Bin Ahn](https://aita-lab.github.io/member/hbahn), O-Joun Lee: News Article Recommendation and Curation System based on Document Embedding and Keyword Extraction. The 2022 Conference of Korea Institute of Smart Media (KISM 2022), Daejeon, Korea; 06/2022. (in Korean)
-
-* Nam D Vo, O-Joun Lee, Khac-Hoai Nam Bui, Hae Gyun Lim, Hyeon-Ju Jeon, Phuong-Mai Nguyen, Jin-Taek Kim, Bui Quang Tuyen, Jason J Jung, Thuy Anh Vo: Computing4Human 2021: The 2nd International Conference on Human-centered Artificial Intelligence. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021. (Editorial)
-
-* Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi: Learning Contextual Representations of Citations via Graph Transformer. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021. 
-
-* O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Quantifying Conflicts in Narrative Multimedia by Analyzing Visual Storytelling Techniques. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021.
-
-* O-Joun Lee, Jason J Jung: Story Embedding: Learning Distributed Representations of Stories based on Character Networks (Extended Abstract). The 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021. DOI:10.24963/ijcai.2020/709
-[![Link](https://img.shields.io/badge/IJCAI'20-0C2E86?style=flat-square)](https://ijcai20.org/)
-<span class="__dimensions_badge_embed__" data-doi="10.24963/ijcai.2020/709" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Sung Youn Park, Jin-Taek Kim: IdeaNet: Potential Opportunity Discovery for Business Innovation. Artificial Intelligence for Narratives Workshop (AI4Narratives 2020) held in conjunction with the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021.
-[![Link](https://img.shields.io/badge/IJCAIw'20-0C2E86?style=flat-square)](https://dblp.org/db/conf/ijcai/ai4narratives2020.html)
-
-* O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Towards Story-based Summarization of Narrative Multimedia. The 2020 ACM International Conference on Intelligent Computing and its Emerging Applications (ICEA 2020), Gangwon, Korea; 12/2020. DOI:10.1145/3440943.3444719 <span class="__dimensions_badge_embed__" data-doi="10.1145/3440943.3444719" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Jin-Taek Kim: Learning Multi-modal Representations of Narrative Multimedia: a Case Study of Webtoons. The 2020 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2020), Gwangju, Korea; 10/2020. DOI:10.1145/3400286.3418216 <span class="__dimensions_badge_embed__" data-doi="10.1145/3400286.3418216" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Jin-Taek Kim: Measuring Narrative Fluency by Analyzing Dynamic Interaction Networks in Textual Narratives. The 3rd Workshop on Narrative Extraction From Texts (Text2Story 2020), co-located with the 42nd European Conference on Information Retrieval (ECIR 2020), Lisbon, Portugal; 04/2020.
-[![Link](https://img.shields.io/badge/ECIRw'20-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3451964.3451975)
-
-* Jin-Taek Kim, Jason J. Jung, Eunsoon You, O-Joun Lee: Computing4Human 2020: The 1st International Workshop on Computational Humanities and Social Sciences. The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea; 02/2020. (Editorial)
-
-* O-Joun Lee, Jin-Taek Kim: Discovering Mise-en-scène in Movies by Analyzing Scripts. The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea; 02/2020.
-
-* O-Joun Lee, Jason J Jung: Computational Narrative Representation and Analytics. The 2nd International Conference on AI Humanities (ICAIH 2019), Seoul, Republic of Korea; 08/2019.
-
-* Luong Vuong Nguyen, O-Joun Lee, Hoang Long Nguyen, Sojung An, Jason J. Jung, Yue-Shan Chang: Crowdsourcing System for Measuring Cognitive Similarity in Recommendation System. 2019 ISSAT International Conference on Data Science in Business, Finance and Industry, Da Nang, Vietnam; 07/2019.
-
-* O-Joun Lee, Jason J. Jung: Character Network Embedding-based Plot Structure Discovery in Narrative Multimedia. The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea; 06/2019. DOI:10.1145/3326467.3326485 <span class="__dimensions_badge_embed__" data-doi="10.1145/3326467.3326485" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Nayoung Jo, Jason J. Jung: Measuring Character-based Story Similarity by Analyzing Movie Scripts. The 1st Workshop on Narrative Extraction From Text (Text2Story 2018), co-located with the 40th European Conference on Information Retrieval (ECIR 2018), Grenoble, France; 03/2018.
-[![Link](https://img.shields.io/badge/ECIRw'18-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3274784.3274801)
-
-* O-Joun Lee, Jason J. Jung: Explainable Movie Recommendation Systems by using Story-based Similarity. The workshop on Explainable Smart Systems (ExSS 2018), held in conjunction with the 23rd International Conference on Intelligent User Interfaces (IUI 2018), Tokyo, Japan; 03/2018.
-[![Link](https://img.shields.io/badge/IUIw'18-0C2E86?style=flat-square)](https://dblp.org/db/conf/iui/iui2018w.html)
-
-* Jason J. Jung, Minsung Hong, O-Joun Lee, Jaehong Park, Chang Choi: Towards Affective Lifelogging with Information Fusion. The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea; 08/2017. DOI:10.1109/IE.2017.25 <span class="__dimensions_badge_embed__" data-doi="10.1109/IE.2017.25" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* O-Joun Lee, Jason J. Jung: Affective Character Network for Understanding Plots of Narrative Contents. The 1st International Workshop on Affective Computing and Context Awareness in Ambient Intelligence (AfCAI 2016), Murcia, Spain; 11/2016.
-
-* O-Joun Lee, Jason J. Jung, Eunsoon You: Predictive Clustering for Performance Stability in Collaborative Filtering Techniques. The 2nd IEEE International Conference on Cybernetics (CYBCONF 2015), Gdynia, Poland; 06/2015. DOI:10.1109/CYBConf.2015.7175905 <span class="__dimensions_badge_embed__" data-doi="10.1109/CYBConf.2015.7175905" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-* Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications, Chiang Mai, Thailand; 12/2014.
-
-* Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014.  -->
 
 
 
@@ -261,7 +121,7 @@ toc_label: "Table of Contents"
 
 ***
 
-# Patents
+<!-- # Patents -->
 
 ***
 
@@ -313,7 +173,7 @@ toc_label: "Table of Contents"
 
 ***
 
-# Invited Talks
+<!-- # Invited Talks -->
 
 ***
 <!-- 
