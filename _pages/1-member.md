@@ -50,7 +50,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 # Undergraduate Research Assistants
 ***
 
-###### <a href="/member/pvhnam" target="_blank">Hai Nam Van Phan</a> (Sep 2023 -- Present)
+###### <a href="/member/pvhnam" target="_blank">Hai Nam Van Phan</a> (Dec 2022 -- Present)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/pvhnam/avatar.jpg"/></td>  
@@ -61,39 +61,82 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
-###### <a href="/member/nmtrung" target="_blank">Trung Minh Nguyen</a> (Sep 2023 -- Present)
+###### <a href="/member/nmtrung" target="_blank">Trung Minh Nguyen</a> (Oct 2022 -- Present)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmtrung/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2023 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>			
+			<li>Oct 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>			
             <li><a href="https://nmihtrug.github.io/"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
 
-###### <a href="/member/pmkhanh" target="_blank">Minh Khanh Phan</a> (Sep 2023 -- Present)
+###### <a href="/member/pmkhanh" target="_blank">Minh Khanh Phan</a> (Dec 2022 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/pmkhanh/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+            <li><a href="https://orcid.org/0009-0003-1281-5346"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
 
-###### <a href="/member/ltthuy" target="_blank">Thu Thuy Le</a> (Sep 2023 -- Present)
+###### <a href="/member/ltthuy" target="_blank">Thu Thuy Le</a> (Dec 2022 -- Present)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ltthuy/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. student, Dept. of Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
+			<li>Dec 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li>Research Interest: Federated Learning, Image Segmentation</li>			
             <li><a href="https://shuilee.github.io/"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
 
-###### <a href="/member/nmnhut" target="_blank">Nhut Minh Nguyen</a> (Apr 2024 -- Present)
+###### <a href="/member/nmnhut" target="_blank">Nhut Minh Nguyen</a> (Dec 2022 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmnhut/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+            <li><a href="https://orcid.org/0009-0003-1281-5346"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
 
-###### <a href="/member/nttrung" target="_blank">Thanh Trung Nguyen</a> (Apr 2024 -- Present)
+###### <a href="/member/nttrung" target="_blank">Thanh Trung Nguyen</a> (Dec 2022 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nttrung/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+            <li><a href="https://github.com/trungtndev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+		</ul></td>
+	</tr>
 
-###### <a href="/member/nhhiep" target="_blank">Hua Hiep Nguyen</a> (Apr 2024 -- Present)
+###### <a href="/member/lttha" target="_blank">Tha Thanh Le</a> (Dec 2022 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/lttha/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+            <li><a href="https://profile.hknight.dev/"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
 
-###### <a href="/member/pdtai" target="_blank">Duc Tai Phan</a> (Apr 2024-- Present)
-
+###### <a href="/member/ptduc" target="_blank">Duc Tai Phan</a> (Sep 2023-- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ptduc/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Sep 2023 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+            <li><a href="https://taiduc1001.github.io/"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
 ***
 # Alumni
 ***
