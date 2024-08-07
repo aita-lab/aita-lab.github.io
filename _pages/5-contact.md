@@ -11,17 +11,17 @@ description: Contact and recruitment information for the AI Technology and Appli
 
 #### Domestic Applicants
 
->The AI Technology and Application Research Lab is at the forefront of research in speech emotion recognition, active learning, federated learning, reinforcement learning, and computer vision for autonomous driving. We are excited to invite talented students to join our team and contribute to groundbreaking projects. Leveraging our expertise in these dynamic fields, we are confident in our ability to produce impactful research together.
----
-* **Requirements**
-  * **Passion for AI:** Demonstrated enthusiasm for artificial intelligence and its applications.
-  * **Strong Work Ethic and Research Aptitude:** Ability to work independently and collaboratively on challenging research projects.
-  * **Fluency in English:** Effective communication is essential for our global research collaborations. (Reading and writing skills are highly recommended.)
-  * **Computer Science and Artificial Intelligence Fundamentals:** A strong foundation in these areas is required for success.
-  * **Python Programming Proficiency:** Minimum 3 months of Python programming experience, practical experience with Python is necessary for implementing AI solutions, especially the following libraries/frameworks, such as TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, Numpy.
-  * **AI Project:** Demonstrated experience in at least one AI-related project, with the project code hosted on the GitHub platform (Please provide the Github repository link in your CV). 
-    * The project can be simple but needs complete implementation, using either TensorFlow or PyTorch framework. 
-    * The project repository must include a comprehensive README.md file that provides clear instructions to reproduce the results. A document building upon Google Colab or Kaggle environment is recommended to reproduce the project.
+The AI Technology and Application Research Lab is at the forefront of research in speech emotion recognition, active learning, federated learning, reinforcement learning, and computer vision for autonomous driving. We are excited to invite talented students to join our team and contribute to groundbreaking projects. Leveraging our expertise in these dynamic fields, we are confident in our ability to produce impactful research together.
+
+- **Requirements**
+  - **Passion for AI:** Demonstrated enthusiasm for artificial intelligence and its applications.
+  - **Strong Work Ethic and Research Aptitude:** Ability to work independently and collaboratively on challenging research projects.
+  - **Fluency in English:** Effective communication is essential for our global research collaborations. (Reading and writing skills are highly recommended.)
+  - **Computer Science and Artificial Intelligence Fundamentals:** A strong foundation in these areas is required for success.
+  - **Python Programming Proficiency:** Minimum 3 months of Python programming experience, practical experience with Python is necessary for implementing AI solutions, especially the following libraries/frameworks, such as TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, Numpy.
+  - **AI Project:** Demonstrated experience in at least one AI-related project, with the project code hosted on the GitHub platform (Please provide the Github repository link in your CV). 
+    - The project can be simple but needs complete implementation, using either TensorFlow or PyTorch framework. 
+    - The project repository must include a comprehensive README.md file that provides clear instructions to reproduce the results. A document building upon Google Colab or Kaggle environment is recommended to reproduce the project.
 
 If you are passionate about AI and eager to shape the future, we encourage you to apply. Please submit your CV to [![E-mail](https://img.shields.io/badge/Official-aita.fptu@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:aita.fptu@gmail.com) to initiate the application process. We offer both online and offline interview options to accommodate your preferences.
 
