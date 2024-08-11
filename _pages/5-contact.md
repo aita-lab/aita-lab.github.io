@@ -23,9 +23,17 @@ The AI Technology and Application Research Lab is at the forefront of research i
     - The project can be simple but needs complete implementation, using either TensorFlow or PyTorch framework. 
     - The project repository must include a comprehensive README.md file that provides clear instructions to reproduce the results. A document building upon Google Colab or Kaggle environment is recommended to reproduce the project.
 
-If you are passionate about AI and eager to shape the future, we encourage you to apply. Please submit your CV to [![E-mail](https://img.shields.io/badge/Official-aita.fptu@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:aita.fptu@gmail.com) to initiate the application process. We offer both online and offline interview options to accommodate your preferences.
+**Benefits**
+- Work on exciting research projects
+- Collaborate with leading researchers
+- Gain invaluable hands-on experience
 
-Our current research topics:
+If you are passionate about AI and eager to shape the future, we encourage you to apply. 
+
+**Application Process**
+Please submit your CV and [Research Proposal](https://docs.google.com/document/d/1X-MyIiIQpk4pushdNp4Rd7B2VOAoYzoP/edit?usp=sharing&ouid=109796817642495029141&rtpof=true&sd=true) to [![E-mail](https://img.shields.io/badge/Official-aita.fptu@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:aita.fptu@gmail.com) to initiate the application process. We offer both online and offline interview options to accommodate your preferences.
+
+**Our current research topics**
 - Active learning, human-in-the-loop deep learning
 - Split learning, Federated learning, Incremental learning
 - Signal processing
@@ -33,7 +41,7 @@ Our current research topics:
 - Artificial Intelligence Application in Natural language processing and Computer vision
 
 
-By joining our team, you will have the opportunity to work on exciting projects, collaborate with leading researchers, and gain invaluable experience.
+**Join our team and be a part of the future of AI!**
 
 <!-- #### International Applicants -->
 
@@ -62,20 +70,21 @@ Recommended skills for the applicants are as follows;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
 [![neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=FFFFFF)](https://neo4j.com/) -->
 
-<!-- ***
-### Addresses -->
+***
+### Addresses
+Room LB23, FPT University, Ho Chi Minh Campus, D1 Street, Saigon Hi-tech Park, Long Thanh My Ward, Thu Duc City, Ho Chi Minh City, 71216
 
-<!-- <div class="gmap">
-  <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d791.4723252778355!2d126.80200158589973!3d37.48693857838225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b62c22341bd79%3A0x13730f14a1fc72e!2z6rCA7Yao66at64yA7ZWZ6rWQIOyEseyLrOq1kOyglQ!5e0!3m2!1sko!2skr!4v1651584191104!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+<div class="gmap">
+  <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.6099415304902!2d106.80730807475395!3d10.841132857997405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752731176b07b1%3A0xb752b24b379bae5e!2sFPT%20University%20HCMC!5e0!3m2!1sen!2s!4v1723195580351!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 </div>
-<br>
+<!-- <br>
 <p align="center"><a href="https://www.catholic.ac.kr/www/about52_1.html"><img align="center" src="/images/CampusMap.png" style="width : 100%"></a></p>
 
 * Songsim (*Sacred Heart* in Korean) Global Campus, The Catholic University of Korea, <br>43, Jibong-ro, Bucheon, Gyeonggi-do 14662, Republic of Korea
   * [![Map](https://img.shields.io/badge/Director-Michael%20Hall%20T404-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/2W2nVL7KKWWMnWq89)
   * [![Map](https://img.shields.io/badge/Lab%20%231-Sophie%20Barat%20Hall%20B348-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/QN3KLhGJC1RYcnNH6)
   * [![Map](https://img.shields.io/badge/Lab%20%232-Sophie%20Barat%20Hall%20B349-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/QN3KLhGJC1RYcnNH6)
-* 경기도 부천시 지봉로 43 가톨릭대학교 성심교정 소피이바라관(B관) 첨단학과클러스터 B348호 네트워크과학연구실 -->
+* 경기도 부천시 지봉로 43 가톨릭대학교 성심교정 소피이바라관(B관) 첨단학과클러스터 B348호 네트워크과학연구실  -->
 
 ***
 ### E-mail Addresses

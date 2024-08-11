@@ -128,7 +128,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
-###### <a href="/member/ptduc" target="_blank">Duc Tai Phan</a> (Sep 2023-- Present)
+###### <a href="/member/ptduc" target="_blank">Duc Tai Phan</a> (Sep 2023 -- Present)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ptduc/avatar.jpg"/></td>  
