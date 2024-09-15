@@ -72,17 +72,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
-###### <a href="/member/pmkhanh" target="_blank">Minh Khanh Phan</a> (Dec 2022 -- Present)
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/pmkhanh/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
-            <li><a href="https://orcid.org/0009-0003-1281-5346"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
 ###### <a href="/member/ltthuy" target="_blank">Thu Thuy Le</a> (Dec 2022 -- Present)
 <table border="0">  
 	<tr valign="top">
