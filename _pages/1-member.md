@@ -106,17 +106,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
-###### <a href="/member/lttha" target="_blank">Tha Thanh Le</a> (Dec 2022 -- Present)
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/lttha/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
-            <li><a href="https://profile.hknight.dev/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
 ###### <a href="/member/ptduc" target="_blank">Duc Tai Phan</a> (Sep 2023 -- Present)
 <table border="0">  
 	<tr valign="top">
