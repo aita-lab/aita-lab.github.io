@@ -19,6 +19,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, Duc Ngoc Minh Dang, "SwinTExCo: Exemplar-based Video Colorization using Swin Transformer", Expert Systems with Applications, 2024, DOI: 10.1016/j.eswa.2024.125437
+
 * Tran Anh Khoa, Trac Nguyen Dang, Tinh Vo Phuc, Nam Nguyen Hoang, Duc Ngoc Minh Dang, Son Hoang Hai and Lam Pham Duc, "Safety Is Our Friend: A Federated Learning Framework Toward Driver’s State and Behavior Detection", IEEE Transactions on Computational Social Systems, 2023, DOI: 10.1109/TCSS.2023.3273727
 
 * Nhat Truong Pham, Duc Ngoc Minh Dang, N. D., Nguyen, T. T., Nguyen, H., Manavalan, B., Lim, C. P., & Nguyen, S. D. "Hybrid data augmentation and deep attention-based dilated convolutional-recurrent neural networks for speech emotion recognition". Expert Systems with Applications, 2023. DOI: j.eswa.2023.120608

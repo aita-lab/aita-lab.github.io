@@ -79,6 +79,10 @@ Awards & Grants
 Journal Publications
 ============
 
+* Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, Duc Ngoc Minh Dang, "SwinTExCo: Exemplar-based Video Colorization using Swin Transformer", Expert Systems with Applications, 2024, DOI: 10.1016/j.eswa.2024.125437
+
+* Duc Ngoc Minh Dang, "Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol", Advances in Electrical and Electronic Engineering, 2024
+
 * Hoang Hai Son, Vo Phuc Tinh, Duc Ngoc Minh Dang, Bui Thi Duyen, Duy-Dong Le, Thai-Thinh Dang, Quoc-Hung Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Tran Anh Khoa & Nguyen Hoang Nam, "A novel solution for energy-saving and lifetime-maximizing of LoRa wireless mesh networks", Journal of Information and Telecommunication, 2023, DOI: 10.1080/24751839.2023.2235114
 
 * Tran Anh Khoa, Trac Nguyen Dang,Tinh Vo Phuc, Nam Nguyen Hoang, Duc Ngoc Minh Dang, Son Hoang Hai and Lam Pham Duc, "Safety Is Our Friend: A Federated Learning Framework Toward Driver’s State and Behavior Detection", IEEE Transactions on Computational Social Systems, 2023, DOI: 10.1109/TCSS.2023.3273727
