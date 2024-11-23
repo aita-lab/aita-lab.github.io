@@ -31,7 +31,8 @@ The AI Technology and Application Research Lab is at the forefront of research i
 If you are passionate about AI and eager to shape the future, we encourage you to apply. 
 
 **Application Process**
-Please submit your CV and [Research Proposal](https://docs.google.com/document/d/1X-MyIiIQpk4pushdNp4Rd7B2VOAoYzoP/edit?usp=sharing&ouid=109796817642495029141&rtpof=true&sd=true) to [![E-mail](https://img.shields.io/badge/Official-aita.fptu@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:aita.fptu@gmail.com) to initiate the application process. We offer both online and offline interview options to accommodate your preferences.
+<!-- [Research Proposal](https://docs.google.com/document/d/1X-MyIiIQpk4pushdNp4Rd7B2VOAoYzoP/edit?usp=sharing&ouid=109796817642495029141&rtpof=true&sd=true) -->
+Please submit your CV to [![E-mail](https://img.shields.io/badge/Official-aita.fptu@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:aita.fptu@gmail.com) to initiate the application process. We offer both online and offline interview options to accommodate your preferences.
 
 **Our current research topics**
 - Active learning, human-in-the-loop deep learning

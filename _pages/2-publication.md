@@ -52,7 +52,7 @@ toc_label: "Table of Contents"
 
 * Nhat Truong Pham, Le Thi Phan, Duc Ngoc Minh Dang, and Balachandran Manavalan, “SER-Fuse: An Emotion Recognition Application Utilizing Multi-Modal, Multi-Lingual, and Multi-Feature Fusion”, The 12th International Symposium on Information and Communication Technology (SoICT 2023), Ho Chi Minh City, Vietnam, Dec 7-8, 2023
 
-* Duong Thanh Tran, Hieu-Nguyen Nguyen-Doan, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Duc Ngoc Minh Dang, “Vitexco: Exemplar-based Video Colorization using Vision Transformer”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
+* Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Duc Ngoc Minh Dang, “Vitexco: Exemplar-based Video Colorization using Vision Transformer”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
 
 * Duc-Hieu Hoang, Duc Ngoc Minh Dang, Hanh Dang-Ngoc, Anh-Khoa Tran, Phuong-Nam Tran, Cuong Tuan Nguyen, “RBBA: ResNet - BERT - Bahdanau Attention for Image Caption Generator”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
 
