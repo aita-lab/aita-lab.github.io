@@ -18,6 +18,9 @@ toc_label: "Table of Contents"
 # Journal Publications
 
 ***
+* Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, Tran Anh Khoa, "CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients", IEEE Access, 2024
+
+* Duc Ngoc Minh Dang, "Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol", Advances in Electrical and Electronic Engineering, 2024
 
 * Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, Duc Ngoc Minh Dang, "SwinTExCo: Exemplar-based Video Colorization using Swin Transformer", Expert Systems with Applications, 2024, DOI: 10.1016/j.eswa.2024.125437
 
