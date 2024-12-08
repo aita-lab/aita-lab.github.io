@@ -18,6 +18,8 @@ toc_label: "Table of Contents"
 # Journal Publications
 
 ***
+
+
 * Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, Tran Anh Khoa, "CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients", IEEE Access, 2024
 
 * Duc Ngoc Minh Dang, "Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol", Advances in Electrical and Electronic Engineering, 2024
@@ -36,6 +38,18 @@ toc_label: "Table of Contents"
 # Conference Proceedings
 
 ***
+* Phuong-Nam Tran, and Duc Ngoc Minh Dang, Eui-Nam Huh and Choong Seon Hong "Additive Angular Margin Loss for Federated Learning in Image Classification", 39th International Conference on Information Networking (ICOIN), Chiang Mai, Thailand, Jan 15-17, 2025
+
+* Duc Tai Phan, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Improving Face Attendance Checking System with Ensemble Learning”, 2024 RIVF International Conference on Computing and Communication Technologies (RIVF), Da Nang, Vietnam, Dec 21-23, 2024
+
+* Nhut Minh Nguyen, Thanh Trung Nguyen, Hua Hiep Nguyen, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Voice-Based Age and Gender Recognition: A Comparative Study of LSTM, RezoNet and Hybrid CNNs-BiLSTM Architecture”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024
+
+* Thu Thuy Le, Nhat Truong Pham, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024
+
+* Phuong-Nam Tran, Nhat Truong Pham, Hai Nam Phan Van, Duc Tai Phan, Tuan Cuong Nguyen and Duc Ngoc Minh Dang, “Towards Real-time Vietnamese Traffic Sign Recognition on Embedded Systems”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024
+
+* Trung Nguyen Minh, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Enhancing Speech Emotion Recognition through Knowledge Distillation”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024* 
+
 * Nam Van Hai Phan, Tha Thanh Le, Tuan Phu Phan, Thuy Thu Le, Phuong-Nam Tran, Nhat Truong Pham and Duc Ngoc Minh Dang, “Deep Learning-Based Automated Cashier System for Bakeries”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
 * Dang Khoa Phan, Phuong-Nam Tran, Nhat Truong Pham, Tra Huong Thi Le and Duc Ngoc Minh Dang, “Innovative Multi-Modal Control for Surveillance Spider Robot: An Integration of Voice and Hand Gesture Recognition”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
