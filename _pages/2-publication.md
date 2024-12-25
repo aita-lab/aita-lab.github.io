@@ -20,17 +20,17 @@ toc_label: "Table of Contents"
 ***
 
 
-* Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, Tran Anh Khoa, "CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients", IEEE Access, 2024
+* Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, Tran Anh Khoa, ["CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients"](https://doi.org/10.1109/ACCESS.2024.3475737), IEEE Access, 2024, DOI: 10.1109/ACCESS.2024.3475737
 
 * Duc Ngoc Minh Dang, "Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol", Advances in Electrical and Electronic Engineering, 2024
 
-* Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, Duc Ngoc Minh Dang, "SwinTExCo: Exemplar-based Video Colorization using Swin Transformer", Expert Systems with Applications, 2024, DOI: 10.1016/j.eswa.2024.125437
+* Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, Duc Ngoc Minh Dang, ["SwinTExCo: Exemplar-based Video Colorization using Swin Transformer"](https://doi.org/10.1016/j.eswa.2024.125437), Expert Systems with Applications, 2024, DOI: 10.1016/j.eswa.2024.125437
 
-* Tran Anh Khoa, Trac Nguyen Dang, Tinh Vo Phuc, Nam Nguyen Hoang, Duc Ngoc Minh Dang, Son Hoang Hai and Lam Pham Duc, "Safety Is Our Friend: A Federated Learning Framework Toward Driver’s State and Behavior Detection", IEEE Transactions on Computational Social Systems, 2023, DOI: 10.1109/TCSS.2023.3273727
+* Tran Anh Khoa, Trac Nguyen Dang, Tinh Vo Phuc, Nam Nguyen Hoang, Duc Ngoc Minh Dang, Son Hoang Hai and Lam Pham Duc, ["Safety Is Our Friend: A Federated Learning Framework Toward Driver’s State and Behavior Detection"](https://doi.org/10.1109/TCSS.2023.3273727), IEEE Transactions on Computational Social Systems, 2023, DOI: 10.1109/TCSS.2023.3273727
 
-* Nhat Truong Pham, Duc Ngoc Minh Dang, N. D., Nguyen, T. T., Nguyen, H., Manavalan, B., Lim, C. P., & Nguyen, S. D. "Hybrid data augmentation and deep attention-based dilated convolutional-recurrent neural networks for speech emotion recognition". Expert Systems with Applications, 2023. DOI: j.eswa.2023.120608
+* Nhat Truong Pham, Duc Ngoc Minh Dang, N. D., Nguyen, T. T., Nguyen, H., Manavalan, B., Lim, C. P., & Nguyen, S. D. ["Hybrid data augmentation and deep attention-based dilated convolutional-recurrent neural networks for speech emotion recognition"](https://doi.org/10.1016/j.eswa.2023.120608). Expert Systems with Applications, 2023. DOI: j.eswa.2023.120608
 
-* Nhat Truong Pham, Sy Dzung Nguyen, Vu Song Thuy Nguyen, Bich Ngoc Hong Pham, and Duc Ngoc Minh Dang “Speech emotion recognition using overlapping sliding window and Shapley additive explainable deep neural network”, Journal of Information and Telecommunication, 2023, DOI: 10.1080/24751839.2023.2187278
+* Nhat Truong Pham, Sy Dzung Nguyen, Vu Song Thuy Nguyen, Bich Ngoc Hong Pham, and Duc Ngoc Minh Dang [“Speech emotion recognition using overlapping sliding window and Shapley additive explainable deep neural network”](https://doi.org/10.1080/24751839.2023.2187278), Journal of Information and Telecommunication, 2023, DOI: 10.1080/24751839.2023.2187278
 
 
 ***
@@ -79,9 +79,6 @@ toc_label: "Table of Contents"
 * Nhat Truong Pham, Duc Ngoc Minh Dang, Bich Ngoc Hong Pham and Sy Dzung Nguyen, "SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings “, 2023: 8th International Conference on Intelligent Information Technology (ICIIT 2023), Da Nang, Vietnam, February 24 - 26, 2023.
 
 * Nhat Truong Pham, Anh-Tuan Tran, Bich Ngoc Hong Pham, Hanh Dang-Ngoc, Sy Dzung Nguyen and Duc Ngoc Minh Dang, "Speech Emotion Recognition: A Brief Review of Multi-modal Multi-task Learning Approaches", The 7th International Conference on Advanced Engineering – Theory and Applications (AETA-2022), Vietnam, Dec 8-10, 2022.
-
-
-
 
 
 ***
