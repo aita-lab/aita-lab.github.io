@@ -117,6 +117,50 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
+###### <a href="/member/nmkhoa" target="_blank">Minh-Khoa Nguyen</a> (Oct 2024 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmkhoa/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Oct 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+            <li><a href="https://github.com/Purin1410" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/lmdat" target="_blank">Dat Le Minh</a> (Oct 2024 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/lmdat/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+            <li><a href="https://github.com/mnhdat" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/npkhang" target="_blank">Phuc Khang Nguyen</a> (Oct 2024 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/npkhang/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Oct 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+            <li><a href="https://github.com/Freeftish" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/htanh" target="_blank">Tuan Anh Hoang</a> (Oct 2024 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/htanh/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Oct 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+            <li><a href="https://github.com/anhht9824" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
 ***
 # Alumni
 ***
