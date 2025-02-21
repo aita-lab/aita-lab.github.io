@@ -9,6 +9,7 @@ description: Curriculum vitae of Phan Van Hai Nam
 <!-- [![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](https://dblp.org/pid/291/1059.html)  -->
 <!-- [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en)  -->
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0008-2588-5235) 
+[![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://neeze.github.io/)
 <!-- [![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=58203779900)  -->
 
 <br>

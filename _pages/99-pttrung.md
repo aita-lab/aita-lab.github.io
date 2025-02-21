@@ -30,6 +30,7 @@ Research Experience
 
 Education
 ============
+* Mar 2025 -- Present: Master & Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea
 * Sep 2020 -- Apr 2024: B.Sc degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.
 
 ***

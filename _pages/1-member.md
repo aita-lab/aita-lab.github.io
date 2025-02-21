@@ -57,6 +57,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 		<td><ul>
 			<li>Dec 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>			
             <li><a href="https://orcid.org/0009-0008-2588-5235" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+			<li><a href="https://neeze.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
@@ -218,5 +219,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 
 * Dr. <a href="https://dblp.org/pid/203/1237.html" target="_blank">Anh-Khoa Tran</a>, National Institute of Information and Communications Technology, Tokyo, Japan
 * Dr. <a href="https://ntcuong2103.github.io/" target="_blank">Tuan Cuong Nguyen</a>, Vietnamese - German University, Vietnam
+* Dr. <a href="https://scholar.google.com/citations?hl=en&user=zlYcKiAAAAAJ&hl=en" target="_blank">Linh Le</a>, University of Technology Sydney, NSW, Australia
 * Ph.D.c <a href="https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en" target="_blank">Ngoc-Hanh Dang</a>, University of Technology Sydney, NSW, Australia
 * Ph.D.c <a href="https://nhattruongpham.github.io/" target="_blank">Nhat Truong Pham</a>, Sungkyunkwan University, Suwon, Korea
