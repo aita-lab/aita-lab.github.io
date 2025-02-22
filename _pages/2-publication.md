@@ -48,7 +48,7 @@ toc_label: "Table of Contents"
 
 * Phuong-Nam Tran, Nhat Truong Pham, Hai Nam Phan Van, Duc Tai Phan, Tuan Cuong Nguyen and Duc Ngoc Minh Dang, “Towards Real-time Vietnamese Traffic Sign Recognition on Embedded Systems”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024
 
-* Trung Nguyen Minh, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Enhancing Speech Emotion Recognition through Knowledge Distillation”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024* 
+* Trung Nguyen Minh, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Enhancing Speech Emotion Recognition through Knowledge Distillation”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024
 
 * Nam Van Hai Phan, Tha Thanh Le, Tuan Phu Phan, Thuy Thu Le, Phuong-Nam Tran, Nhat Truong Pham and Duc Ngoc Minh Dang, “Deep Learning-Based Automated Cashier System for Bakeries”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
