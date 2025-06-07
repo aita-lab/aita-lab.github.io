@@ -19,7 +19,6 @@ toc_label: "Table of Contents"
 
 ***
 
-
 * Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, Tran Anh Khoa, ["CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients"](https://doi.org/10.1109/ACCESS.2024.3475737), IEEE Access, 2024, DOI: 10.1109/ACCESS.2024.3475737
 
 * Duc Ngoc Minh Dang, "Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol", Advances in Electrical and Electronic Engineering, 2024
