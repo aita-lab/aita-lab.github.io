@@ -11,9 +11,17 @@ toc_label: "Table of Contents"
 
 <!-- <iframe width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQY0Maid5vAr0wRb5jCxF0fiRA3iGJahurbpAj-g6zDlo8L2xL_IVbwKzMPLMUTDFQJYyR636vIdkvA/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->
 
-<iframe overflow="hidden" scrolling="no" frameBorder="0" width="100%" style="overflow:hidden;border:0;" border="0" height="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQY0Maid5vAr0wRb5jCxF0fiRA3iGJahurbpAj-g6zDlo8L2xL_IVbwKzMPLMUTDFQJYyR636vIdkvA/pubhtml?range=A1:E15;widget=false&amp;headers=false&amp;chrome=false&amp;rm=minimal;frameborder=0"></iframe>
+<iframe 
+  width="100%" 
+  height="600px" 
+  style="border: none; overflow: hidden;" 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQY0Maid5vAr0wRb5jCxF0fiRA3iGJahurbpAj-g6zDlo8L2xL_IVbwKzMPLMUTDFQJYyR636vIdkvA/pubhtml?widget=false&headers=false&chrome=false&rm=minimal" 
+  title="EAiTA Weekly Seminar" 
+  loading="lazy">
+  <p>View the spreadsheet <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQY0Maid5vAr0wRb5jCxF0fiRA3iGJahurbpAj-g6zDlo8L2xL_IVbwKzMPLMUTDFQJYyR636vIdkvA/pubhtml">here</a>.</p>
+</iframe>
 
-<!-- ![image](https://github.com/AiTa-Lab/AiTa-Lab.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4)
+Seminar participants gathered in a well-lit conference room, seated around a large table and attentively listening to a presenter at the front. The presenter gestures toward a projected slide displaying a research paper title and key points. Laptops and notebooks are open on the table, indicating active engagement and note-taking. The atmosphere is focused and collaborative, with participants exchanging ideas and discussing artificial intelligence research. The room features large windows with natural light and academic posters on the walls. The projected slide reads AiTA Weekly Seminar and includes the subtitle Archive of papers reviewed by members of the AI Technology and Application Research Lab at FPT University as part of the AiTA Weekly Seminar series.
 
 
 
