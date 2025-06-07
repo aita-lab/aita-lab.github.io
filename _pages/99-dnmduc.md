@@ -275,7 +275,7 @@ Advisor
 
 Master students
 
-* Ngueyn Cuong Truc, "Extraction and Storage of Information from Value-Added Tax Invoices", FPT University, 2025
+* Nguyen Cuong Truc, "Extraction and Storage of Information from Value-Added Tax Invoices", FPT University, 2025
 
 * Le Hoang Hiep, "Real-Time Abnormal Object Detection in Surveillance Cameras", FPT University, 2025
 
@@ -370,6 +370,7 @@ Peer Review
 * Computer Communications
 * Vehicular Communications
 * China Communications
+* Speech Communications
 
 
 ***

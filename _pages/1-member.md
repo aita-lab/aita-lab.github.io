@@ -208,6 +208,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/pttrung/avatar.jpg"/></td>  
 		<td><ul>
+			<li>Mar 2025 -- Present: Master & Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
             <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li><a href="https://github.com/KevinRoller" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
@@ -219,6 +220,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 
 * Dr. <a href="https://dblp.org/pid/203/1237.html" target="_blank">Anh-Khoa Tran</a>, National Institute of Information and Communications Technology, Tokyo, Japan
 * Dr. <a href="https://ntcuong2103.github.io/" target="_blank">Tuan Cuong Nguyen</a>, Vietnamese - German University, Vietnam
-* Dr. <a href="https://scholar.google.com/citations?hl=en&user=zlYcKiAAAAAJ&hl=en" target="_blank">Linh Le</a>, University of Technology Sydney, NSW, Australia
+* Dr. <a href="https://scholar.google.com/citations?hl=en&user=zlYcKiAAAAAJ&hl=en" target="_blank">Thai Linh Le</a>, [Mila Institute](https://mila.quebec/en), Canada
 * Ph.D.c <a href="https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en" target="_blank">Ngoc-Hanh Dang</a>, University of Technology Sydney, NSW, Australia
 * Ph.D.c <a href="https://nhattruongpham.github.io/" target="_blank">Nhat Truong Pham</a>, Sungkyunkwan University, Suwon, Korea
