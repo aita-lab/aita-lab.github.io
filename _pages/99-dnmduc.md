@@ -260,9 +260,22 @@ Patents
 * O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR 1020140027865, Year: 03/2014 -->
 
 Patents registered in Korea under name “당넉민덕”:
-* 0-1533192, 2015.06.25
-* 10-1526121, 2015.05.29
-* 10-1436699, 2014.08.26
+
+* Title: 하이브리드 타입의 802.11 표준의 멀티 채널 매체 접속 제어 프로토콜 (Hybrid Type Multi-channel Media Access Control Protocol for 802.11)
+Registration Number: 10-1436699 
+Registration Date: August 26, 2014
+Inventors: 홍충선,당넉민덕 (Choong Seon Hong, Dang Ngoc Minh Duc)
+DOI: https://doi.org/10.8080/1020120150632 
+* Title: 패킷 송수신 장치 및 그 방법 (Method and Apparatus for Transmitting and Receiving Packet)
+Registration Number: 10-1526121
+Registration Date: May 29, 2015
+Inventors: 홍충선,당넉민덕,반둥니엔 (Choong Seon Hong, Dang Ngoc Minh Duc, Nguyen Van Dung)
+DOI: https://doi.org/10.8080/1020140077282 
+* Title: 상세정보 닫기 차량 통신 네트워크의 패킷 송신 방법 (Method for Transmitting Packet in Vehicle Communication Network)
+Registration Number: 10-1533192
+Registration Date: June 25, 2015
+Inventors: 홍충선,당넉민덕,반둥니엔 (Choong Seon Hong, Dang Ngoc Minh Duc, Nguyen Van Dung)
+DOI: https://doi.org/10.8080/1020140048639 
 
 
 ***
@@ -311,6 +324,8 @@ Editorship
 Conference Committee
 ------------
 
+* Technical Program Committee Member, 2025 International Conference on Advanced Technologies for Communications (ATC)
+* Technical Program Committee Member, 2025 FPT International Conference on Emerging Trends in Computing (FETC)
 * General Chair, 2024 9th International Conference on Intelligent Information Technology (ICIIT 2024), Ho Chi Minh City, Vietnam
 * Technical Program Committee Member, 2024 RIVF International Conference on Computing and Communication Technologies (RIVF), Da Nang, Vietnam
 * Technical Program Committee Member, 2024 3rd International Conference on Intelligence of Things (ICIT), Da Nang, Vietnam
@@ -352,25 +367,32 @@ Peer Review
 
 <!-- * Reviewer, Computers, since Sep 2020
 * Reviewer, PeerJ Computer Science, since Mar 2016 -->
-* Journal of Information and Telecommunication
+* Biomedical Signal Processing and Control
+* China Communications
+* Computer Communications
+* Computer Methods in Biomechanics and Biomedical Engineering
 * Expert Systems with Applications
-* IEEE Communications Letters
-* IEEE Wireless Communications Letters
-* IEEE Transactions on Wireless Communications
-* IEEE Transactions on Vehicular Technology
-* IEEE Transactions on Intelligent Transportation Systems 
-* IEEE Transactions on Microwave Theory and Techniques
-* IEEE Transactions on Cognitive Communications and Networking
-* IEEE Sensors Journal
+* Future Generation Computer Systems
 * IEEE Access
+* IEEE Communications Letters
+* IEEE Internet of Things Journal
+* IEEE Sensors Journal
+* IEEE Transactions on Cognitive Communications and Networking
+* IEEE Transactions on Industrial Informatics
+* IEEE Transactions on Intelligent Transportation Systems
+* IEEE Transactions on Microwave Theory and Techniques
+* IEEE Transactions on Vehicular Technology
+* IEEE Transactions on Wireless Communications
+* IEEE Wireless Communications Letters
 * IET Communications
 * IET Networks
-* Future Generation Computer Systems (Elsevier)
-* Pervasive and Mobile Computing (Elsevier)
-* Computer Communications
-* Vehicular Communications
-* China Communications
+* International Journal of Communication Systems
+* International Journal of Parallel, Emergent and Distributed Systems
+* Journal of Information and Telecommunication
+* Microprocessors and Microsystems
+* Pervasive and Mobile Computing
 * Speech Communications
+* Vehicular Communications
 
 
 ***
@@ -383,7 +405,7 @@ Principal Investigator
 
 * Real-time traffic sign detection and recognition in Vietnam, DHFPT/2023/10, Jul 2023 - Jul 2024
 
-Co-Principal Investigator
+<!-- Co-Principal Investigator
 ------------
 
 * 
@@ -393,4 +415,4 @@ Participant
 
 * 
 
-
+ -->
