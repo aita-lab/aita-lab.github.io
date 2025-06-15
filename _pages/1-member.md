@@ -46,6 +46,32 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
+
+###### Do Duc Hao
+
+<table border="0">  
+	<tr valign="top">
+		<td><ul>
+			<li>2019 - 2025: PhD in Computer Science, University of Science, Viet Nam National University Ho Chi Minh City</li>
+			<li>2015 - 2018: M.Sc in Computer Science, University of Science, Viet Nam National University Ho Chi Minh City</li>
+			<li>2011 - 2015: B.Sc in Information Technology, University of Science, Viet Nam National University Ho Chi Minh City</li>	
+			<li><a href="https://orcid.org/0000-0002-9014-1506" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>			
+		</ul></td>
+	</tr>
+</table>
+
+###### Pham Minh Tri
+
+<table border="0">  
+	<tr valign="top">
+		<td><ul>
+			<!-- <li>2015 - 2018: M.Sc in Computer Science, University of Science, Viet Nam National University Ho Chi Minh City</li>
+			<li>2011 - 2015: B.Sc in Information Technology, University of Science, Viet Nam National University Ho Chi Minh City</li>		 -->
+			<li><a href="https://orcid.org/0009-0006-4256-6530" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>			
+		</ul></td>
+	</tr>
+</table>
+
 ***
 # Undergraduate Research Assistants
 ***
@@ -162,6 +188,18 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
+###### <a href="/member/tntri" target="_blank">Thai Nguyen Tri</a> (Jun 2025 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/tntri/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Jun 2025 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+            <li><a href="https://github.com/saudade2210" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+			<li><a href="https://orcid.org/0009-0003-1353-5899" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>	
+		</ul></td>
+	</tr>
+</table>
+
 ***
 # Alumni
 ***
@@ -221,5 +259,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 * Dr. <a href="https://dblp.org/pid/203/1237.html" target="_blank">Anh-Khoa Tran</a>, National Institute of Information and Communications Technology, Tokyo, Japan
 * Dr. <a href="https://ntcuong2103.github.io/" target="_blank">Tuan Cuong Nguyen</a>, Vietnamese - German University, Vietnam
 * Dr. <a href="https://scholar.google.com/citations?hl=en&user=zlYcKiAAAAAJ&hl=en" target="_blank">Thai Linh Le</a>, [Mila Institute](https://mila.quebec/en), Canada
+* Dr. <a href="https://luongvuongnguyen.github.io/" target="_blank">Luong Vuong Nguyen</a>, FPT University, Da Nang campus, Vietnam
 * Ph.D.c <a href="https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en" target="_blank">Ngoc-Hanh Dang</a>, University of Technology Sydney, NSW, Australia
 * Ph.D.c <a href="https://nhattruongpham.github.io/" target="_blank">Nhat Truong Pham</a>, Sungkyunkwan University, Suwon, Korea

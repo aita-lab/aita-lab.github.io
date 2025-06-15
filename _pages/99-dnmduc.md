@@ -261,21 +261,22 @@ Patents
 
 Patents registered in Korea under name “당넉민덕”:
 
-* Title: 하이브리드 타입의 802.11 표준의 멀티 채널 매체 접속 제어 프로토콜 (Hybrid Type Multi-channel Media Access Control Protocol for 802.11)
-Registration Number: 10-1436699 
-Registration Date: August 26, 2014
-Inventors: 홍충선,당넉민덕 (Choong Seon Hong, Dang Ngoc Minh Duc)
+* Title: 하이브리드 타입의 802.11 표준의 멀티 채널 매체 접속 제어 프로토콜 (Hybrid Type Multi-channel 
+Media Access Control Protocol for 802.11)  <br> 
+Registration Number: 10-1436699  <br>
+Registration Date: August 26, 2014  <br>
+Inventors: 홍충선,당넉민덕 (Choong Seon Hong, Dang Ngoc Minh Duc)  <br>
 DOI: https://doi.org/10.8080/1020120150632 
-* Title: 패킷 송수신 장치 및 그 방법 (Method and Apparatus for Transmitting and Receiving Packet)
-Registration Number: 10-1526121
-Registration Date: May 29, 2015
-Inventors: 홍충선,당넉민덕,반둥니엔 (Choong Seon Hong, Dang Ngoc Minh Duc, Nguyen Van Dung)
-DOI: https://doi.org/10.8080/1020140077282 
-* Title: 상세정보 닫기 차량 통신 네트워크의 패킷 송신 방법 (Method for Transmitting Packet in Vehicle Communication Network)
-Registration Number: 10-1533192
-Registration Date: June 25, 2015
-Inventors: 홍충선,당넉민덕,반둥니엔 (Choong Seon Hong, Dang Ngoc Minh Duc, Nguyen Van Dung)
-DOI: https://doi.org/10.8080/1020140048639 
+* Title: 패킷 송수신 장치 및 그 방법 (Method and Apparatus for Transmitting and Receiving Packet)  <br>
+Registration Number: 10-1526121  <br>
+Registration Date: May 29, 2015  <br>
+Inventors: 홍충선,당넉민덕,반둥니엔 (Choong Seon Hong, Dang Ngoc Minh Duc, Nguyen Van Dung)  <br>
+DOI: https://doi.org/10.8080/1020140077282  <br>
+* Title: 차량 통신 네트워크의 패킷 송신 방법 (Method for Transmitting Packet in Vehicle Communication Network)  <br>
+Registration Number: 10-1533192  <br>
+Registration Date: June 25, 2015  <br>
+Inventors: 홍충선,당넉민덕,반둥니엔 (Choong Seon Hong, Dang Ngoc Minh Duc, Nguyen Van Dung)  <br>
+DOI: https://doi.org/10.8080/1020140048639  <br>
 
 
 ***
@@ -324,13 +325,14 @@ Editorship
 Conference Committee
 ------------
 
+* Technical Program Committee Member, 2025 RIVF International Conference on Computing and Communication Technologies (RIVF), Ho Chi Minh City, Vietnam
 * Technical Program Committee Member, 2025 International Conference on Advanced Technologies for Communications (ATC)
 * Technical Program Committee Member, 2025 FPT International Conference on Emerging Trends in Computing (FETC)
 * General Chair, 2024 9th International Conference on Intelligent Information Technology (ICIIT 2024), Ho Chi Minh City, Vietnam
 * Technical Program Committee Member, 2024 RIVF International Conference on Computing and Communication Technologies (RIVF), Da Nang, Vietnam
 * Technical Program Committee Member, 2024 3rd International Conference on Intelligence of Things (ICIT), Da Nang, Vietnam
 * Technical Program Committee Member, The 3rd International Conference on Intelligence of Things 2024
-* Technical Program Committee Member, 2023 RIVF International Conference on Computing and Communication Technologies (RIVF)
+* Technical Program Committee Member, 2023 RIVF International Conference on Computing and Communication Technologies (RIVF), Vietnam
 * Technical Program Committee Member, 2023 International Symposium on Electrical and Electronics Engineering (ISEE)
 * Technical Program Committee Member, 2023 International Conference on Advanced Technologies for Communications (ATC)
 * Technical Program Committee Member, 2022 RIVF International Conference on Computing and Communication Technologies (RIVF)
