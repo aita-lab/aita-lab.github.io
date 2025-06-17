@@ -266,17 +266,17 @@ Media Access Control Protocol for 802.11)  <br>
 Registration Number: 10-1436699  <br>
 Registration Date: August 26, 2014  <br>
 Inventors: 홍충선,당넉민덕 (Choong Seon Hong, Dang Ngoc Minh Duc)  <br>
-DOI: https://doi.org/10.8080/1020120150632 
+DOI: [https://doi.org/10.8080/1020120150632](https://doi.org/10.8080/1020120150632) 
 * Title: 패킷 송수신 장치 및 그 방법 (Method and Apparatus for Transmitting and Receiving Packet)  <br>
 Registration Number: 10-1526121  <br>
 Registration Date: May 29, 2015  <br>
 Inventors: 홍충선,당넉민덕,반둥니엔 (Choong Seon Hong, Dang Ngoc Minh Duc, Nguyen Van Dung)  <br>
-DOI: https://doi.org/10.8080/1020140077282  <br>
+DOI: [https://doi.org/10.8080/1020140077282](https://doi.org/10.8080/1020140077282)  <br>
 * Title: 차량 통신 네트워크의 패킷 송신 방법 (Method for Transmitting Packet in Vehicle Communication Network)  <br>
 Registration Number: 10-1533192  <br>
 Registration Date: June 25, 2015  <br>
 Inventors: 홍충선,당넉민덕,반둥니엔 (Choong Seon Hong, Dang Ngoc Minh Duc, Nguyen Van Dung)  <br>
-DOI: https://doi.org/10.8080/1020140048639  <br>
+DOI: [https://doi.org/10.8080/1020140048639](https://doi.org/10.8080/1020140048639)  <br>
 
 
 ***
@@ -307,14 +307,14 @@ Master students
 
 * <a href="https://scholar.google.com/citations?user=_TR3TQwAAAAJ&hl=en" target="_blank">Ngo Tu Quynh</a>, "A Dynamic Cooperative MAC Protocol for Vehicular Ad-hoc Networks", Ho Chi Minh City University of Science, 2016 
 
-Membership
-------------
+<!-- Membership
+------------ -->
 
 <!-- * [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci), 상임이사, since Jan 2023
 * [한국차세대컴퓨팅학회](http://www.kingpc.or.kr/wp/), 이사, since Jan 2023 -->
 
-Editorship
-------------
+<!-- Editorship
+------------ -->
 
 <!-- * Guest Editor, Applied Sciences, Special Issue on "[Machine Learning and Artificial Intelligence for Human Information Analysis](https://www.mdpi.com/journal/applsci/special_issues/9E6QLH63AE)."
 * [Academic Editor, Plos One](https://journals.plos.org/plosone/static/editorial-board), since Dec 2022

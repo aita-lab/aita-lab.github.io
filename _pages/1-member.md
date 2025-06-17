@@ -24,6 +24,15 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 * 2008 -- 2011: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
 * 2008 -- 2011: Head of Laboratory, Faculty of Electrical and Electronics Engineering, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam 
 * 2005 -- 2008: Senior Telecom Engineer - Team Leader, Japanese customer Project, TMA Solutions Company, Vietnam
+<br>
+
+[![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://dnmduc.github.io/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](http://orcid.org/0000-0001-9302-3129) 
+[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=2UKP440AAAAJ) 
+[![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57185132600) 
+[![WOS](https://img.shields.io/badge/Web%20of%20Science-black?style=flat-square&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/K-6970-2014) 
+[![Researchgate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Duc-Dang-6) 
+
 
 ***
 # Researchers
@@ -35,7 +44,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Researchers/tpnam/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2024 -- Present: Master & Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
+			<li>Sep 2024 -- Present: Master & Ph.D. program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
 			<li>Dec 2021 -- Jun 2023: Part-time Researcher at Pythera AI, Ho Chi Minh City, Vietnam</li>
 			<li>Aug 2021 -- Oct 2023: Full-time AI Engineering at K&G Technology, Ho Chi Minh City, Vietnam</li>
             <li>Sep 2019 -- Mar 2023: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
@@ -47,12 +56,13 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 </table>
 
 
-###### Do Duc Hao
+###### Do Duc Hao, Ph.D.
 
 <table border="0">  
 	<tr valign="top">
+		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Researchers/ddhao/avatar.png"/></td>  
 		<td><ul>
-			<li>2019 - 2025: PhD in Computer Science, University of Science, Viet Nam National University Ho Chi Minh City</li>
+			<li>2019 - 2025: Ph.D. in Computer Science, University of Science, Viet Nam National University Ho Chi Minh City</li>
 			<li>2015 - 2018: M.Sc in Computer Science, University of Science, Viet Nam National University Ho Chi Minh City</li>
 			<li>2011 - 2015: B.Sc in Information Technology, University of Science, Viet Nam National University Ho Chi Minh City</li>	
 			<li><a href="https://orcid.org/0000-0002-9014-1506" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>			
@@ -60,14 +70,16 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
-###### Pham Minh Tri
+###### Pham Minh Tri, M.Sc
 
 <table border="0">  
 	<tr valign="top">
 		<td><ul>
-			<!-- <li>2015 - 2018: M.Sc in Computer Science, University of Science, Viet Nam National University Ho Chi Minh City</li>
-			<li>2011 - 2015: B.Sc in Information Technology, University of Science, Viet Nam National University Ho Chi Minh City</li>		 -->
+			<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Researchers/pmtri/avatar.png"/></td>
+			<li>2017 - 2020: M.Sc in Computer Science, University of Technology, Vietnam National University Ho Chi Minh City</li>
+			<!-- <li>2011 - 2015: B.Sc in Information Technology, University of Science, Viet Nam National University Ho Chi Minh City</li>		 -->
 			<li><a href="https://orcid.org/0009-0006-4256-6530" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>			
+			<li><a href="https://scholar.google.com/citations?hl=vi&authuser=1&user=f1LXlW8AAAAJ" target="_blank"><img src="(https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
 </table>
@@ -138,7 +150,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ptduc/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2023 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Jan 2024 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
             <li><a href="https://taiduc1001.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
@@ -171,7 +183,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/npkhang/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Oct 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
             <li><a href="https://github.com/Freeftish" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
@@ -182,22 +194,47 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/htanh/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Oct 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
             <li><a href="https://github.com/anhht9824" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
 </table>
 
-###### <a href="/member/tntri" target="_blank">Thai Nguyen Tri</a> (Jun 2025 -- Present)
+###### <a href="/member/tntri" target="_blank">Tri Nguyen Thai</a> (Jun 2025 -- Present)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/tntri/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Jun 2025 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
             <li><a href="https://github.com/saudade2210" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 			<li><a href="https://orcid.org/0009-0003-1353-5899" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>	
 		</ul></td>
 	</tr>
+</table>
+
+###### <a href="/member/dtdkhoa" target="_blank">Dang Khoa Tran Do</a> (Jun 2025 -- Present)
+<table border="0">  
+	<tr valign="top">
+###### <a href="/member/dtdkhoa" target="_blank">Dang Khoa Tran Do</a> (Jun 2025 -- Present)
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/dtdkhoa/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Jan 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+            <li><a href="https://dangkhoaai.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+			<li><a href="https://orcid.org/0009-0008-3166-384X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>	
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/hqnhan" target="_blank">Nhan Hoang Quang</a> (Jun 2025 -- Present)
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/hqnhan/avatar.jpg"/></td>  
+        <td><ul>
+            <li>Jan 2025 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>
+            <li><a href="https://github.com/blackfox20092006" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0003-1597-6890" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
 </table>
 
 ***
@@ -220,7 +257,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/ndhieunguyen/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2024 -- Present: Master & Ph.D program, Dept. of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, Republic of Korea</li>
+			<li>Sep 2024 -- Present: Master & Ph.D. program, Dept. of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, Republic of Korea</li>
             <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li><a href="https://github.com/ndhieunguyen" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 			<li><a href="https://ndhieunguyen.github.io" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
@@ -233,7 +270,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/ttduong/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2024 -- Present: Master & Ph.D program, Dept. of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, Republic of Korea</li>
+			<li>Sep 2024 -- Present: Master & Ph.D. program, Dept. of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, Republic of Korea</li>
             <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li><a href="https://duongttr.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
@@ -246,7 +283,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/pttrung/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Mar 2025 -- Present: Master & Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
+			<li>Mar 2025 -- Present: Master & Ph.D. program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
             <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li><a href="https://github.com/KevinRoller" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
