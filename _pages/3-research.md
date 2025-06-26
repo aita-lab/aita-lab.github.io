@@ -18,7 +18,7 @@ toc_label: "Table of Contents"
 {:toc}
 
 ***
-# Medical image segmentation
+<!-- # Medical image segmentation
 This research proposal aims to explore distributed learning in healthcare by comparing the performance and security of Federated Learning, Split Learning, and SplitFed Learning methods on 3D liver images using the LiTS dataset. The study will focus on applying these distributed learning techniques to segmentation models, particularly those based on U-Net architecture, and evaluate their effectiveness in terms of accuracy, privacy preservation, and communication efficiency. The expected outcomes include theoretical insights, methodological frameworks, and practical applications that could enhance patient data management and expand the use of distributed learning in medical image analysis beyond liver segmentation.
 
 # Speech emotion recognition
@@ -38,4 +38,26 @@ Distributed and Adaptive Machine Learning, including federated learning, split l
 
 
 # Spiking Neural Networks
-Spiking Neural Networks (SNNs) are a type of artificial neural network inspired by the brain's biological neurons, processing information using discrete spikes or events rather than continuous values. Research on SNNs focuses on their energy efficiency, biological plausibility, and ability to handle temporal data, making them suitable for neuromorphic computing and tasks like pattern recognition, sensory processing, and real-time decision-making. Key topics include developing efficient training algorithms, optimizing hardware implementations, and exploring applications in robotics, IoT, and brain-machine interfaces.
+Spiking Neural Networks (SNNs) are a type of artificial neural network inspired by the brain's biological neurons, processing information using discrete spikes or events rather than continuous values. Research on SNNs focuses on their energy efficiency, biological plausibility, and ability to handle temporal data, making them suitable for neuromorphic computing and tasks like pattern recognition, sensory processing, and real-time decision-making. Key topics include developing efficient training algorithms, optimizing hardware implementations, and exploring applications in robotics, IoT, and brain-machine interfaces. -->
+
+
+# Medical Image Segmentation
+This research investigates distributed learning for medical image segmentation, focusing on Federated Learning, Split Learning, and SplitFed Learning applied to 3D liver images from the LiTS dataset. The study will evaluate these methods using U-Net-based segmentation models, comparing their accuracy, privacy protection, and communication efficiency. Expected outcomes include a robust methodological framework, theoretical insights, and practical applications to improve patient data security and extend distributed learning to other medical imaging tasks.
+
+# Speech Emotion Recognition
+This study aims to advance Speech Emotion Recognition (SER) by integrating multi-feature fusion with a Graph-LSTM architecture. By combining acoustic and linguistic features, the research leverages Graph Neural Networks to model complex emotional relationships and Long Short-Term Memory networks to capture temporal patterns. Anticipated outcomes include higher SER accuracy, improved model interpretability, and a richer representation of emotional cues, applicable to real-world human-computer interaction systems.
+
+# Handwritten Mathematical Expressions Recognition
+This research focuses on improving Handwritten Mathematical Expressions (HME) Recognition by enhancing structural analysis. It addresses challenges in interpreting hierarchical and spatial relationships among mathematical symbols using deep learning. Two approaches are proposed: direct feature extraction from images and a two-step process of symbol detection followed by spatial relationship analysis. The study aims to develop a robust model that surpasses existing benchmarks in recognizing complex mathematical structures across diverse handwriting styles.
+
+# Quantum Machine Learning
+Quantum Machine Learning (QML) merges quantum computing with machine learning to tackle complex problems more efficiently than classical approaches. By leveraging quantum properties like superposition and entanglement, QML enhances tasks such as optimization, data classification, and pattern recognition. Research areas include quantum-enhanced algorithms, feature selection, generative models, and dimensionality reduction, with potential applications in high-dimensional data analysis and computational efficiency.
+
+# Vietnamese Traffic Sign Recognition
+This study develops a real-time Vietnamese traffic sign recognition system for IoT devices using the YOLOv8 Nano model. A new dataset, VTSDB100, comprising 100 traffic sign classes from Ho Chi Minh City, is introduced. The research compares YOLOv8 with other object detection models (YOLOv9, YOLOv10, YOLOX, RetinaNet, Faster R-CNN) on VTSDB100 and optimizes deployment on resource-constrained devices like the Jetson Nano 2GB using TensorRT and quantization. A workflow integrating detection, tracking, and class filtering is proposed to reduce false positives.
+
+# Distributed and Adaptive Machine Learning
+This research explores Distributed and Adaptive Machine Learning, focusing on federated learning, split learning, active learning, and curriculum learning to enhance privacy, efficiency, and adaptability. Federated learning enables privacy-preserving model training across distributed clients, while split learning minimizes data exposure by dividing neural network computation. Active learning optimizes semi-supervised training by prioritizing informative data for annotation, and curriculum learning accelerates convergence by sequencing data from simple to complex. Applications include secure and efficient model training across diverse domains.
+
+# Spiking Neural Networks
+Spiking Neural Networks (SNNs) emulate biological neurons by processing information via discrete spikes, offering energy efficiency and temporal data handling for neuromorphic computing. Research focuses on developing efficient training algorithms, optimizing hardware implementations, and exploring applications in robotics, IoT, and brain-machine interfaces. SNNs are particularly suited for pattern recognition, sensory processing, and real-time decision-making in resource-constrained environments.

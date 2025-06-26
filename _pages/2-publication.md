@@ -37,7 +37,9 @@ toc_label: "Table of Contents"
 # Conference Proceedings
 
 ***
-* Phuong-Nam Tran, and Duc Ngoc Minh Dang, Eui-Nam Huh and Choong Seon Hong "Additive Angular Margin Loss for Federated Learning in Image Classification", 39th International Conference on Information Networking (ICOIN), Chiang Mai, Thailand, Jan 15-17, 2025
+* Nam Van Hai Phan, Minh-Khoa Nguyen, Trung Thanh Nguyen, Trung Thanh Pham, Phuong-Nam Tran, and Duc Ngoc Minh Dang, "Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization", [ICDAR 2025](https://www.icdar2025.com/home) (rank A), Wuhan, Hubei, China, Sep 16-21, 2025.
+
+* Phuong-Nam Tran, Duc Ngoc Minh Dang, Eui-Nam Huh and Choong Seon Hong, "Additive Angular Margin Loss for Federated Learning in Image Classification", 39th International Conference on Information Networking (ICOIN), Chiang Mai, Thailand, Jan 15-17, 2025
 
 * Duc Tai Phan, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Improving Face Attendance Checking System with Ensemble Learning”, 2024 RIVF International Conference on Computing and Communication Technologies (RIVF), Da Nang, Vietnam, Dec 21-23, 2024
 
@@ -105,6 +107,11 @@ toc_label: "Table of Contents"
 # Unpublished Manuscripts
 
 ***
+* Nguyen, Nhut Minh and Nguyen, Thanh Trung and Tran, Phuong-Nam and Lim, Chee Peng and Pham, Nhat Truong and Dang, Duc Ngoc Minh, "Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies", Available at [SSRN](http://dx.doi.org/10.2139/ssrn.5063214) (Preprint)
+
+* Phuong-Nam Tran, Nhat Truong Pham, Duc Ngoc Minh Dang, Eui-Nam Huh, Choong Seon Hong, "QTSeg: A Query Token-Based Architecture for Efficient 2D Medical Image Segmentation", [arXiv:2412.17241](https://doi.org/10.48550/arXiv.2412.17241) (Preprint)
+
+* Nguyen, Nhut Minh and Nguyen, Minh Trung and Nguyen, Thanh Trung and Tran, Phuong-Nam and Pham, Nhat Truong and Le, Linh and OTHMANI, Alice and Saddik, Abdulmotaleb El and Dang, Duc Ngoc Minh, "Fleser: Multimodal Emotion Recognition Via Dynamic Fuzzy Membership and Attention Fusion". Available at [SSRN]() https://ssrn.com/abstract=5316634) (Preprint)
 
 <!-- * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint)
 
@@ -122,7 +129,7 @@ toc_label: "Table of Contents"
 
 ***
 
-# Open Datasets
+<!-- # Open Datasets -->
 
 ***
 
@@ -170,7 +177,7 @@ toc_label: "Table of Contents"
 
 ***
 
-# Awards & Grants
+<!-- # Awards & Grants -->
 
 ***
 
@@ -222,7 +229,7 @@ toc_label: "Table of Contents"
 
 ***
 
-# Posters
+<!-- # Posters -->
 
 ***
 <!-- 

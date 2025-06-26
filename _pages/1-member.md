@@ -48,7 +48,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 			<li>Dec 2021 -- Jun 2023: Part-time Researcher at Pythera AI, Ho Chi Minh City, Vietnam</li>
 			<li>Aug 2021 -- Oct 2023: Full-time AI Engineering at K&G Technology, Ho Chi Minh City, Vietnam</li>
             <li>Sep 2019 -- Mar 2023: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
-			<li>Research Interest: Networking for AI, Computer Vision, Multi-modal, Speech Emotion Recognition</li>				
+			<li>Research Interests: Networking for AI, Computer Vision, Multi-modal, Speech Emotion Recognition</li>				
 			<li><a href="https://github.com/tpnam0901" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 			<li><a href="https://tpnam0901.github.io" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
@@ -74,8 +74,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 
 <table border="0">  
 	<tr valign="top">
-		<td><ul>
-			<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Researchers/pmtri/avatar.png"/></td>
+		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Researchers/pmtri/avatar.png"/></td>
+		<td><ul>			
 			<li>2017 - 2020: M.Sc in Computer Science, University of Technology, Vietnam National University Ho Chi Minh City</li>
 			<!-- <li>2011 - 2015: B.Sc in Information Technology, University of Science, Viet Nam National University Ho Chi Minh City</li>		 -->
 			<li><a href="https://orcid.org/0009-0006-4256-6530" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>			
@@ -93,7 +93,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/pvhnam/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>			
+			<li>Dec 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Research Interests: Handwritten mathematical expressions recognition</li>	
             <li><a href="https://orcid.org/0009-0008-2588-5235" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
 			<li><a href="https://neeze.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
@@ -105,7 +106,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmtrung/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Oct 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>			
+			<li>Oct 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>		
+			<li>Research Interests: Speech emotion recognition, Knowledge Distillation</li>	
             <li><a href="https://nmihtrug.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
@@ -117,7 +119,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ltthuy/avatar.jpg"/></td>  
 		<td><ul>
 			<li>Dec 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>		
-			<li>Research Interest: Federated Learning, Image Segmentation</li>			
+			<li>Research Interests: Federated Learning, Image Segmentation</li>			
             <li><a href="https://shuilee.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
@@ -128,7 +130,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmnhut/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>					
+			<li>Research Interests: Speech emotion recognition, Graph Neural Networks</li>	
             <li><a href="https://orcid.org/0009-0003-1281-5346" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
@@ -140,6 +143,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nttrung/avatar.jpg"/></td>  
 		<td><ul>
 			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Research Interests: Handwritten mathematical expressions recognition</li>
             <li><a href="https://github.com/trungtndev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
@@ -150,7 +154,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ptduc/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Jan 2024 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Jan 2024 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Active Learning, Computer Vision</li>	
             <li><a href="https://taiduc1001.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
@@ -162,6 +167,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmkhoa/avatar.jpg"/></td>  
 		<td><ul>
 			<li>Oct 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Research Interests: Handwritten mathematical expressions recognition</li>
             <li><a href="https://github.com/Purin1410" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
@@ -173,6 +179,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/lmdat/avatar.jpg"/></td>  
 		<td><ul>
 			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Research Interests: Autonomous Driving</li>
             <li><a href="https://github.com/mnhdat" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
@@ -183,7 +190,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/npkhang/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Jan 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Research Interests: Federated Learning, Secure Systems </li>
             <li><a href="https://github.com/Freeftish" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
@@ -194,7 +202,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/htanh/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Jan 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Research Interests: Autonomous Driving</li>
             <li><a href="https://github.com/anhht9824" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
@@ -205,7 +214,8 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/tntri/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Jan 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Research Interests: Emotion recognition</li>
             <li><a href="https://github.com/saudade2210" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 			<li><a href="https://orcid.org/0009-0003-1353-5899" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>	
 		</ul></td>
@@ -215,10 +225,9 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 ###### <a href="/member/dtdkhoa" target="_blank">Dang Khoa Tran Do</a> (Jun 2025 -- Present)
 <table border="0">  
 	<tr valign="top">
-###### <a href="/member/dtdkhoa" target="_blank">Dang Khoa Tran Do</a> (Jun 2025 -- Present)
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/dtdkhoa/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Jan 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>	
             <li><a href="https://dangkhoaai.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 			<li><a href="https://orcid.org/0009-0008-3166-384X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>	
 		</ul></td>
@@ -230,9 +239,24 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
     <tr valign="top">
         <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/hqnhan/avatar.jpg"/></td>  
         <td><ul>
-            <li>Jan 2025 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>
+            <li>Jan 2025 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>
+			<li>Research Interests: Quantum Machine Learning</li>
             <li><a href="https://github.com/blackfox20092006" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
             <li><a href="https://orcid.org/0009-0003-1597-6890" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+
+###### <a href="/member/tqminh" target="_blank">Minh Quang Tran</a> (Jun 2025 -- Present)
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/tqminh/avatar.jpg"/></td>  
+        <td><ul>
+            <li>Jan 2025 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>
+			<li>Research Interests: Spiking Neural Networks</li>
+            <li><a href="https://github.com/Minhtrna" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0001-2238-2180" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
         </ul></td>
     </tr>
 </table>
