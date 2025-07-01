@@ -267,11 +267,13 @@ Registration Number: 10-1436699  <br>
 Registration Date: August 26, 2014  <br>
 Inventors: 홍충선,당넉민덕 (Choong Seon Hong, Dang Ngoc Minh Duc)  <br>
 DOI: [https://doi.org/10.8080/1020120150632](https://doi.org/10.8080/1020120150632) 
+
 * Title: 패킷 송수신 장치 및 그 방법 (Method and Apparatus for Transmitting and Receiving Packet)  <br>
 Registration Number: 10-1526121  <br>
 Registration Date: May 29, 2015  <br>
 Inventors: 홍충선,당넉민덕,반둥니엔 (Choong Seon Hong, Dang Ngoc Minh Duc, Nguyen Van Dung)  <br>
 DOI: [https://doi.org/10.8080/1020140077282](https://doi.org/10.8080/1020140077282)  <br>
+
 * Title: 차량 통신 네트워크의 패킷 송신 방법 (Method for Transmitting Packet in Vehicle Communication Network)  <br>
 Registration Number: 10-1533192  <br>
 Registration Date: June 25, 2015  <br>
@@ -373,12 +375,16 @@ Peer Review
 * China Communications
 * Computer Communications
 * Computer Methods in Biomechanics and Biomedical Engineering
+* Electrica
+* Entropy
 * Expert Systems with Applications
 * Future Generation Computer Systems
 * IEEE Access
 * IEEE Communications Letters
 * IEEE Internet of Things Journal
 * IEEE Sensors Journal
+* IEEE Transactions on Affective Computing
+* IEEE Transactions on Big Data
 * IEEE Transactions on Cognitive Communications and Networking
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Intelligent Transportation Systems
@@ -393,6 +399,7 @@ Peer Review
 * Journal of Information and Telecommunication
 * Microprocessors and Microsystems
 * Pervasive and Mobile Computing
+* Speech Communication
 * Speech Communications
 * Vehicular Communications
 
@@ -406,6 +413,7 @@ Principal Investigator
 ------------
 
 * Real-time traffic sign detection and recognition in Vietnam, DHFPT/2023/10, Jul 2023 - Jul 2024
+* Multi-Modal Fusion in Speech Emotion Recognition, DHFPT/2025/10, Apr 2025 - present (ongoing)
 
 <!-- Co-Principal Investigator
 ------------

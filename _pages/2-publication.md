@@ -19,13 +19,13 @@ toc_label: "Table of Contents"
 
 ***
 
-* Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, Tran Anh Khoa, ["CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients"](https://doi.org/10.1109/ACCESS.2024.3475737), IEEE Access, 2024, DOI: 10.1109/ACCESS.2024.3475737
+* Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, and Tran Anh Khoa, ["CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients"](https://doi.org/10.1109/ACCESS.2024.3475737), IEEE Access, 2024, DOI: 10.1109/ACCESS.2024.3475737
 
-* Duc Ngoc Minh Dang, "Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol", Advances in Electrical and Electronic Engineering, 2024
+* Duc Ngoc Minh Dang, ["Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol"](https://doi.org/10.15598/aeee.v23i2.240513), Advances in Electrical and Electronic Engineering, 2024
 
-* Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, Duc Ngoc Minh Dang, ["SwinTExCo: Exemplar-based Video Colorization using Swin Transformer"](https://doi.org/10.1016/j.eswa.2024.125437), Expert Systems with Applications, 2024, DOI: 10.1016/j.eswa.2024.125437
+* Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, and Duc Ngoc Minh Dang, ["SwinTExCo: Exemplar-based Video Colorization using Swin Transformer"](https://doi.org/10.1016/j.eswa.2024.125437), Expert Systems with Applications, 2024, DOI: 10.1016/j.eswa.2024.125437
 
-* Tran Anh Khoa, Trac Nguyen Dang, Tinh Vo Phuc, Nam Nguyen Hoang, Duc Ngoc Minh Dang, Son Hoang Hai and Lam Pham Duc, ["Safety Is Our Friend: A Federated Learning Framework Toward Driver’s State and Behavior Detection"](https://doi.org/10.1109/TCSS.2023.3273727), IEEE Transactions on Computational Social Systems, 2023, DOI: 10.1109/TCSS.2023.3273727
+* Tran Anh Khoa, Trac Nguyen Dang, Tinh Vo Phuc, Nam Nguyen Hoang, Duc Ngoc Minh Dang, Son Hoang Hai, and Lam Pham Duc, ["Safety Is Our Friend: A Federated Learning Framework Toward Driver’s State and Behavior Detection"](https://doi.org/10.1109/TCSS.2023.3273727), IEEE Transactions on Computational Social Systems, 2023, DOI: 10.1109/TCSS.2023.3273727
 
 * Nhat Truong Pham, Duc Ngoc Minh Dang, N. D., Nguyen, T. T., Nguyen, H., Manavalan, B., Lim, C. P., & Nguyen, S. D. ["Hybrid data augmentation and deep attention-based dilated convolutional-recurrent neural networks for speech emotion recognition"](https://doi.org/10.1016/j.eswa.2023.120608). Expert Systems with Applications, 2023. DOI: j.eswa.2023.120608
 
@@ -39,7 +39,7 @@ toc_label: "Table of Contents"
 ***
 * Nam Van Hai Phan, Minh-Khoa Nguyen, Trung Thanh Nguyen, Trung Thanh Pham, Phuong-Nam Tran, and Duc Ngoc Minh Dang, "Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization", [ICDAR 2025](https://www.icdar2025.com/home) (rank A), Wuhan, Hubei, China, Sep 16-21, 2025.
 
-* Phuong-Nam Tran, Duc Ngoc Minh Dang, Eui-Nam Huh and Choong Seon Hong, "Additive Angular Margin Loss for Federated Learning in Image Classification", 39th International Conference on Information Networking (ICOIN), Chiang Mai, Thailand, Jan 15-17, 2025
+* Phuong-Nam Tran, Duc Ngoc Minh Dang, Eui-Nam Huh, and Choong Seon Hong, "Additive Angular Margin Loss for Federated Learning in Image Classification", 39th International Conference on Information Networking (ICOIN), Chiang Mai, Thailand, Jan 15-17, 2025
 
 * Duc Tai Phan, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Improving Face Attendance Checking System with Ensemble Learning”, 2024 RIVF International Conference on Computing and Communication Technologies (RIVF), Da Nang, Vietnam, Dec 21-23, 2024
 
@@ -47,44 +47,44 @@ toc_label: "Table of Contents"
 
 * Thu Thuy Le, Nhat Truong Pham, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024
 
-* Phuong-Nam Tran, Nhat Truong Pham, Hai Nam Phan Van, Duc Tai Phan, Tuan Cuong Nguyen and Duc Ngoc Minh Dang, “Towards Real-time Vietnamese Traffic Sign Recognition on Embedded Systems”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024
+* Phuong-Nam Tran, Nhat Truong Pham, Hai Nam Phan Van, Duc Tai Phan, Tuan Cuong Nguyen, and Duc Ngoc Minh Dang, “Towards Real-time Vietnamese Traffic Sign Recognition on Embedded Systems”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024
 
 * Trung Nguyen Minh, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Enhancing Speech Emotion Recognition through Knowledge Distillation”, The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea, Oct 16-18, 2024
 
-* Nam Van Hai Phan, Tha Thanh Le, Tuan Phu Phan, Thuy Thu Le, Phuong-Nam Tran, Nhat Truong Pham and Duc Ngoc Minh Dang, “Deep Learning-Based Automated Cashier System for Bakeries”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
+* Nam Van Hai Phan, Tha Thanh Le, Tuan Phu Phan, Thuy Thu Le, Phuong-Nam Tran, Nhat Truong Pham, and Duc Ngoc Minh Dang, “Deep Learning-Based Automated Cashier System for Bakeries”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
-* Dang Khoa Phan, Phuong-Nam Tran, Nhat Truong Pham, Tra Huong Thi Le and Duc Ngoc Minh Dang, “Innovative Multi-Modal Control for Surveillance Spider Robot: An Integration of Voice and Hand Gesture Recognition”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
+* Dang Khoa Phan, Phuong-Nam Tran, Nhat Truong Pham, Tra Huong Thi Le, and Duc Ngoc Minh Dang, “Innovative Multi-Modal Control for Surveillance Spider Robot: An Integration of Voice and Hand Gesture Recognition”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
-* Dinh Thuan Nguyen, Minh Khanh Phan, Phuong-Nam Tran and Duc Ngoc Minh Dang, “Vietnamese Traffic Sign Recognition Using Deep Learning”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
+* Dinh Thuan Nguyen, Minh Khanh Phan, Phuong-Nam Tran, and Duc Ngoc Minh Dang, “Vietnamese Traffic Sign Recognition Using Deep Learning”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
-* Chi Hung Le, Hung Phat Ly, Duc Tien Nguyen, Hanh Dang-Ngoc, Thuy-Duong Thi Vu and Duc Ngoc Minh Dang, “Deep Learning Based Attendance Check System At FPT University”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
+* Chi Hung Le, Hung Phat Ly, Duc Tien Nguyen, Hanh Dang-Ngoc, Thuy-Duong Thi Vu, and Duc Ngoc Minh Dang, “Deep Learning Based Attendance Check System At FPT University”, 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 23-25, 2024
 
-* Triet Minh Huynh, Duy Linh Nguyen, Thanh Tri Nguyen, Thuy-Duong Thi Vu, Hanh Dang-Ngoc and Duc Ngoc Minh Dang, “CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024 
+* Triet Minh Huynh, Duy Linh Nguyen, Thanh Tri Nguyen, Thuy-Duong Thi Vu, Hanh Dang-Ngoc, and Duc Ngoc Minh Dang, “CLIP-Prefix for Image Captioning and an Experiment on Blind Image Guessing”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024 
 
-* Binh Dang Hai, Huu Duc Nguyen, Thanh Nam Vo, Phuong-Nam Tran, Cuong Tuan Nguyen and Duc Ngoc Minh Dang, “Performance Comparison in Traffic Sign Recognition using Deep Learning”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024
+* Binh Dang Hai, Huu Duc Nguyen, Thanh Nam Vo, Phuong-Nam Tran, Cuong Tuan Nguyen, and Duc Ngoc Minh Dang, “Performance Comparison in Traffic Sign Recognition using Deep Learning”, The 10th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2024), Feb 20-21, 2024
 
 * Quan Bao Le, Kiet Tuan Trinh, Nguyen Dinh Hung Son, Phuong-Nam Tran, Cuong Tuan Nguyen, and Duc Ngoc Minh Dang, “MERSA: Multimodal Emotion Recognition with Self-Align Embedding”, The 38th International Conference on Information Networking (ICOIN 2024), January 17-19, 2024
 
 * Nhat Truong Pham, Le Thi Phan, Duc Ngoc Minh Dang, and Balachandran Manavalan, “SER-Fuse: An Emotion Recognition Application Utilizing Multi-Modal, Multi-Lingual, and Multi-Feature Fusion”, The 12th International Symposium on Information and Communication Technology (SoICT 2023), Ho Chi Minh City, Vietnam, Dec 7-8, 2023
 
-* Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Duc Ngoc Minh Dang, “Vitexco: Exemplar-based Video Colorization using Vision Transformer”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
+* Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, and Duc Ngoc Minh Dang, “Vitexco: Exemplar-based Video Colorization using Vision Transformer”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
 
-* Duc-Hieu Hoang, Duc Ngoc Minh Dang, Hanh Dang-Ngoc, Anh-Khoa Tran, Phuong-Nam Tran, Cuong Tuan Nguyen, “RBBA: ResNet - BERT - Bahdanau Attention for Image Caption Generator”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
+* Duc-Hieu Hoang, Duc Ngoc Minh Dang, Hanh Dang-Ngoc, Anh-Khoa Tran, Phuong-Nam Tran, and Cuong Tuan Nguyen, “RBBA: ResNet - BERT - Bahdanau Attention for Image Caption Generator”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023 
 
-* Phuong-Nam Tran, Thuy-Duong Thi Vu, Nhat Truong Pham, Hanh Dang-Ngoc, Duc Ngoc Minh Dang, “Comparative analysis of multi-loss functions for enhanced multi-modal speech emotion recognition”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023
+* Phuong-Nam Tran, Thuy-Duong Thi Vu, Nhat Truong Pham, Hanh Dang-Ngoc, and Duc Ngoc Minh Dang, “Comparative analysis of multi-loss functions for enhanced multi-modal speech emotion recognition”, The 14th International Conference on ICT Convergence (ICTC 2023), Jeju, Korea, Oct 11 -13, 2023
 
-* Nam Phuong Tran, Thuy-Duong Vu, Duc Ngoc Minh Dang, Nhat Truong Pham, Anh Khoa Tran, “Multi-modal Speech Emotion Recognition: Improving Accuracy through Fusion of VGGish and BERT Features with Multi-head Attention”, 9th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2023), Ho Chi Minh City, Vietnam, Aug 2-3, 2023
+* Nam Phuong Tran, Thuy-Duong Vu, Duc Ngoc Minh Dang, Nhat Truong Pham, and Anh Khoa Tran, “Multi-modal Speech Emotion Recognition: Improving Accuracy through Fusion of VGGish and BERT Features with Multi-head Attention”, 9th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2023), Ho Chi Minh City, Vietnam, Aug 2-3, 2023
 
-* Phuc Tinh Vo, Viet Anh Nguyen, Xuyen Bao Le Nguyen, Duc Ngoc Minh Dang, Anh Khoa Tran, “Performance Analysis of Distributed Learning in Edge Computing on Handwritten Digits Dataset”, 9th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2023), Ho Chi Minh City, Vietnam, Aug 2-3, 2023
+* Phuc Tinh Vo, Viet Anh Nguyen, Xuyen Bao Le Nguyen, Duc Ngoc Minh Dang, and Anh Khoa Tran, “Performance Analysis of Distributed Learning in Edge Computing on Handwritten Digits Dataset”, 9th EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2023), Ho Chi Minh City, Vietnam, Aug 2-3, 2023
 
-* Nhat Truong Pham, Duc Ngoc Minh Dang, Bich Ngoc Hong Pham and Sy Dzung Nguyen, "SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings “, 2023: 8th International Conference on Intelligent Information Technology (ICIIT 2023), Da Nang, Vietnam, February 24 - 26, 2023.
+* Nhat Truong Pham, Duc Ngoc Minh Dang, Bich Ngoc Hong Pham, and Sy Dzung Nguyen, "SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings “, 2023: 8th International Conference on Intelligent Information Technology (ICIIT 2023), Da Nang, Vietnam, February 24 - 26, 2023.
 
-* Nhat Truong Pham, Anh-Tuan Tran, Bich Ngoc Hong Pham, Hanh Dang-Ngoc, Sy Dzung Nguyen and Duc Ngoc Minh Dang, "Speech Emotion Recognition: A Brief Review of Multi-modal Multi-task Learning Approaches", The 7th International Conference on Advanced Engineering – Theory and Applications (AETA-2022), Vietnam, Dec 8-10, 2022.
+* Nhat Truong Pham, Anh-Tuan Tran, Bich Ngoc Hong Pham, Hanh Dang-Ngoc, Sy Dzung Nguyen, and Duc Ngoc Minh Dang, "Speech Emotion Recognition: A Brief Review of Multi-modal Multi-task Learning Approaches", The 7th International Conference on Advanced Engineering – Theory and Applications (AETA-2022), Vietnam, Dec 8-10, 2022.
 
 
 ***
 
-# Book Chapters
+<!-- # Book Chapters -->
 
 ***
 
@@ -111,7 +111,7 @@ toc_label: "Table of Contents"
 
 * Phuong-Nam Tran, Nhat Truong Pham, Duc Ngoc Minh Dang, Eui-Nam Huh, Choong Seon Hong, "QTSeg: A Query Token-Based Architecture for Efficient 2D Medical Image Segmentation", [arXiv:2412.17241](https://doi.org/10.48550/arXiv.2412.17241) (Preprint)
 
-* Nguyen, Nhut Minh and Nguyen, Minh Trung and Nguyen, Thanh Trung and Tran, Phuong-Nam and Pham, Nhat Truong and Le, Linh and OTHMANI, Alice and Saddik, Abdulmotaleb El and Dang, Duc Ngoc Minh, "Fleser: Multimodal Emotion Recognition Via Dynamic Fuzzy Membership and Attention Fusion". Available at [SSRN]() https://ssrn.com/abstract=5316634) (Preprint)
+* Nguyen, Nhut Minh and Nguyen, Minh Trung and Nguyen, Thanh Trung and Tran, Phuong-Nam and Pham, Nhat Truong and Le, Linh and OTHMANI, Alice and Saddik, Abdulmotaleb El and Dang, Duc Ngoc Minh, "Fleser: Multimodal Emotion Recognition Via Dynamic Fuzzy Membership and Attention Fusion". Available at [SSRN]( https://ssrn.com/abstract=5316634) (Preprint)
 
 <!-- * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint)
 
