@@ -414,6 +414,8 @@ Principal Investigator
 
 * Real-time traffic sign detection and recognition in Vietnam, DHFPT/2023/10, Jul 2023 - Jul 2024
 * Multi-Modal Fusion in Speech Emotion Recognition, DHFPT/2025/10, Apr 2025 - present (ongoing)
+* Multi-Task Learning for Handwritten Mathematical Expression Recognition, DHFPT/2025/18, Jul 2025 - present (ongoing)
+
 
 <!-- Co-Principal Investigator
 ------------

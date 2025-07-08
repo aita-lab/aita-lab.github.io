@@ -13,7 +13,8 @@ description: Contact and recruitment information for the AI Technology and Appli
 
 The AI Technology and Application Research Lab is at the forefront of research in speech emotion recognition, active learning, federated learning, reinforcement learning, and computer vision for autonomous driving. We are excited to invite talented students to join our team and contribute to groundbreaking projects. Leveraging our expertise in these dynamic fields, we are confident in our ability to produce impactful research together.
 
-- **Requirements**
+**Requirements**
+  - FPTU students in their 2nd or 3rd year, majoring in Artificial Intelligence or Software Engineering.
   - **Passion for AI:** Demonstrated enthusiasm for artificial intelligence and its applications.
   - **Strong Work Ethic and Research Aptitude:** Ability to work independently and collaboratively on challenging research projects.
   - **Fluency in English:** Effective communication is essential for our global research collaborations. (Reading and writing skills are highly recommended.)
@@ -31,16 +32,17 @@ The AI Technology and Application Research Lab is at the forefront of research i
 If you are passionate about AI and eager to shape the future, we encourage you to apply. 
 
 **Application Process**
-<!-- [Research Proposal](https://docs.google.com/document/d/1X-MyIiIQpk4pushdNp4Rd7B2VOAoYzoP/edit?usp=sharing&ouid=109796817642495029141&rtpof=true&sd=true) -->
-Please submit your CV to [![E-mail](https://img.shields.io/badge/Official-aita.fptu@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:aita.fptu@gmail.com) to initiate the application process. We offer both online and offline interview options to accommodate your preferences.
+  - Complete the [Research Proposal.](https://docs.google.com/document/d/1X-MyIiIQpk4pushdNp4Rd7B2VOAoYzoP/edit?usp=sharing&ouid=109796817642495029141&rtpof=true&sd=true)
+  - Please submit Research Proposal and your CV to [![E-mail](https://img.shields.io/badge/Official-aita.fptu@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:aita.fptu@gmail.com) to initiate the application process. 
+  - We offer both online and offline interview options to accommodate your preferences.
 
 **Our current research topics**
+- Speech Emotion Recognition
 - Active learning, human-in-the-loop deep learning
 - Split learning, Federated learning, Incremental learning
-- Signal processing
-- Cloud computing
-- Artificial Intelligence Application in Natural language processing and Computer vision
-
+- Handwritten Mathematical Expression Recognition
+- Quantum Machine Learning
+- Reinforcement Learning
 
 **Join our team and be a part of the future of AI!**
 
