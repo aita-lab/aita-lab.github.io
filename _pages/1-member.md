@@ -222,7 +222,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
-###### <a href="/member/dtdkhoa" target="_blank">Dang Khoa Tran Do</a> (Jun 2025 -- Present)
+<!-- ###### <a href="/member/dtdkhoa" target="_blank">Dang Khoa Tran Do</a> (Jun 2025 -- Present)
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/dtdkhoa/avatar.jpg"/></td>  
@@ -232,7 +232,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 			<li><a href="https://orcid.org/0009-0008-3166-384X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>	
 		</ul></td>
 	</tr>
-</table>
+</table> -->
 
 ###### <a href="/member/hqnhan" target="_blank">Nhan Hoang Quang</a> (Jun 2025 -- Present)
 <table border="0">  
