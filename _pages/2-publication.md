@@ -19,6 +19,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Nhut Minh Nguyen, Thanh Trung Nguyen, Phuong-Nam Tran, Chee Peng Lim, Nhat Truong Pham, and Duc Ngoc Minh Dang, ["Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies"](http://dx.doi.org/10.2139/ssrn.5063214), Engineering Applications of Artificial Intelligence, 2025. 
+
 * Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, and Tran Anh Khoa, ["CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients"](https://doi.org/10.1109/ACCESS.2024.3475737), IEEE Access, 2024, DOI: 10.1109/ACCESS.2024.3475737
 
 * Duc Ngoc Minh Dang, ["Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol"](https://doi.org/10.15598/aeee.v23i2.240513), Advances in Electrical and Electronic Engineering, 2024
@@ -37,7 +39,16 @@ toc_label: "Table of Contents"
 # Conference Proceedings
 
 ***
+
+* Duc-Hieu Hoang, Dinh Thuan Nguyen, Quoc Huy Tran, Thanh Trung Nguyen, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, ["YOLO-Powered Traffic Sign Detection and OpenStreetMap Integration for Intelligent Navigation"](https://doi.org/10.23919/APNOMS67058.2025.11181312), The 2025 Asia-Pacific Network Operations and Management Symposium (APNOMS), Kaohsiung, Taiwan, Sep 2025.
+
+* Nhut Minh Nguyen, Thu Thuy Le, Thanh Trung Nguyen, Duc Tai Phan, Anh Khoa Tran, and Duc Ngoc Minh Dang, ["CemoBAM: Advancing Multimodal Emotion Recognition through Heterogeneous Graph Networks and Cross-Modal Attention Mechanisms"](https://doi.org/10.23919/APNOMS67058.2025.11181320), The 2025 Asia-Pacific Network Operations and Management Symposium (APNOMS), Kaohsiung, Taiwan, Sep 2025. 
+
+* Duc Tai Phan, Nhut Minh Nguyen, Khang Phuc Nguyen, Tri Pham, and Duc Ngoc Minh Dang, ["ALMUS: Enhancing Active Learning for Object Detection with Metric-Based Uncertainty Sampling."](https://doi.org/10.23919/APNOMS67058.2025.11181447) The 2025 Asia-Pacific Network Operations and Management Symposium (APNOMS), Kaohsiung, Taiwan, Sep 2025. 
+
 * Nam Van Hai Phan, Minh-Khoa Nguyen, Trung Thanh Nguyen, Trung Thanh Pham, Phuong-Nam Tran, and Duc Ngoc Minh Dang, "Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization", [ICDAR 2025](https://www.icdar2025.com/home) (rank A), Wuhan, Hubei, China, Sep 16-21, 2025.
+
+* Phan, Binh Huynh Thanh, Hai Hoang Son Vu, Xuyen Le Bao Nguyen, Tinh Duc Huynh, Duong Thi Thuy Vu, and Duc Ngoc Minh Dang, ["LLM-Guided Multi-Object Tracking: Enhancing Retail Insights with TempRMOT,"](https://doi.org/10.1109/MLHMI66056.2025.00018) 6th International Conference on Machine Learning and Human-Computer Interaction (MLHMI), Kawasaki, Japan, 2025, pp. 69-73, DOI: 10.1109/MLHMI66056.2025.00018.
 
 * Phuong-Nam Tran, Duc Ngoc Minh Dang, Eui-Nam Huh, and Choong Seon Hong, "Additive Angular Margin Loss for Federated Learning in Image Classification", 39th International Conference on Information Networking (ICOIN), Chiang Mai, Thailand, Jan 15-17, 2025
 
