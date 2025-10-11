@@ -23,7 +23,7 @@ toc_label: "Table of Contents"
 
 * Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, and Tran Anh Khoa, ["CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients"](https://doi.org/10.1109/ACCESS.2024.3475737), IEEE Access, 2024, DOI: 10.1109/ACCESS.2024.3475737
 
-* Duc Ngoc Minh Dang, ["Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol"](https://doi.org/10.15598/aeee.v23i2.240513), Advances in Electrical and Electronic Engineering, 2024
+* Duc Ngoc Minh Dang, ["Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol"](https://doi.org/10.15598/aeee.v23i2.240513), Advances in Electrical and Electronic Engineering, 2024, DOI: 10.15598/aeee.v23i2.240513
 
 * Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, and Duc Ngoc Minh Dang, ["SwinTExCo: Exemplar-based Video Colorization using Swin Transformer"](https://doi.org/10.1016/j.eswa.2024.125437), Expert Systems with Applications, 2024, DOI: 10.1016/j.eswa.2024.125437
 
@@ -118,7 +118,7 @@ toc_label: "Table of Contents"
 # Unpublished Manuscripts
 
 ***
-* Nguyen, Nhut Minh and Nguyen, Thanh Trung and Tran, Phuong-Nam and Lim, Chee Peng and Pham, Nhat Truong and Dang, Duc Ngoc Minh, "Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies", Available at [SSRN](http://dx.doi.org/10.2139/ssrn.5063214) (Preprint)
+<!-- * Nguyen, Nhut Minh and Nguyen, Thanh Trung and Tran, Phuong-Nam and Lim, Chee Peng and Pham, Nhat Truong and Dang, Duc Ngoc Minh, "Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies", Available at [SSRN](http://dx.doi.org/10.2139/ssrn.5063214) (Preprint) -->
 
 * Phuong-Nam Tran, Nhat Truong Pham, Duc Ngoc Minh Dang, Eui-Nam Huh, Choong Seon Hong, "QTSeg: A Query Token-Based Architecture for Efficient 2D Medical Image Segmentation", [arXiv:2412.17241](https://doi.org/10.48550/arXiv.2412.17241) (Preprint)
 
