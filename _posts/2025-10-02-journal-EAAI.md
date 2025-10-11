@@ -5,7 +5,7 @@ date:   2025-10-102 00:00:00 +0900
 image:  2025/EAAI.jpg
 tags:   News
 published: true
-description: Our paper, "Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies", has been accepted by the "Engineering Applications of Artificial Intelligence" Journal.
+description: Our paper, "Multi-Modal Fusion in Speech Emotion Recognition - A Comprehensive Review of Methods and Technologies", has been accepted by the "Engineering Applications of Artificial Intelligence" Journal.
 ---
 
 - About [Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
