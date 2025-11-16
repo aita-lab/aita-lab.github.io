@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Engineering Applications of Artificial Intelligence (EAAI) (Q1 Journal) 
-date:   2025-10-102 00:00:00 +0900
+date:   2025-10-02 00:00:00 +0900
 image:  2025/EAAI.jpg
 tags:   News
 published: true
