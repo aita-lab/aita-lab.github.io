@@ -47,7 +47,7 @@ Education
 
 Working Experience
 ============
-* 2022 - present: FPT University, Vietnam <br> Lecturer - Researcher
+* 2022 - present: FPT University, Vietnam <br> Associate Professor, AiTa Lab
 
 * 2017 - 2022: Ton Duc Thang University, Vietnam <br> Vice Dean, School of Graduate Studies 
 
@@ -80,6 +80,8 @@ Journal Publications
 ============
 
 * Nhut Minh Nguyen, Thanh Trung Nguyen, and Duc Ngoc Minh Dang, "HemoGAT: Heterogeneous multimodal speech emotion recognition with cross-modal transformer and graph attention network", Advances in Electrical and Electronic Engineering, 2026
+
+* Nhut Minh Nguyen, Thanh Trung Nguyen, Phuong-Nam Tran, Chee Peng Lim, Nhat Truong Pham, and Duc Ngoc Minh Dang, "Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies", Engineering Applications of Artificial Intelligence, 2025, DOI: 10.1016/j.engappai.2025.112624  
 
 * Vo Phuc Tinh, Tran Anh Khoa, Pham Duc Lam, Nguyen Hoang Nam, Duc Ngoc Minh Dang, Duy-Dong Le, Thai-Thinh Dang, Van-Luong Nguyen, Thanh-Qui Pham and Thai-Binh Nguyen, "SMixSL: The Smashed-Mixture Technique for Split Learning with Localizable Features", IEEE Transactions on Emerging Topics in Computational Intelligence, 2025, DOI: 10.1109/TETCI.2024.3523698
 
@@ -131,6 +133,16 @@ Journal Publications
 
 Conference Proceedings
 ============
+* Thu Thuy Le, Nhut Minh Nguyen, Nhat Truong Pham, Phuong-Nam Tran, Nguyen Doan Hieu Nguyen, Phuong Luu Vo, Balachandran Manavalan, Duc Ngoc Minh Dang, "Federated Semi-Supervised FixMatch: Enhancing CutMix for Medical Image Segmentation", 2025 IEEE International Conference on Big Data, Macau SAR, China, 2025.
+
+* Duc Tai Phan, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, “DAAL: Dual Ambiguity in Active Learning for Object Detection with YOLOE”, The 17th International Conference on Management of Digital EcoSystems (MEDES 2025), Ho Chi Minh City, Vietnam, Nov 24–26, 2025. 
+
+* Nhut Minh Nguyen, Duc Tai Phan, and Duc Ngoc Minh Dang, “GloMER: Towards Robust Multimodal Emotion Recognition via Gated Fusion and Contrastive Learning”, The 17th International Conference on Management of Digital EcoSystems (MEDES 2025), Ho Chi Minh City, Vietnam, Nov 24–26, 2025.
+
+* Tran Ngoc Phuong Linh, Nguyen Khanh Ly, Hanh Dang-Ngoc, Long Kam Kim, and Duc Ngoc Minh Dang, “Towards Scalable EEG-Based Emotion Recognition for Mental Health: A Multi-Task Learning Approach”, The 2025 International Symposium on Electrical and Electronics Engineering (ISEE 2025), Ho Chi Minh City, Vietnam, Oct 23-24, 2025.
+
+* Vo Duc Tai, Nguyen Xuan Tuyen, Hanh Dang-Ngoc, Vo Que Son, and Duc Ngoc Minh Dang, “Enhancing Urban Traffic Safety with VANET: A Simulation-Based Multi-Scenario Alert System”, The 2025 International Symposium on Electrical and Electronics Engineering (ISEE 2025), Ho Chi Minh City, Vietnam, Oct 23-24, 2025.
+
 * Duc-Hieu Hoang, Dinh Thuan Nguyen, Quoc Huy Tran, Thanh Trung Nguyen, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, "YOLO-Powered Traffic Sign Detection and OpenStreetMap Integration for Intelligent Navigation." The 2025 Asia-Pacific Network Operations and Management Symposium (APNOMS), Kaohsiung, Taiwan, Sep 22-24, 2025. 
 
 * Nhut Minh Nguyen, Thu Thuy Le, Thanh Trung Nguyen, Duc Tai Phan, Anh Khoa Tran, and Duc Ngoc Minh Dang, "CemoBAM: Advancing Multimodal Emotion Recognition through Heterogeneous Graph Networks and Cross-Modal Attention Mechanisms.", The 2025 Asia-Pacific Network Operations and Management Symposium (APNOMS), Kaohsiung, Taiwan, Sep 22-24, 2025. 

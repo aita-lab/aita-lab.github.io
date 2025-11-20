@@ -15,9 +15,11 @@ description: Members, alumni and collaborators of the AI Technology and Applicat
 
 <img align="left" src="/images/Members/Director/avatar.jpg" style="width : 150px; height : 150px; margin : 10px">
 
-Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications Engineering from Ho Chi Minh City University of Technology, Vietnam, in 2005 and 2007, respectively. In 2014, he received a Ph.D. degree in Computer Engineering at Kyung Hee University, Korea. From 2005 to 2008, he was a Senior Telecom Engineer with TMA Solutions, Vietnam. From 2008 to 2022, he worked as the Head of the Electronics and Telecommunications Department and Vice Dean of the School of Graduate Studies at Ton Duc Thang University, Vietnam. Since 2022, he has worked as a Lecturer and Researcher at FPT University in Ho Chi Minh City, Vietnam. His research interests include the MAC protocols in Wireless Ad hoc Networks, Vehicular Ad hoc Networks, Deep Learning, and the Internet of Things.
+Duc Ngoc Minh Dang received the B.Eng. and M.Eng. degrees in Electronics and Telecommunications Engineering from Ho Chi Minh City University of Technology, Vietnam, in 2005 and 2007, and the Ph.D. degree in Computer Engineering from Kyung Hee University, Korea, in 2014. From 2005 to 2008, he worked as a Senior Telecom Engineer and Team Leader at TMA Solutions, Vietnam. From 2008 to 2022, he held various academic leadership roles at Ton Duc Thang University, including Department Head and Vice Dean.
 
-* 2022 -- Present: Lecturer - Researcher, FPT University, Vietnam
+He is currently an Associate Professor at FPT University, Ho Chi Minh City, Vietnam, and Director of the AiTA Lab. His research interests include wireless ad hoc networks, vehicular networks, speech emotion recognition, multimodal learning, federated learning, and the Internet of Things.
+
+* 2022 -- Present: Associate Professor, Lecturer - Researcher, FPT University, Vietnam
 * 2017 -- 2022: Vice Dean, School of Graduate Studies, Ton Duc Thang University, Vietnam
 * 2015 -- 2017: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
 * 2011 -- 2014: Research assistant and Post-doc researcher at Department of Computer Engineering, Kyung Hee University, Korea
@@ -79,7 +81,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 			<li>2017 - 2020: M.Sc in Computer Science, University of Technology, Vietnam National University Ho Chi Minh City</li>
 			<!-- <li>2011 - 2015: B.Sc in Information Technology, University of Science, Viet Nam National University Ho Chi Minh City</li>		 -->
 			<li><a href="https://orcid.org/0009-0006-4256-6530" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>			
-			<li><a href="https://scholar.google.com/citations?hl=vi&authuser=1&user=f1LXlW8AAAAJ" target="_blank"><img src="(https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white"></a></li>
+			<li><a href="https://scholar.google.com/citations?hl=vi&authuser=1&user=f1LXlW8AAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
 </table>
@@ -87,6 +89,19 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 ***
 # Undergraduate Research Assistants
 ***
+
+
+###### <a href="/member/nmnhut" target="_blank">Nhut Minh Nguyen</a> (Dec 2022 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmnhut/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>					
+			<li>Research Interests: Speech emotion recognition, Graph Neural Networks</li>	
+            <li><a href="https://orcid.org/0009-0003-1281-5346" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
 
 ###### <a href="/member/pvhnam" target="_blank">Hai Nam Van Phan</a> (Dec 2022 -- Present)
 <table border="0">  
@@ -97,18 +112,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 			<li>Research Interests: Handwritten mathematical expressions recognition</li>	
             <li><a href="https://orcid.org/0009-0008-2588-5235" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
 			<li><a href="https://neeze.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-###### <a href="/member/nmtrung" target="_blank">Trung Minh Nguyen</a> (Oct 2022 -- Present)
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmtrung/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Oct 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>		
-			<li>Research Interests: Speech emotion recognition, Knowledge Distillation</li>	
-            <li><a href="https://nmihtrug.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
@@ -125,17 +128,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
-###### <a href="/member/nmnhut" target="_blank">Nhut Minh Nguyen</a> (Dec 2022 -- Present)
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmnhut/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>					
-			<li>Research Interests: Speech emotion recognition, Graph Neural Networks</li>	
-            <li><a href="https://orcid.org/0009-0003-1281-5346" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
 
 ###### <a href="/member/nttrung" target="_blank">Thanh Trung Nguyen</a> (Dec 2022 -- Present)
 <table border="0">  
@@ -161,6 +153,18 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 	</tr>
 </table>
 
+###### <a href="/member/nmtrung" target="_blank">Trung Minh Nguyen</a> (Oct 2022 -- Present)
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmtrung/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Oct 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>		
+			<li>Research Interests: Speech emotion recognition, Knowledge Distillation</li>	
+            <li><a href="https://nmihtrug.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
 ###### <a href="/member/nmkhoa" target="_blank">Minh-Khoa Nguyen</a> (Oct 2024 -- Present)
 <table border="0">  
 	<tr valign="top">
@@ -171,6 +175,19 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
             <li><a href="https://github.com/Purin1410" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
+</table>
+
+###### <a href="/member/hqnhan" target="_blank">Nhan Hoang Quang</a> (Jun 2025 -- Present)
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/hqnhan/avatar.jpg"/></td>  
+        <td><ul>
+            <li>Jan 2025 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>
+			<li>Research Interests: Quantum Machine Learning</li>
+            <li><a href="https://github.com/blackfox20092006" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0003-1597-6890" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
 </table>
 
 ###### <a href="/member/lmdat" target="_blank">Dat Le Minh</a> (Oct 2024 -- Present)
@@ -233,20 +250,6 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 		</ul></td>
 	</tr>
 </table> -->
-
-###### <a href="/member/hqnhan" target="_blank">Nhan Hoang Quang</a> (Jun 2025 -- Present)
-<table border="0">  
-    <tr valign="top">
-        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/hqnhan/avatar.jpg"/></td>  
-        <td><ul>
-            <li>Jan 2025 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>
-			<li>Research Interests: Quantum Machine Learning</li>
-            <li><a href="https://github.com/blackfox20092006" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
-            <li><a href="https://orcid.org/0009-0003-1597-6890" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
-        </ul></td>
-    </tr>
-</table>
-
 
 ###### <a href="/member/tqminh" target="_blank">Minh Quang Tran</a> (Jun 2025 -- Present)
 <table border="0">  
@@ -317,6 +320,7 @@ Duc Ngoc Minh Dang received his B.Eng. and M.Eng. degrees in Telecommunications 
 # Collaborators
 ***
 
+* Assoc. Prof. <a href="https://scholar.google.com/citations?hl=vi&user=BVSfqBAAAAAJ" target="_blank">Lam Thanh Hien</a>, Lac Hong University, Vietnam
 * Dr. <a href="https://dblp.org/pid/203/1237.html" target="_blank">Anh-Khoa Tran</a>, National Institute of Information and Communications Technology, Tokyo, Japan
 * Dr. <a href="https://ntcuong2103.github.io/" target="_blank">Tuan Cuong Nguyen</a>, Vietnamese - German University, Vietnam
 * Dr. <a href="https://scholar.google.com/citations?hl=en&user=zlYcKiAAAAAJ&hl=en" target="_blank">Thai Linh Le</a>, [Mila Institute](https://mila.quebec/en), Canada

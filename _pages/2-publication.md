@@ -19,7 +19,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* Nhut Minh Nguyen, Thanh Trung Nguyen, Phuong-Nam Tran, Chee Peng Lim, Nhat Truong Pham, and Duc Ngoc Minh Dang, ["Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies"](http://dx.doi.org/10.2139/ssrn.5063214), Engineering Applications of Artificial Intelligence, 2025. 
+* Nhut Minh Nguyen, Thanh Trung Nguyen, Phuong-Nam Tran, Chee Peng Lim, Nhat Truong Pham, and Duc Ngoc Minh Dang, ["Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies"](https://doi.org/10.1016/j.engappai.2025.112624), Engineering Applications of Artificial Intelligence, 2025, DOI: 10.1016/j.engappai.2025.112624  
 
 * Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, and Tran Anh Khoa, ["CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients"](https://doi.org/10.1109/ACCESS.2024.3475737), IEEE Access, 2024, DOI: 10.1109/ACCESS.2024.3475737
 
@@ -40,13 +40,23 @@ toc_label: "Table of Contents"
 
 ***
 
+* Thu Thuy Le, Nhut Minh Nguyen, Nhat Truong Pham, Phuong-Nam Tran, Nguyen Doan Hieu Nguyen, Phuong Luu Vo, Balachandran Manavalan, Duc Ngoc Minh Dang, "Federated Semi-Supervised FixMatch: Enhancing CutMix for Medical Image Segmentation", 2025 IEEE International Conference on Big Data, Macau SAR, China, 2025.
+
+* Duc Tai Phan, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, “DAAL: Dual Ambiguity in Active Learning for Object Detection with YOLOE”, The 17th International Conference on Management of Digital EcoSystems (MEDES 2025), Ho Chi Minh City, Vietnam, Nov 24–26, 2025. 
+
+* Nhut Minh Nguyen, Duc Tai Phan, and Duc Ngoc Minh Dang, “GloMER: Towards Robust Multimodal Emotion Recognition via Gated Fusion and Contrastive Learning”, The 17th International Conference on Management of Digital EcoSystems (MEDES 2025), Ho Chi Minh City, Vietnam, Nov 24–26, 2025.
+
+* Tran Ngoc Phuong Linh, Nguyen Khanh Ly, Hanh Dang-Ngoc, Long Kam Kim, and Duc Ngoc Minh Dang, “Towards Scalable EEG-Based Emotion Recognition for Mental Health: A Multi-Task Learning Approach”, The 2025 International Symposium on Electrical and Electronics Engineering (ISEE 2025), Ho Chi Minh City, Vietnam, Oct 23-24, 2025.
+
+* Vo Duc Tai, Nguyen Xuan Tuyen, Hanh Dang-Ngoc, Vo Que Son, and Duc Ngoc Minh Dang, “Enhancing Urban Traffic Safety with VANET: A Simulation-Based Multi-Scenario Alert System”, The 2025 International Symposium on Electrical and Electronics Engineering (ISEE 2025), Ho Chi Minh City, Vietnam, Oct 23-24, 2025.
+
 * Duc-Hieu Hoang, Dinh Thuan Nguyen, Quoc Huy Tran, Thanh Trung Nguyen, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, ["YOLO-Powered Traffic Sign Detection and OpenStreetMap Integration for Intelligent Navigation"](https://doi.org/10.23919/APNOMS67058.2025.11181312), The 2025 Asia-Pacific Network Operations and Management Symposium (APNOMS), Kaohsiung, Taiwan, Sep 2025.
 
 * Nhut Minh Nguyen, Thu Thuy Le, Thanh Trung Nguyen, Duc Tai Phan, Anh Khoa Tran, and Duc Ngoc Minh Dang, ["CemoBAM: Advancing Multimodal Emotion Recognition through Heterogeneous Graph Networks and Cross-Modal Attention Mechanisms"](https://doi.org/10.23919/APNOMS67058.2025.11181320), The 2025 Asia-Pacific Network Operations and Management Symposium (APNOMS), Kaohsiung, Taiwan, Sep 2025. 
 
 * Duc Tai Phan, Nhut Minh Nguyen, Khang Phuc Nguyen, Tri Pham, and Duc Ngoc Minh Dang, ["ALMUS: Enhancing Active Learning for Object Detection with Metric-Based Uncertainty Sampling."](https://doi.org/10.23919/APNOMS67058.2025.11181447) The 2025 Asia-Pacific Network Operations and Management Symposium (APNOMS), Kaohsiung, Taiwan, Sep 2025. 
 
-* Nam Van Hai Phan, Minh-Khoa Nguyen, Trung Thanh Nguyen, Trung Thanh Pham, Phuong-Nam Tran, and Duc Ngoc Minh Dang, "Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization", [ICDAR 2025](https://www.icdar2025.com/home) (rank A), Wuhan, Hubei, China, Sep 16-21, 2025.
+* Nam Van Hai Phan, Minh-Khoa Nguyen, Trung Thanh Nguyen, Trung Thanh Pham, Phuong-Nam Tran, and Duc Ngoc Minh Dang, ["Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization"](https://doi.org/10.1007/978-3-032-04624-6_22), ICDAR 2025 (rank A), Wuhan, Hubei, China, Sep 16-21, 2025.
 
 * Phan, Binh Huynh Thanh, Hai Hoang Son Vu, Xuyen Le Bao Nguyen, Tinh Duc Huynh, Duong Thi Thuy Vu, and Duc Ngoc Minh Dang, ["LLM-Guided Multi-Object Tracking: Enhancing Retail Insights with TempRMOT,"](https://doi.org/10.1109/MLHMI66056.2025.00018) 6th International Conference on Machine Learning and Human-Computer Interaction (MLHMI), Kawasaki, Japan, 2025, pp. 69-73, DOI: 10.1109/MLHMI66056.2025.00018.
 
