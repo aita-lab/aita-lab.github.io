@@ -2,14 +2,15 @@
 layout: page
 title: Members
 permalink: /member/
-image: 
+image:
 description: Members, alumni and collaborators of the AI Technology and Application Research Lab at the FPT University, Ho Chi Minh Campus
 ---
 
+---
 
-***
 # Director
-***
+
+---
 
 #### <a href="/member/dnmduc" target="_blank">Duc Ngoc Minh Dang, Ph.D.</a>
 
@@ -19,26 +20,27 @@ Duc Ngoc Minh Dang received the B.Eng. and M.Eng. degrees in Electronics and Tel
 
 He is currently an Associate Professor at FPT University, Ho Chi Minh City, Vietnam, and Director of the AiTA Lab. His research interests include wireless ad hoc networks, vehicular networks, speech emotion recognition, multimodal learning, federated learning, and the Internet of Things.
 
-* 2022 -- Present: Associate Professor, Lecturer - Researcher, FPT University, Vietnam
-* 2017 -- 2022: Vice Dean, School of Graduate Studies, Ton Duc Thang University, Vietnam
-* 2015 -- 2017: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
-* 2011 -- 2014: Research assistant and Post-doc researcher at Department of Computer Engineering, Kyung Hee University, Korea
-* 2008 -- 2011: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
-* 2008 -- 2011: Head of Laboratory, Faculty of Electrical and Electronics Engineering, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam 
-* 2005 -- 2008: Senior Telecom Engineer - Team Leader, Japanese customer Project, TMA Solutions Company, Vietnam
-<br>
+- 2022 -- Present: Associate Professor, Lecturer - Researcher, FPT University, Vietnam
+- 2017 -- 2022: Vice Dean, School of Graduate Studies, Ton Duc Thang University, Vietnam
+- 2015 -- 2017: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
+- 2011 -- 2014: Research assistant and Post-doc researcher at Department of Computer Engineering, Kyung Hee University, Korea
+- 2008 -- 2011: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
+- 2008 -- 2011: Head of Laboratory, Faculty of Electrical and Electronics Engineering, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
+- 2005 -- 2008: Senior Telecom Engineer - Team Leader, Japanese customer Project, TMA Solutions Company, Vietnam
+  <br>
 
 [![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://dnmduc.github.io/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](http://orcid.org/0000-0001-9302-3129) 
-[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=2UKP440AAAAJ) 
-[![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57185132600) 
-[![WOS](https://img.shields.io/badge/Web%20of%20Science-black?style=flat-square&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/K-6970-2014) 
-[![Researchgate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Duc-Dang-6) 
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](http://orcid.org/0000-0001-9302-3129)
+[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=2UKP440AAAAJ)
+[![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57185132600)
+[![WOS](https://img.shields.io/badge/Web%20of%20Science-black?style=flat-square&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/K-6970-2014)
+[![Researchgate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Duc-Dang-6)
 
+---
 
-***
 # Researchers
-***
+
+---
 
 ###### <a href="/member/tpnam" target="_blank">Phuong-Nam Tran</a> (Jan 2023 -- Present)
 
@@ -46,7 +48,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Researchers/tpnam/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2024 -- Present: Master & Ph.D. program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
+			<li>Sep 2024 -- Present: Combined Master's & Ph.D. program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
 			<li>Dec 2021 -- Jun 2023: Part-time Researcher at Pythera AI, Ho Chi Minh City, Vietnam</li>
 			<li>Aug 2021 -- Oct 2023: Full-time AI Engineering at K&G Technology, Ho Chi Minh City, Vietnam</li>
             <li>Sep 2019 -- Mar 2023: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>
@@ -56,7 +58,6 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 		</ul></td>
 	</tr>
 </table>
-
 
 ###### Do Duc Hao, Ph.D.
 
@@ -86,12 +87,14 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 	</tr>
 </table>
 
-***
-# Undergraduate Research Assistants
-***
+---
 
+# Undergraduate Research Assistants
+
+---
 
 ###### <a href="/member/nmnhut" target="_blank">Nhut Minh Nguyen</a> (Dec 2022 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmnhut/avatar.jpg"/></td>  
@@ -104,6 +107,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/pvhnam" target="_blank">Hai Nam Van Phan</a> (Dec 2022 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/pvhnam/avatar.jpg"/></td>  
@@ -117,6 +121,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/ltthuy" target="_blank">Thu Thuy Le</a> (Dec 2022 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ltthuy/avatar.jpg"/></td>  
@@ -128,8 +133,8 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 	</tr>
 </table>
 
-
 ###### <a href="/member/nttrung" target="_blank">Thanh Trung Nguyen</a> (Dec 2022 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nttrung/avatar.jpg"/></td>  
@@ -142,6 +147,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/ptduc" target="_blank">Duc Tai Phan</a> (Sep 2023 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ptduc/avatar.jpg"/></td>  
@@ -154,6 +160,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/nmtrung" target="_blank">Trung Minh Nguyen</a> (Oct 2022 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmtrung/avatar.jpg"/></td>  
@@ -166,6 +173,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/nmkhoa" target="_blank">Minh-Khoa Nguyen</a> (Oct 2024 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmkhoa/avatar.jpg"/></td>  
@@ -178,6 +186,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/hqnhan" target="_blank">Nhan Hoang Quang</a> (Jun 2025 -- Present)
+
 <table border="0">  
     <tr valign="top">
         <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/hqnhan/avatar.jpg"/></td>  
@@ -191,6 +200,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/lmdat" target="_blank">Dat Le Minh</a> (Oct 2024 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/lmdat/avatar.jpg"/></td>  
@@ -203,6 +213,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/npkhang" target="_blank">Phuc Khang Nguyen</a> (Oct 2024 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/npkhang/avatar.jpg"/></td>  
@@ -215,6 +226,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/htanh" target="_blank">Tuan Anh Hoang</a> (Oct 2024 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/htanh/avatar.jpg"/></td>  
@@ -227,6 +239,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### <a href="/member/tntri" target="_blank">Tri Nguyen Thai</a> (Jun 2025 -- Present)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/tntri/avatar.jpg"/></td>  
@@ -240,18 +253,19 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 <!-- ###### <a href="/member/dtdkhoa" target="_blank">Dang Khoa Tran Do</a> (Jun 2025 -- Present)
-<table border="0">  
+<table border="0">
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/dtdkhoa/avatar.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/dtdkhoa/avatar.jpg"/></td>
 		<td><ul>
-			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>
             <li><a href="https://dangkhoaai.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
-			<li><a href="https://orcid.org/0009-0008-3166-384X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>	
+			<li><a href="https://orcid.org/0009-0008-3166-384X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
 </table> -->
 
 ###### <a href="/member/tqminh" target="_blank">Minh Quang Tran</a> (Jun 2025 -- Present)
+
 <table border="0">  
     <tr valign="top">
         <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/tqminh/avatar.jpg"/></td>  
@@ -264,9 +278,11 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
     </tr>
 </table>
 
-***
+---
+
 # Alumni
-***
+
+---
 
 <!-- #### Ph.D.
 
@@ -284,7 +300,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/ndhieunguyen/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2024 -- Present: Master & Ph.D. program, Dept. of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, Republic of Korea</li>
+			<li>Sep 2024 -- Present: Combined Master's & Ph.D. program, Dept. of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, Republic of Korea</li>
             <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li><a href="https://github.com/ndhieunguyen" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 			<li><a href="https://ndhieunguyen.github.io" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
@@ -293,11 +309,12 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 </table>
 
 ###### [Duong Thanh Tran](/member/ttduong) (Jun 2023 -- Dec 2023)
+
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/ttduong/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Sep 2024 -- Present: Master & Ph.D. program, Dept. of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, Republic of Korea</li>
+			<li>Sep 2024 -- Present: Combined Master's & Ph.D. program, Dept. of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, Republic of Korea</li>
             <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li><a href="https://duongttr.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
@@ -310,7 +327,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 	<tr valign="top">
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/pttrung/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Mar 2025 -- Present: Master & Ph.D. program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
+			<li>Mar 2025 -- Present: Combined Master's & Ph.D. program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
             <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li><a href="https://github.com/KevinRoller" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
@@ -320,10 +337,10 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 # Collaborators
 ***
 
-* Assoc. Prof. <a href="https://scholar.google.com/citations?hl=vi&user=BVSfqBAAAAAJ" target="_blank">Lam Thanh Hien</a>, Lac Hong University, Vietnam
-* Dr. <a href="https://dblp.org/pid/203/1237.html" target="_blank">Anh-Khoa Tran</a>, National Institute of Information and Communications Technology, Tokyo, Japan
-* Dr. <a href="https://ntcuong2103.github.io/" target="_blank">Tuan Cuong Nguyen</a>, Vietnamese - German University, Vietnam
-* Dr. <a href="https://scholar.google.com/citations?hl=en&user=zlYcKiAAAAAJ&hl=en" target="_blank">Thai Linh Le</a>, [Mila Institute](https://mila.quebec/en), Canada
-* Dr. <a href="https://luongvuongnguyen.github.io/" target="_blank">Luong Vuong Nguyen</a>, FPT University, Da Nang campus, Vietnam
-* Ph.D.c <a href="https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en" target="_blank">Ngoc-Hanh Dang</a>, University of Technology Sydney, NSW, Australia
-* Ph.D.c <a href="https://nhattruongpham.github.io/" target="_blank">Nhat Truong Pham</a>, Sungkyunkwan University, Suwon, Korea
+- Assoc. Prof. <a href="https://scholar.google.com/citations?hl=vi&user=BVSfqBAAAAAJ" target="_blank">Lam Thanh Hien</a>, Lac Hong University, Vietnam
+- Dr. <a href="https://dblp.org/pid/203/1237.html" target="_blank">Anh-Khoa Tran</a>, National Institute of Information and Communications Technology, Tokyo, Japan
+- Dr. <a href="https://ntcuong2103.github.io/" target="_blank">Tuan Cuong Nguyen</a>, Vietnamese - German University, Vietnam
+- Dr. <a href="https://scholar.google.com/citations?hl=en&user=zlYcKiAAAAAJ&hl=en" target="_blank">Thai Linh Le</a>, [Mila Institute](https://mila.quebec/en), Canada
+- Dr. <a href="https://luongvuongnguyen.github.io/" target="_blank">Luong Vuong Nguyen</a>, FPT University, Da Nang campus, Vietnam
+- Ph.D.c <a href="https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en" target="_blank">Ngoc-Hanh Dang</a>, University of Technology Sydney, NSW, Australia
+- Ph.D.c <a href="https://nhattruongpham.github.io/" target="_blank">Nhat Truong Pham</a>, Sungkyunkwan University, Suwon, Korea
