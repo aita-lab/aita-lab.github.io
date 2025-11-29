@@ -47,7 +47,9 @@ Education
 
 Working Experience
 ============
-* 2022 - present: FPT University, Vietnam <br> Associate Professor, AiTa Lab
+* 2025 - present: FPT University, Vietnam <br> Associate Professor, AiTA Lab
+
+* 2022 - present: FPT University, Vietnam <br> Lecturer - Researcher, AiTA Lab
 
 * 2017 - 2022: Ton Duc Thang University, Vietnam <br> Vice Dean, School of Graduate Studies 
 

@@ -20,7 +20,8 @@ Duc Ngoc Minh Dang received the B.Eng. and M.Eng. degrees in Electronics and Tel
 
 He is currently an Associate Professor at FPT University, Ho Chi Minh City, Vietnam, and Director of the AiTA Lab. His research interests include wireless ad hoc networks, vehicular networks, speech emotion recognition, multimodal learning, federated learning, and the Internet of Things.
 
-- 2022 -- Present: Associate Professor, Lecturer - Researcher, FPT University, Vietnam
+- 2025 -- Present: Associate Professor, FPT University, Vietnam
+- 2022 -- Present: Lecturer - Researcher, FPT University, Vietnam
 - 2017 -- 2022: Vice Dean, School of Graduate Studies, Ton Duc Thang University, Vietnam
 - 2015 -- 2017: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
 - 2011 -- 2014: Research assistant and Post-doc researcher at Department of Computer Engineering, Kyung Hee University, Korea
