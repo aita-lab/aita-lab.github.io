@@ -19,11 +19,15 @@ toc_label: "Table of Contents"
 
 ***
 
+* Nhut Minh Nguyen, Trung Thanh Nguyen, Thu Thuy Le, Ngoc-Hanh Dang, Phuong Luu Vo, Lam Thanh Hien, and Duc Ngoc Minh Dang, [“HyperDyG: Hypergraph-Driven Dynamic Fusion for Semi-Supervised Multimodal Emotion Recognition,”](https://doi.org/10.4108/eetinis.131.10903) EAI Endorsed Transactions on Industrial Networks and Intelligent Systems, vol. 13, no. 1, 2026, doi: 10.4108/eetinis.131.10903.
+
+* Nhut Minh Nguyen, Minh Trung Nguyen, Thanh Trung Nguyen, Phuong-Nam Tran, Nhat Truong Pham, Linh Le, Alice Othmani, Abdulmotaleb El Saddik, and Duc Ngoc Minh Dang, [“Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion,”](https://doi.org/10.1016/j.engappai.2025.113396) Engineering Applications of Artificial Intelligence, 2026, DOI: 10.1016/j.engappai.2025.113396
+
 * Nhut Minh Nguyen, Thanh Trung Nguyen, Phuong-Nam Tran, Chee Peng Lim, Nhat Truong Pham, and Duc Ngoc Minh Dang, ["Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies"](https://doi.org/10.1016/j.engappai.2025.112624), Engineering Applications of Artificial Intelligence, 2025, DOI: 10.1016/j.engappai.2025.112624  
 
 * Vo Phuc Tinh, Hoang Hai Son, Duc Ngoc Minh Dang, Nguyen Hoang Nam, Duy-Dong Le, Thai-Binh Nguyen, Thanh-Qui Pham, Van-Luong Nguyen, Duy-Thanh Huynh, and Tran Anh Khoa, ["CroSSHeteroFL: Cross-Stratified Sampling Composition-Fitting to Federated Learning for Heterogeneous Clients"](https://doi.org/10.1109/ACCESS.2024.3475737), IEEE Access, 2024, DOI: 10.1109/ACCESS.2024.3475737
 
-* Duc Ngoc Minh Dang, ["Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol"](https://doi.org/10.15598/aeee.v23i2.240513), Advances in Electrical and Electronic Engineering, 2024, DOI: 10.15598/aeee.v23i2.240513
+* Duc Ngoc Minh Dang, ["Enhancing IEEE 802.11ah Networks: A Spatial Multi-Channel MAC Protocol"](https://doi.org/10.15598/aeee.v23i2.240513), Advances in Electrical and Electronic Engineering, 2025, DOI: 10.15598/aeee.v23i2.240513
 
 * Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, and Duc Ngoc Minh Dang, ["SwinTExCo: Exemplar-based Video Colorization using Swin Transformer"](https://doi.org/10.1016/j.eswa.2024.125437), Expert Systems with Applications, 2024, DOI: 10.1016/j.eswa.2024.125437
 
@@ -39,6 +43,16 @@ toc_label: "Table of Contents"
 # Conference Proceedings
 
 ***
+
+* Quang Nhan Hoang, Minh Tri Pham, and Duc Ngoc Minh Dang, “HQM-Net: A Hybrid Quantum-Classical Medical Imaging Architecture for Multi-Disease Classification across Heterogeneous Modalities”, The 7th International Conference on Machine Learning and Human-Computer Interaction (MLHMI 2026), Tokyo, Japan, March 2026. 
+
+* Nhut Minh Nguyen, Thu Thuy Le, Thanh Trung Nguyen, and Duc Ngoc Minh Dang, “SemiFedER: Semi-supervised Federated Averaging for Multimodal Emotion Recognition”, The 7th International Conference on Machine Learning and Human-Computer Interaction (MLHMI 2026), Tokyo, Japan, March 2026. 
+
+* Nam Van Hai Phan, Khoa Minh Nguyen, Phu Nguyen Ngoc Thien, Nguyen Doan Hieu Nguyen, Tri Minh Pham, and Duc Ngoc Minh Dang, “ChemAligner-T5: A Unified Text-to-Molecule Model via Representation Alignment”, The 2nd International Conference on Computational Intelligence in Engineering Science (ICCIES 2026), Nha Trang, Khanh Hoa, Viet Nam, April 2026.
+
+* Phuong Lam Nguyen, Duc Tai Phan, Thanh Trung Nguyen, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, “YOLOv5-powered Smart Parking System with IoT-based Real-Time Slot Monitoring”, The 19th International Conference on Computing and Communication Technologies (RIVF 2025), Vietnam, 2025.
+
+* Quang Nhan Hoang, Thanh Trung Pham, and Duc Ngoc Minh Dang, “Efficient Hybrid Quantum-Classical Convolutional Neural Network with Feature Propagation Layer for Multi-Class Image Classification”, The 10th International Conference on Advanced Engineering – Theory and Applications (AETA 2025), Vietnam, 2025.
 
 * Thu Thuy Le, Nhut Minh Nguyen, Nhat Truong Pham, Phuong-Nam Tran, Nguyen Doan Hieu Nguyen, Phuong Luu Vo, Balachandran Manavalan, Duc Ngoc Minh Dang, "Federated Semi-Supervised FixMatch: Enhancing CutMix for Medical Image Segmentation", 2025 IEEE International Conference on Big Data, Macau SAR, China, 2025.
 
@@ -132,7 +146,7 @@ toc_label: "Table of Contents"
 
 * Phuong-Nam Tran, Nhat Truong Pham, Duc Ngoc Minh Dang, Eui-Nam Huh, Choong Seon Hong, "QTSeg: A Query Token-Based Architecture for Efficient 2D Medical Image Segmentation", [arXiv:2412.17241](https://doi.org/10.48550/arXiv.2412.17241) (Preprint)
 
-* Nguyen, Nhut Minh and Nguyen, Minh Trung and Nguyen, Thanh Trung and Tran, Phuong-Nam and Pham, Nhat Truong and Le, Linh and OTHMANI, Alice and Saddik, Abdulmotaleb El and Dang, Duc Ngoc Minh, "Fleser: Multimodal Emotion Recognition Via Dynamic Fuzzy Membership and Attention Fusion". Available at [SSRN]( https://ssrn.com/abstract=5316634) (Preprint)
+
 
 <!-- * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint)
 

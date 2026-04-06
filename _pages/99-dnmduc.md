@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Duc Ngoc Minh Dang, Ph.D."
+title: "Assoc. Prof. Duc Ngoc Minh Dang, Ph.D."
 permalink: /member/dnmduc
 image: Members/Director/background.jpg
 description: Curriculum vitae of Duc Dang
@@ -47,7 +47,9 @@ Education
 
 Working Experience
 ============
-* 2022 - present: FPT University, Vietnam <br> Associate Professor, AiTa Lab
+* 2026 - present: FPT University, Vietnam <br> Associate Professor, Dean, Faculty of Information Technology
+
+* 2022 - present: FPT University, Vietnam <br> Researcher, AiTA Lab
 
 * 2017 - 2022: Ton Duc Thang University, Vietnam <br> Vice Dean, School of Graduate Studies 
 
@@ -79,7 +81,9 @@ Awards & Grants
 Journal Publications
 ============
 
-* Nhut Minh Nguyen, Thanh Trung Nguyen, and Duc Ngoc Minh Dang, "HemoGAT: Heterogeneous multimodal speech emotion recognition with cross-modal transformer and graph attention network", Advances in Electrical and Electronic Engineering, 2026
+* Nhut Minh Nguyen, Trung Thanh Nguyen, Thu Thuy Le, Ngoc-Hanh Dang, Phuong Luu Vo, Lam Thanh Hien, and Duc Ngoc Minh Dang, “HyperDyG: Hypergraph-Driven Dynamic Fusion for Semi-Supervised Multimodal Emotion Recognition,” EAI Endorsed Transactions on Industrial Networks and Intelligent Systems, vol. 13, no. 1, 2026, DOI: 10.4108/eetinis.131.10903.
+
+* Nhut Minh Nguyen, Thanh Trung Nguyen, and Duc Ngoc Minh Dang, "HemoGAT: Heterogeneous multimodal speech emotion recognition with cross-modal transformer and graph attention network", Advances in Electrical and Electronic Engineering, 2026. DOI: 0.15598/aeee.v24i2.250415
 
 * Nhut Minh Nguyen, Thanh Trung Nguyen, Phuong-Nam Tran, Chee Peng Lim, Nhat Truong Pham, and Duc Ngoc Minh Dang, "Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies", Engineering Applications of Artificial Intelligence, 2025, DOI: 10.1016/j.engappai.2025.112624  
 
@@ -133,6 +137,16 @@ Journal Publications
 
 Conference Proceedings
 ============
+* Quang Nhan Hoang, Minh Tri Pham, and Duc Ngoc Minh Dang, “HQM-Net: A Hybrid Quantum-Classical Medical Imaging Architecture for Multi-Disease Classification across Heterogeneous Modalities”, The 7th International Conference on Machine Learning and Human-Computer Interaction (MLHMI 2026), Tokyo, Japan, March 2026. 
+
+* Nhut Minh Nguyen, Thu Thuy Le, Thanh Trung Nguyen, and Duc Ngoc Minh Dang, “SemiFedER: Semi-supervised Federated Averaging for Multimodal Emotion Recognition”, The 7th International Conference on Machine Learning and Human-Computer Interaction (MLHMI 2026), Tokyo, Japan, March 2026. 
+
+* Nam Van Hai Phan, Khoa Minh Nguyen, Phu Nguyen Ngoc Thien, Nguyen Doan Hieu Nguyen, Tri Minh Pham, and Duc Ngoc Minh Dang, “ChemAligner-T5: A Unified Text-to-Molecule Model via Representation Alignment”, The 2nd International Conference on Computational Intelligence in Engineering Science (ICCIES 2026), Nha Trang, Khanh Hoa, Viet Nam, April 2026.
+
+* Phuong Lam Nguyen, Duc Tai Phan, Thanh Trung Nguyen, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, “YOLOv5-powered Smart Parking System with IoT-based Real-Time Slot Monitoring”, The 19th International Conference on Computing and Communication Technologies (RIVF 2025), Vietnam, 2025.
+
+* Quang Nhan Hoang, Thanh Trung Pham, and Duc Ngoc Minh Dang, “Efficient Hybrid Quantum-Classical Convolutional Neural Network with Feature Propagation Layer for Multi-Class Image Classification”, The 10th International Conference on Advanced Engineering – Theory and Applications (AETA 2025), Vietnam, 2025.
+
 * Thu Thuy Le, Nhut Minh Nguyen, Nhat Truong Pham, Phuong-Nam Tran, Nguyen Doan Hieu Nguyen, Phuong Luu Vo, Balachandran Manavalan, Duc Ngoc Minh Dang, "Federated Semi-Supervised FixMatch: Enhancing CutMix for Medical Image Segmentation", 2025 IEEE International Conference on Big Data, Macau SAR, China, 2025.
 
 * Duc Tai Phan, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, “DAAL: Dual Ambiguity in Active Learning for Object Detection with YOLOE”, The 17th International Conference on Management of Digital EcoSystems (MEDES 2025), Ho Chi Minh City, Vietnam, Nov 24–26, 2025. 

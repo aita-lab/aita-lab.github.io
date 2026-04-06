@@ -11,7 +11,7 @@ description: Members, alumni and collaborators of the AI Technology and Applicat
 # Director
 ***
 
-#### <a href="/member/dnmduc" target="_blank">Duc Ngoc Minh Dang, Ph.D.</a>
+#### <a href="/member/dnmduc" target="_blank">Assoc. Prof. Duc Ngoc Minh Dang, Ph.D.</a>
 
 <img align="left" src="/images/Members/Director/avatar.jpg" style="width : 150px; height : 150px; margin : 10px">
 

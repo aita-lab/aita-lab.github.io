@@ -4,7 +4,7 @@ title:  Expert Systems With Applications (ESWA) (Q1 Journal)
 date:   2024-09-23 00:00:00 +0900
 image:  2024/eswa.jpg
 tags:   News
-published: true
+published: false
 description: Our paper, "SwinTExCo - Exemplar-based Video Colorization using Swin Transformer", has been accepted by the Expert Systems With Applications Journal.
 ---
 
