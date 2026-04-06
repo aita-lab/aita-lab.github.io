@@ -19,27 +19,26 @@ description: Curriculum vitae of Trung Thanh Pham
 * TOC
 {:toc}
 
-***
+---
 
-Research Experience
-============
+# Research Experience
 
-* Aug 2023 -- Sep 2024: Full-time Researcher, AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.
+- Aug 2023 -- Sep 2024: Full-time Researcher, AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.
 
-***
+---
 
-Education
-============
-* Mar 2025 -- Present: Master & Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea
-* Sep 2020 -- Apr 2024: B.Sc degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.
+# Education
 
-***
+- Mar 2025 -- Present: Combined Master's & Ph.D program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea
+- Sep 2020 -- Apr 2024: B.Sc degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam.
 
-Awards & Grants
-============
-* Aug 2023: Champion prize of FPT Edu Research Festival-ResFes finale.
-* Jul 2023: 1st Runner-up at FPT University HCM Research Festival 2023, FPT University Ho Chi Minh.
-* Apr 2021: Top 5 student performances of FPT University IT Faculty Award (Spring 2021).
-* Jan 2020: 100% Scholarship, FPT University Ho Chi Minh City.
+---
 
-***
+# Awards & Grants
+
+- Aug 2023: Champion prize of FPT Edu Research Festival-ResFes finale.
+- Jul 2023: 1st Runner-up at FPT University HCM Research Festival 2023, FPT University Ho Chi Minh.
+- Apr 2021: Top 5 student performances of FPT University IT Faculty Award (Spring 2021).
+- Jan 2020: 100% Scholarship, FPT University Ho Chi Minh City.
+
+---
