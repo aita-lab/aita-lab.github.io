@@ -19,7 +19,9 @@ toc_label: "Table of Contents"
 
 ***
 
-* Nhut Minh Nguyen, Trung Thanh Nguyen, Thu Thuy Le, Ngoc-Hanh Dang, Phuong Luu Vo, Lam Thanh Hien, and Duc Ngoc Minh Dang, [“HyperDyG: Hypergraph-Driven Dynamic Fusion for Semi-Supervised Multimodal Emotion Recognition,”](https://doi.org/10.4108/eetinis.131.10903) EAI Endorsed Transactions on Industrial Networks and Intelligent Systems, vol. 13, no. 1, 2026, doi: 10.4108/eetinis.131.10903.
+* Duc Tai Phan, Nhut Minh Nguyen, Khang Phuc Nguyen, Phuong-Nam Tran, Nhat Truong Pham, Linh Le, Choong Seon Hong, and Duc Ngoc Minh Dang, ["From object difficulty to image scoring: A strategy for active learning in object detection,"](https://doi.org/10.1016/j.knosys.2026.115946) Knowledge-Based Systems, 2026, DOI: 10.1016/j.knosys.2026.115946
+
+* Nhut Minh Nguyen, Trung Thanh Nguyen, Thu Thuy Le, Ngoc-Hanh Dang, Phuong Luu Vo, Lam Thanh Hien, and Duc Ngoc Minh Dang, [“HyperDyG: Hypergraph-Driven Dynamic Fusion for Semi-Supervised Multimodal Emotion Recognition,”](https://doi.org/10.4108/eetinis.131.10903) EAI Endorsed Transactions on Industrial Networks and Intelligent Systems, 2026, DOI: 10.4108/eetinis.131.10903
 
 * Nhut Minh Nguyen, Minh Trung Nguyen, Thanh Trung Nguyen, Phuong-Nam Tran, Nhat Truong Pham, Linh Le, Alice Othmani, Abdulmotaleb El Saddik, and Duc Ngoc Minh Dang, [“Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion,”](https://doi.org/10.1016/j.engappai.2025.113396) Engineering Applications of Artificial Intelligence, 2026, DOI: 10.1016/j.engappai.2025.113396
 
@@ -33,7 +35,7 @@ toc_label: "Table of Contents"
 
 * Tran Anh Khoa, Trac Nguyen Dang, Tinh Vo Phuc, Nam Nguyen Hoang, Duc Ngoc Minh Dang, Son Hoang Hai, and Lam Pham Duc, ["Safety Is Our Friend: A Federated Learning Framework Toward Driver’s State and Behavior Detection"](https://doi.org/10.1109/TCSS.2023.3273727), IEEE Transactions on Computational Social Systems, 2023, DOI: 10.1109/TCSS.2023.3273727
 
-* Nhat Truong Pham, Duc Ngoc Minh Dang, N. D., Nguyen, T. T., Nguyen, H., Manavalan, B., Lim, C. P., & Nguyen, S. D. ["Hybrid data augmentation and deep attention-based dilated convolutional-recurrent neural networks for speech emotion recognition"](https://doi.org/10.1016/j.eswa.2023.120608). Expert Systems with Applications, 2023. DOI: j.eswa.2023.120608
+* Nhat Truong Pham, Duc Ngoc Minh Dang, Ngoc Duy Nguyen, Thanh Thi Nguyen, Hai Nguyen, Balachandran Manavalan, Chee Peng Lim, and Sy Dzung Nguyen, ["Hybrid data augmentation and deep attention-based dilated convolutional-recurrent neural networks for speech emotion recognition"](https://doi.org/10.1016/j.eswa.2023.120608), Expert Systems with Applications, 2023, DOI: j.eswa.2023.120608
 
 * Nhat Truong Pham, Sy Dzung Nguyen, Vu Song Thuy Nguyen, Bich Ngoc Hong Pham, and Duc Ngoc Minh Dang [“Speech emotion recognition using overlapping sliding window and Shapley additive explainable deep neural network”](https://doi.org/10.1080/24751839.2023.2187278), Journal of Information and Telecommunication, 2023, DOI: 10.1080/24751839.2023.2187278
 
@@ -48,13 +50,13 @@ toc_label: "Table of Contents"
 
 * Nhut Minh Nguyen, Thu Thuy Le, Thanh Trung Nguyen, and Duc Ngoc Minh Dang, “SemiFedER: Semi-supervised Federated Averaging for Multimodal Emotion Recognition”, The 7th International Conference on Machine Learning and Human-Computer Interaction (MLHMI 2026), Tokyo, Japan, March 2026. 
 
-* Nam Van Hai Phan, Khoa Minh Nguyen, Phu Nguyen Ngoc Thien, Nguyen Doan Hieu Nguyen, Tri Minh Pham, and Duc Ngoc Minh Dang, “ChemAligner-T5: A Unified Text-to-Molecule Model via Representation Alignment”, The 2nd International Conference on Computational Intelligence in Engineering Science (ICCIES 2026), Nha Trang, Khanh Hoa, Viet Nam, April 2026.
+* Nam Van Hai Phan, Khoa Minh Nguyen, Phu Nguyen Ngoc Thien, Nguyen Doan Hieu Nguyen, Tri Minh Pham, and Duc Ngoc Minh Dang, [“ChemAligner-T5: A Unified Text-to-Molecule Model via Representation Alignment”](https://doi.org/10.1007/978-3-032-21625-0_16), The 2nd International Conference on Computational Intelligence in Engineering Science (ICCIES 2026), Nha Trang, Khanh Hoa, Viet Nam, April 2026.
 
-* Phuong Lam Nguyen, Duc Tai Phan, Thanh Trung Nguyen, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, “YOLOv5-powered Smart Parking System with IoT-based Real-Time Slot Monitoring”, The 19th International Conference on Computing and Communication Technologies (RIVF 2025), Vietnam, 2025.
+* Phuong Lam Nguyen, Duc Tai Phan, Thanh Trung Nguyen, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, [“YOLOv5-powered Smart Parking System with IoT-based Real-Time Slot Monitoring”](https://doi.org/10.1109/RIVF68649.2025.11365041), The 19th International Conference on Computing and Communication Technologies (RIVF 2025), Vietnam, 2025.
 
 * Quang Nhan Hoang, Thanh Trung Pham, and Duc Ngoc Minh Dang, “Efficient Hybrid Quantum-Classical Convolutional Neural Network with Feature Propagation Layer for Multi-Class Image Classification”, The 10th International Conference on Advanced Engineering – Theory and Applications (AETA 2025), Vietnam, 2025.
 
-* Thu Thuy Le, Nhut Minh Nguyen, Nhat Truong Pham, Phuong-Nam Tran, Nguyen Doan Hieu Nguyen, Phuong Luu Vo, Balachandran Manavalan, Duc Ngoc Minh Dang, "Federated Semi-Supervised FixMatch: Enhancing CutMix for Medical Image Segmentation", 2025 IEEE International Conference on Big Data, Macau SAR, China, 2025.
+* Thu Thuy Le, Nhut Minh Nguyen, Nhat Truong Pham, Phuong-Nam Tran, Nguyen Doan Hieu Nguyen, Phuong Luu Vo, Balachandran Manavalan, Duc Ngoc Minh Dang, ["Federated Semi-Supervised FixMatch: Enhancing CutMix for Medical Image Segmentation"](https://doi.org/10.1109/BigData66926.2025.11402514), 2025 IEEE International Conference on Big Data, Macau SAR, China, 2025.
 
 * Duc Tai Phan, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, “DAAL: Dual Ambiguity in Active Learning for Object Detection with YOLOE”, The 17th International Conference on Management of Digital EcoSystems (MEDES 2025), Ho Chi Minh City, Vietnam, Nov 24–26, 2025. 
 
@@ -142,9 +144,9 @@ toc_label: "Table of Contents"
 # Unpublished Manuscripts
 
 ***
-<!-- * Nguyen, Nhut Minh and Nguyen, Thanh Trung and Tran, Phuong-Nam and Lim, Chee Peng and Pham, Nhat Truong and Dang, Duc Ngoc Minh, "Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies", Available at [SSRN](http://dx.doi.org/10.2139/ssrn.5063214) (Preprint) -->
+* Hoang Khang Trang, Bao Quoc Nguyen, Viet Vinh Khanh Dinh, Nhut Minh Nguyen, Nhat Truong Pham, Phuong-Nam Tran, Phuong Luu Vo, and Duc Ngoc Minh Dang, "Towards effective multimodal emotion recognition in conversations via joint multi-graph learning and self-distillation", Available at [SSRN](https://dx.doi.org/10.2139/ssrn.6103427) (Preprint)
 
-* Phuong-Nam Tran, Nhat Truong Pham, Duc Ngoc Minh Dang, Eui-Nam Huh, Choong Seon Hong, "QTSeg: A Query Token-Based Architecture for Efficient 2D Medical Image Segmentation", [arXiv:2412.17241](https://doi.org/10.48550/arXiv.2412.17241) (Preprint)
+* Phuong-Nam Tran, Nhat Truong Pham, Duc Ngoc Minh Dang, Eui-Nam Huh, Choong Seon Hong, "QTSeg: A Query Token-Based Dual-Mix Attention Framework with Multi-Level Feature Distribution for Medical Image Segmentation", Available at [arXiv:2412.17241](https://doi.org/10.48550/arXiv.2412.17241) (Preprint)
 
 
 
