@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Archive
 permalink: /archive/
@@ -11,7 +11,7 @@ description: Archive of events, memories and achievements of the AI Technology a
 {:toc}
 
 ***
-### 2024
+### 2024 -->
 
 <!-- ***
 ##### Jul 17th, 2024 -- Jul 31st, 2024

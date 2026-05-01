@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Lectures
 permalink: /lecture/
@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 ***
 ### 2024
 
-***
+*** -->
 <!-- #### Summer 2024
 {:.no_toc}
 
