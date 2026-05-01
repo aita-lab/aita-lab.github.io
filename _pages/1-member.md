@@ -86,6 +86,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>					
 			<li>Research Interests: Speech emotion recognition, Graph Neural Networks</li>	
             <li><a href="https://orcid.org/0009-0003-1281-5346" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+			<li><a href="https://nhut-ngnn.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
@@ -112,6 +113,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 		<td><ul>
 			<li>Dec 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li>Research Interests: Federated Learning, Image Segmentation</li>			
+			<li><a href="https://orcid.org/0009-0006-9046-4774" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
             <li><a href="https://shuilee.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
@@ -125,6 +127,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 		<td><ul>
 			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
 			<li>Research Interests: Handwritten mathematical expressions recognition</li>
+			<li><a href="https://orcid.org/0009-0004-7553-4848" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
             <li><a href="https://github.com/trungtndev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
@@ -138,6 +141,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 		<td><ul>
 			<li>Jan 2024 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>
 			<li>Research Interests: Active Learning, Computer Vision</li>	
+			<li><a href="https://orcid.org/0009-0005-2578-0626" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
             <li><a href="https://taiduc1001.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
@@ -151,6 +155,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 		<td><ul>
 			<li>Oct 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li>Research Interests: Speech emotion recognition, Knowledge Distillation</li>	
+			<li><a href="https://orcid.org/0009-0007-0504-3412" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
             <li><a href="https://nmihtrug.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
@@ -177,8 +182,9 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
         <td><ul>
             <li>Jan 2025 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>
 			<li>Research Interests: Quantum Machine Learning</li>
-            <li><a href="https://github.com/blackfox20092006" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://github.com/nhanhqq" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
             <li><a href="https://orcid.org/0009-0003-1597-6890" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+			<li><a href="https://nhanhqq.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
         </ul></td>
     </tr>
 </table>
@@ -230,7 +236,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 		<td><ul>
 			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>	
 			<li>Research Interests: Emotion recognition</li>
-            <li><a href="https://github.com/saudade2210" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://github.com/trissnguyenn2210" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 			<li><a href="https://orcid.org/0009-0003-1353-5899" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>	
 		</ul></td>
 	</tr>
@@ -316,7 +322,8 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 		<td width="120"><img align="left" width="150px" margin="10px" src="/images/Members/Alumni/ttduong/avatar.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2024 -- Present: Combined Master's & Ph.D. program, Dept. of Integrative Biotechnology, College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon, 16419, Gyeonggi-do, Republic of Korea</li>
-            <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
+            <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li><a href="https://github.com/duongttr" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>	
 			<li><a href="https://duongttr.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
@@ -331,6 +338,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 			<li>Mar 2025 -- Present: Combined Master's & Ph.D. program, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea</li>
             <li>Sep 2020 -- Apr 2024: B.Sc. degree in Artificial Intelligence, FPT University, Ho Chi Minh City, Vietnam</li>		
 			<li><a href="https://github.com/KevinRoller" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+			<li><a href="https://kevinroller.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
