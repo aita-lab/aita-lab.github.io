@@ -9,57 +9,597 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
-<!-- > Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details. -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-***
+<style>
+  .research-container {
+    --bg-main: #ffffff;
+    --bg-card: #f8f9fa;
+    --bg-card-hover: #ffffff;
+    --primary-theme: #ed8428;
+    --accent-theme: #d97521;
+    --text-primary: #2b2b2b;
+    --text-secondary: #555555;
+    --text-muted: #888888;
+    --border-color: #eaebed;
+    --shadow-sm: 0 2px 4px rgba(0,0,0,0.05);
+    --shadow-md: 0 4px 12px rgba(237, 132, 40, 0.12);
 
-<h5>Table of Contents</h5>
-* TOC
-{:toc}
+    background: var(--bg-main);
+    color: var(--text-primary);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 24px 40px 24px;
+    box-sizing: border-box;
+  }
 
-***
-<!-- # Medical image segmentation
-This research proposal aims to explore distributed learning in healthcare by comparing the performance and security of Federated Learning, Split Learning, and SplitFed Learning methods on 3D liver images using the LiTS dataset. The study will focus on applying these distributed learning techniques to segmentation models, particularly those based on U-Net architecture, and evaluate their effectiveness in terms of accuracy, privacy preservation, and communication efficiency. The expected outcomes include theoretical insights, methodological frameworks, and practical applications that could enhance patient data management and expand the use of distributed learning in medical image analysis beyond liver segmentation.
+  .research-container * { 
+    box-sizing: border-box; 
+  }
 
-# Speech emotion recognition
-This research proposal outlines a study aimed at enhancing Speech Emotion Recognition (SER) through the integration of multi-feature fusion and a Graph-LSTM architecture. The researchers plan to combine diverse acoustic and linguistic features to create a comprehensive representation of emotional expressions in speech, leveraging Graph Neural Networks to model complex relationships between emotional cues and Long Short-Term Memory networks to capture temporal dependencies. The expected outcomes include improved accuracy and robustness in SER, enhanced interpretability of the model, and a more comprehensive representation of emotional cues in speech.
+  /* Header */
+  .aita-header {
+    text-align: center;
+    margin-bottom: 48px;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 32px;
+    display: block;
+    height: auto;
+    overflow: visible;
+  }
 
-# Handwritten mathematical expressions recognition
-This research proposal outlines a study on Handwritten Mathematical Expressions (HME) Recognition, aiming to improve structural analysis for enhanced recognition accuracy. The project focuses on addressing challenges in understanding hierarchical and spatial relationships between mathematical symbols using deep learning techniques. Two main approaches are proposed: direct feature extraction from images and a two-step process involving symbol detection and spatial relationship analysis. The study aims to develop a robust structural analysis model that outperforms current baselines in recognizing complex and nested mathematical structures across various handwriting styles.
+  .aita-badge {
+    display: inline-block;
+    background: rgba(237, 132, 40, 0.1);
+    color: var(--primary-theme);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 6px 16px;
+    border-radius: 4px;
+    margin-bottom: 24px;
+  }
 
-# Quantum machine learning
-Quantum machine learning is an emerging field that combines quantum computing with machine learning to potentially solve complex problems more efficiently than classical methods. By harnessing quantum properties such as superposition, entanglement, and quantum tunneling, QML aims to enhance tasks like data analysis, optimization, and pattern recognition. The field explores algorithms that can leverage quantum advantages, categorized into areas like quantum-enhanced classical algorithms, feature selection, data classification, optimization, generative models, and dimensionality reduction.
+  .aita-header h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.2;
+    margin-bottom: 16px;
+  }
+  
+  .aita-header h1 .aita-highlight {
+    color: var(--primary-theme);
+  }
 
-# Vietnamese traffic sign recognition
-This study presents an approach to Vietnamese traffic sign recognition designed for the IOT device, utilizing the YOLOv8 Nano model to achieve real-time performance. The researchers introduce a new dataset called VTSDB100, which includes 100 different classes of traffic signs captured in diverse locations within Ho Chi Minh City, Vietnam. The researchers conduct experiments using various object detection methods on the VTSDB100 dataset, including YOLOv8, YOLOv9, YOLOv10, YOLOX, RetinaNet, and Faster R-CNN. The paper also describes techniques for deploying deep learning models on resource-constrained devices, such as using TensorRT and quantization to optimize inference speed. Finally, the authors propose a workflow for a real-time traffic sign recognition system on the Jetson Nano 2GB, which includes object detection, tracking, and a class filter algorithm to minimize false predictions.
+  .aita-subtitle {
+    font-size: 18px;
+    color: var(--text-secondary);
+    max-width: 650px;
+    margin: 0 auto;
+    font-weight: 400;
+    line-height: 1.6;
+  }
 
-# Distributed and Adaptive Machine Learning
-Distributed and Adaptive Machine Learning, including federated learning, split learning, active learning, and curriculum learning, aims to enhance efficiency, privacy, and adaptability in model training. Federated learning enables distributed model training across multiple clients, where local data remains private and only model updates are aggregated centrally to create a global model on the server. Split learning, another privacy-preserving technique, divides a neural network between a client and a server: the client processes the initial layers using local data and sends intermediate outputs to the server for further computation, reducing raw data exposure. Active learning optimizes learning efficiency in semi-supervised settings by initially training with minimal labeled data and then having the model iteratively select the most informative unlabeled data points for human annotation. Curriculum learning improves training by presenting data in a sequence from simpler to more complex examples, thereby accelerating convergence and enhancing model performance. 
+  /* Table of Contents */
+  .aita-toc {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--primary-theme);
+    border-radius: 8px;
+    padding: 24px;
+    margin-bottom: 48px;
+    display: block;
+    box-shadow: var(--shadow-sm);
+  }
+  
+  .aita-toc-heading {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 16px;
+  }
 
+  .aita-toc-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
 
-# Spiking Neural Networks
-Spiking Neural Networks (SNNs) are a type of artificial neural network inspired by the brain's biological neurons, processing information using discrete spikes or events rather than continuous values. Research on SNNs focuses on their energy efficiency, biological plausibility, and ability to handle temporal data, making them suitable for neuromorphic computing and tasks like pattern recognition, sensory processing, and real-time decision-making. Key topics include developing efficient training algorithms, optimizing hardware implementations, and exploring applications in robotics, IoT, and brain-machine interfaces. -->
+  .aita-toc-list li {
+    margin-bottom: 12px;
+    font-size: 15px;
+  }
 
-# AI-Integrated MAC Protocols
-This research investigates the integration of artificial intelligence (AI), particularly reinforcement learning and deep learning, into Medium Access Control (MAC) protocols to optimize key network operations such as channel access, power control, channel selection, and collision detection. By harnessing AI’s adaptive decision-making capabilities, the study aims to enhance the performance of IoT and ad hoc networks, resulting in lower latency and improved energy efficiency. This intelligent approach enables MAC protocols to respond dynamically to varying network conditions, contributing to more robust and efficient communication systems. 
+  .aita-toc-list a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: color 0.2s ease, padding-left 0.2s ease;
+    display: inline-block;
+  }
 
-# Speech Emotion Recognition
-This study aims to advance Speech Emotion Recognition (SER) by integrating multi-feature fusion with a Graph-LSTM architecture. By combining acoustic and linguistic features, the research leverages Graph Neural Networks to model complex emotional relationships and Long Short-Term Memory networks to capture temporal patterns. Anticipated outcomes include higher SER accuracy, improved model interpretability, and a richer representation of emotional cues, applicable to real-world human-computer interaction systems.
+  .aita-toc-list a:hover {
+    color: var(--primary-theme);
+    padding-left: 6px;
+  }
 
-# Handwritten Mathematical Expressions Recognition
-This research focuses on improving Handwritten Mathematical Expressions (HME) Recognition by enhancing structural analysis. It addresses challenges in interpreting hierarchical and spatial relationships among mathematical symbols using deep learning. Two approaches are proposed: direct feature extraction from images and a two-step process of symbol detection followed by spatial relationship analysis. The study aims to develop a robust model that surpasses existing benchmarks in recognizing complex mathematical structures across diverse handwriting styles.
+  /* Section titles */
+  .aita-section-label {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-top: 48px;
+    margin-bottom: 32px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    clear: both;
+    border: 0;
+    padding: 0;
+  }
 
-# Medical Image Segmentation
-This research investigates distributed learning for medical image segmentation, focusing on Federated Learning, Split Learning, and SplitFed Learning applied to 3D liver images from the LiTS dataset. The study will evaluate these methods using U-Net-based segmentation models, comparing their accuracy, privacy protection, and communication efficiency. Expected outcomes include a robust methodological framework, theoretical insights, and practical applications to improve patient data security and extend distributed learning to other medical imaging tasks.
+  .aita-section-label::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border-color);
+  }
 
-# Quantum Machine Learning
-Quantum Machine Learning (QML) merges quantum computing with machine learning to tackle complex problems more efficiently than classical approaches. By leveraging quantum properties like superposition and entanglement, QML enhances tasks such as optimization, data classification, and pattern recognition. Research areas include quantum-enhanced algorithms, feature selection, generative models, and dimensionality reduction, with potential applications in high-dimensional data analysis and computational efficiency.
+  /* Project cards */
+  .aita-projects {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-bottom: 48px;
+  }
 
-# Vietnamese Traffic Sign Recognition
-This study develops a real-time Vietnamese traffic sign recognition system for IoT devices using the YOLOv8 Nano model. A new dataset, VTSDB100, comprising 100 traffic sign classes from Ho Chi Minh City, is introduced. The research compares YOLOv8 with other object detection models (YOLOv9, YOLOv10, YOLOX, RetinaNet, Faster R-CNN) on VTSDB100 and optimizes deployment on resource-constrained devices like the Jetson Nano 2GB using TensorRT and quantization. A workflow integrating detection, tracking, and class filtering is proposed to reduce false positives.
+  .aita-project-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 32px;
+    transition: all 0.3s ease;
+    border-left: 4px solid var(--border-color);
+    margin-bottom: 24px;
+    display: block;
+  }
 
-# Distributed and Adaptive Machine Learning
-This research explores Distributed and Adaptive Machine Learning, focusing on federated learning, split learning, active learning, and curriculum learning to enhance privacy, efficiency, and adaptability. Federated learning enables privacy-preserving model training across distributed clients, while split learning minimizes data exposure by dividing neural network computation. Active learning optimizes semi-supervised training by prioritizing informative data for annotation, and curriculum learning accelerates convergence by sequencing data from simple to complex. Applications include secure and efficient model training across diverse domains.
+  .aita-project-card:hover {
+    background: var(--bg-card-hover);
+    border-left-color: var(--primary-theme);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
 
-# Spiking Neural Networks
-Spiking Neural Networks (SNNs) emulate biological neurons by processing information via discrete spikes, offering energy efficiency and temporal data handling for neuromorphic computing. Research focuses on developing efficient training algorithms, optimizing hardware implementations, and exploring applications in robotics, IoT, and brain-machine interfaces. SNNs are particularly suited for pattern recognition, sensory processing, and real-time decision-making in resource-constrained environments.
+  .aita-project-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--primary-theme);
+    margin: 0 0 20px 0;
+    line-height: 1.3;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border: none;
+    padding: 0;
+  }
+
+  .aita-topics-list {
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .aita-topic-dropdown {
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-left: 3px solid #eaebed;
+    border-radius: 8px;
+    margin-bottom: 2px;
+    padding: 16px 20px;
+    transition: all 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+  }
+
+  .aita-topic-dropdown:hover {
+    border-color: var(--primary-theme);
+    border-left-color: var(--primary-theme);
+    box-shadow: var(--shadow-sm);
+    transform: translateY(-2px);
+  }
+
+  .aita-topic-dropdown[open] {
+    border-color: var(--primary-theme);
+    border-left-color: var(--primary-theme);
+    background: #fffaf5;
+    box-shadow: var(--shadow-md);
+  }
+
+  .aita-topic-summary {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text-primary);
+    outline: none;
+    user-select: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .aita-topic-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .aita-topic-summary::after {
+    content: '↓';
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--text-muted);
+    transition: transform 0.3s ease, color 0.3s ease;
+    display: inline-block;
+  }
+
+  .aita-topic-dropdown[open] .aita-topic-summary::after {
+    transform: rotate(180deg);
+    color: var(--primary-theme);
+  }
+
+  .aita-topic-content {
+    font-size: 14.5px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px dashed var(--border-color);
+  }
+
+  .aita-publication-badge {
+    display: inline-flex;
+    align-items: center;
+    background: #e8f5e9;
+    color: #2e7d32;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+  }
+
+  /* Benefits section */
+  .aita-benefits-section { 
+    margin-bottom: 60px; 
+  }
+  
+  .aita-benefits-grid { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+    gap: 20px; 
+  }
+
+  .aita-benefit-card {
+    background: var(--bg-main);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 24px;
+    transition: box-shadow 0.3s ease;
+  }
+
+  .aita-benefit-card:hover {
+    box-shadow: var(--shadow-md);
+  }
+
+  .aita-benefit-icon { 
+    font-size: 24px; 
+    margin-bottom: 16px; 
+    display: block; 
+  }
+  
+  .aita-benefit-title { 
+    font-weight: 600; 
+    font-size: 16px; 
+    margin-bottom: 8px; 
+    color: var(--text-primary); 
+  }
+  
+  .aita-benefit-desc { 
+    font-size: 14px; 
+    color: var(--text-secondary); 
+    line-height: 1.6; 
+  }
+
+  /* Footer */
+  .aita-footer {
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 32px;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-muted);
+    font-size: 14px;
+  }
+
+  .aita-footer .aita-lab-name {
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: var(--primary-theme);
+    margin-bottom: 8px;
+  }
+
+  /* Responsive */
+  @media (max-width: 600px) {
+    .research-container { padding: 40px 16px; }
+    .aita-header h1 { font-size: 32px; }
+    .aita-project-card { padding: 24px 20px; }
+    .aita-benefits-grid { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div class="research-container">
+
+  <!-- <div class="aita-header"> -->
+    <!-- <div class="aita-badge">Research Areas</div> -->
+    <!-- <h1>Lab Research <span class="aita-highlight">Themes & Focus</span></h1> -->
+    <!-- <p class="aita-subtitle">Discover our core competencies in artificial intelligence, computer vision, and interdisciplinary systems at the AI Technology and Application Research Lab.</p> -->
+  <!-- </div> -->
+
+  <div class="aita-toc">
+    <h5 class="aita-toc-heading">Research Areas</h5>
+    <ul class="aita-toc-list">
+      <li><a href="#cv-pattern">👁️ 1. Computer Vision & Pattern Recognition</a></li>
+      <li><a href="#core-ml">⚙️ 2. Core Machine Learning & Advanced Computing</a></li>
+      <li><a href="#smart-net">📡 3. Intelligent Networking & Smart Systems</a></li>
+      <li><a href="#uav-drones">🚁 4. Autonomous UAVs & Drone Systems</a></li>
+      <li><a href="#audio-emotion">🎙️ 5. Audio & Multimodal Emotion Processing</a></li>
+      <li><a href="#comp-biology">🧬 6. Computational Biology & Bioinformatics</a></li>
+    </ul>
+  </div>
+
+  <h2 class="aita-section-label" id="core-categories">Core Categories</h2>
+
+  <div class="aita-projects">
+
+    <div class="aita-project-card" id="cv-pattern">
+
+      <h3 class="aita-project-title">👁️ 1. Computer Vision & Pattern Recognition</h3>
+
+      <div class="aita-topics-list">
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🏥 Medical Image Segmentation</summary>
+          <div class="aita-topic-content">
+            This research direction applies advanced neural network architectures, such as 3D U-Nets and dual-attention models, to process complex high-dimensional medical images from clinical domains (e.g., CT and MRI scans). The focus is on precisely delineating biological structures, tissues, and pathological anomalies to assist in objective diagnostic procedures and automated treatment planning.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🚦 Traffic Sign Recognition</summary>
+          <div class="aita-topic-content">
+            This theme focuses on the development and optimization of ultra-fast, high-accuracy object detection algorithms, specifically leveraging YOLOv8, YOLOv10, and TensorRT optimization. Research is geared toward achieving real-time inference on low-power, resource-constrained edge systems to improve automated safety and driver assistance systems in complex environments.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">📝 Parsing Handwritten Math</summary>
+          <div class="aita-topic-content">
+            This research domain addresses the complex challenge of interpreting and translating handwritten mathematical expressions into digital markup like LaTeX. By leveraging vision transformers and graph-based models, research evaluates spatial, semantic, and hierarchical relationships between disparate mathematical symbols across diverse handwriting styles.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🎯 Active Learning for Detection</summary>
+          <div class="aita-topic-content">
+            This research explores smart sampling algorithms that intelligently measure uncertainty and select the most informative visual data points for model training. By developing advanced dual-ambiguity strategies, the focus is on optimizing model performance and robustness while significantly reducing manual data-annotation overhead.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🖼️ Image Captioning & Video Colorization</summary>
+          <div class="aita-topic-content">
+            This work operates at the intersection of computer vision and natural language generation. Research focuses on multimodal generative models that automatically narrate visual contexts into descriptive text, and colorization architectures that utilize temporal and spatial consistency to accurately restore grayscale video content.
+          </div>
+        </details>
+
+      </div>
+
+    </div>
+
+    <div class="aita-project-card" id="core-ml">
+
+      <h3 class="aita-project-title">⚙️ 2. Core Machine Learning & Advanced Computing</h3>
+
+      <div class="aita-topics-list">
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🔐 Federated & Distributed Learning</summary>
+          <div class="aita-topic-content">
+            Data privacy is one of the most critical challenges in machine learning today. This research explores privacy-preserving frameworks that enable decentralized training across heterogeneous client devices without centralizing raw data. The objective is to develop robust aggregation algorithms and optimize communication efficiency to resist client data bias.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">⚛️ Quantum Machine Learning</summary>
+          <div class="aita-topic-content">
+            This pioneering area merges quantum computing with the power of artificial intelligence. By harnessing quantum properties such as superposition, entanglement, and tunneling, research focuses on developing algorithms that accelerate complex data classification, clustering, and dimensional optimization.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🖧 Distributed Systems Optimization</summary>
+          <div class="aita-topic-content">
+            As deep learning models scale exponentially, distributed optimization across multi-node high-performance computing clusters is essential. Research in this area develops synchronization schemes and parallelized algorithms to optimize cluster throughput and reduce computational bottlenecks.
+          </div>
+        </details>
+
+      </div>
+
+    </div>
+
+    <div class="aita-project-card" id="smart-net">
+
+      <h3 class="aita-project-title">📡 3. Intelligent Networking & Smart Systems</h3>
+
+      <div class="aita-topics-list">
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">📶 AI-Integrated MAC Protocols</summary>
+          <div class="aita-topic-content">
+            Wireless and IoT networks often suffer from performance drops due to channel interference and data packet collisions. This research direction integrates deep reinforcement learning into Medium Access Control (MAC) operations. By enabling dynamic channel sensing and adaptive power allocation, the objective is to optimize spectral efficiency, minimize packet collision rates, and reduce latency.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🚗 Intelligent Transport Systems & VANETs</summary>
+          <div class="aita-topic-content">
+            This theme investigates the integration of IoT and predictive machine learning models to build intelligent municipal infrastructure. Key topics include routing protocols in Vehicular Ad-hoc Networks (VANETs), real-time smart parking allocation systems, and connected sensor infrastructures for improved traffic management.
+          </div>
+        </details>
+
+      </div>
+
+    </div>
+
+    <div class="aita-project-card" id="uav-drones">
+
+      <h3 class="aita-project-title">🚁 4. Autonomous UAVs & Drone Systems</h3>
+
+      <div class="aita-topics-list">
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🤖 Autonomous Aerial Vehicles</summary>
+          <div class="aita-topic-content">
+            This research direction focuses on the development of AI-enabled drone systems capable of real-time perception, adaptive decision-making, and fully autonomous operation in dynamic environments. Emphasis is placed on onboard (edge) intelligence, allowing UAVs to process sensory data locally to reduce latency, improve reliability, and optimize communication efficiency.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">⚡ Edge AI on Drone Hardware</summary>
+          <div class="aita-topic-content">
+            Running intensive deep learning visual models on airborne drones requires highly specialized computing. Key objectives include optimizing neural networks via quantization and hardware acceleration techniques to perform visual tasks directly on resource-constrained onboard chips.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🌐 Multi-Drone Swarm Intelligence</summary>
+          <div class="aita-topic-content">
+            Key research areas include aerial computer vision for object detection, environmental analysis, and anomaly identification; autonomous navigation and coverage path planning under uncertainty; and cooperative multi-drone systems (swarm intelligence) for scalable, large-area monitoring. The integration of UAVs with IoT and intelligent networking infrastructures is also explored to support applications in smart cities, precision agriculture, disaster response, and environmental monitoring.
+          </div>
+        </details>
+
+      </div>
+
+    </div>
+
+    <div class="aita-project-card" id="audio-emotion">
+
+      <h3 class="aita-project-title">🎙️ 5. Audio & Multimodal Emotion Processing</h3>
+
+      <span class="aita-publication-badge">Highly Published Area</span>
+
+      <div class="aita-topics-list">
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🗣️ Speech Emotion Recognition</summary>
+          <div class="aita-topic-content">
+            This domain explores extracting complex affective contexts directly from acoustic vocal waveforms. Research leverages multi-feature fusion techniques and sequential modeling, such as Graph-LSTM architectures, to identify emotional patterns independently of specific spoken languages.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🎭 Multimodal Emotion Fusion</summary>
+          <div class="aita-topic-content">
+            This theme addresses the challenge of integrating disparate modalities like audio, visual gestures, and text transcripts. By utilizing self-aligning cross-modal attention mechanisms and dynamic hypergraphs, the goal is to capture subtle, non-linear correlations to achieve a unified emotional representation.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">❤️ Affective Computing & AI Synthesis</summary>
+          <div class="aita-topic-content">
+            This research focuses on developing empathetic conversational AI agents that dynamically parse emotional contexts and synthesize high-fidelity empathetic text or speech outputs. The objective is to improve the naturalness and context-awareness of modern human-computer interaction frameworks.
+          </div>
+        </details>
+
+      </div>
+
+    </div>
+
+    <div class="aita-project-card" id="comp-biology">
+
+      <h3 class="aita-project-title">🧬 6. Computational Biology & Bioinformatics</h3>
+
+      <div class="aita-topics-list">
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">💊 Small Molecule Generation</summary>
+          <div class="aita-topic-content">
+            This theme explores the intersection of deep learning and computational chemistry to accelerate structural drug discovery. Research investigates generative AI and text-to-molecule architectures to automate the generation of novel chemical compounds targeting specific medical conditions.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🧬 Splice Site Prediction</summary>
+          <div class="aita-topic-content">
+            This research focuses on deploying sequence-to-sequence deep modeling architectures to accurately predict exact mRNA splicing positions. The objective is to map complex genomic mutations and understand the foundational molecular mechanisms responsible for various genetic disorders.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🧪 Peptide-based Therapeutics Prediction</summary>
+          <div class="aita-topic-content">
+            This research involves utilizing deep learning models, such as graph neural networks and protein language models, to predict the bioactivity, binding affinity, and stability of therapeutic peptides. By analyzing amino acid sequences and structural flexibility, the goal is to design precise peptide-based drugs for targeted delivery and immunotherapy.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🧬 RNA Post-transcriptional Modification Sites Prediction</summary>
+          <div class="aita-topic-content">
+            This theme focuses on the computational identification of chemical modifications in RNA (e.g., m6A, m5C, and pseudouridylation) that define the "epitranscriptome." Research leverages transformer-based architectures and RNA/genomic language models to predict how these modifications regulate mRNA stability and translation, providing insights into the pathogenesis of complex diseases and cancers.
+          </div>
+        </details>
+
+        <details class="aita-topic-dropdown">
+          <summary class="aita-topic-summary">🥩 Protein Post-translational Modification Sites Prediction</summary>
+          <div class="aita-topic-content">
+            This research investigates the use of deep learning models, such as graph neural networks and protein language models, to predict site-specific modifications (e.g., phosphorylation, ubiquitination, and glycosylation) that occur after protein synthesis. By mapping these sites, the objective is to understand how PTMs expand proteomic diversity and influence cellular signaling and metabolic regulation.
+          </div>
+        </details>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <h2 class="aita-section-label" id="opportunities">Opportunities</h2>
+
+  <div class="aita-benefits-grid aita-benefits-section">
+    <div class="aita-benefit-card">
+      <span class="aita-benefit-icon">📘</span>
+      <div class="aita-benefit-title">Expert Mentorship</div>
+      <div class="aita-benefit-desc">Receive direct guidance from leading researchers with multiple publications in high-impact academic journals and conferences.</div>
+    </div>
+    <div class="aita-benefit-card">
+      <span class="aita-benefit-icon">🔬</span>
+      <div class="aita-benefit-title">State-of-the-Art Projects</div>
+      <div class="aita-benefit-desc">Collaborate on diverse, high-impact research projects spanning computer vision, quantum computing, and computational biology.</div>
+    </div>
+    <div class="aita-benefit-card">
+      <span class="aita-benefit-icon">📝</span>
+      <div class="aita-benefit-title">Publication Support</div>
+      <div class="aita-benefit-desc">Work systematically towards contributing to international conferences and high-tier academic journals.</div>
+    </div>
+  </div>
+
+  <footer class="aita-footer">
+    <div class="aita-lab-name">AI Technology and Application Research Lab (AITA)</div>
+    <p>© 2026 AITA Lab - All rights reserved.</p>
+  </footer>
+
+</div>
