@@ -300,8 +300,6 @@ toc_label: "Table of Contents"
 * Nhat Truong Pham, Duc Ngoc Minh Dang, Bich Ngoc Hong Pham, and Sy Dzung Nguyen, [&#34;SERVER: Multi-modal Speech Emotion Recognition using Transformer-based and Vision-based Embeddings&#34;](https://dl.acm.org/doi/10.1145/3591569.3591610), 2023: 8th International Conference on Intelligent Information Technology (ICIIT 2023), Da Nang, Vietnam, February 24 - 26, 2023. <span class="__dimensions_badge_embed__" data-doi="10.1145/3591569.3591610" data-style="small_rectangle"></span>
 * Nhat Truong Pham, Anh-Tuan Tran, Bich Ngoc Hong Pham, Hanh Dang-Ngoc, Sy Dzung Nguyen, and Duc Ngoc Minh Dang, [&#34;Speech Emotion Recognition: A Brief Review of Multi-modal Multi-task Learning Approaches&#34;](https://link.springer.com/chapter/10.1007/978-981-99-8703-0_50), The 7th International Conference on Advanced Engineering – Theory and Applications (AETA-2022), Vietnam, Dec 8-10, 2022. <span class="__dimensions_badge_embed__" data-doi="10.1007/978-981-99-8703-0_50" data-style="small_rectangle"></span>
 
----0), The 7th International Conference on Advanced Engineering – Theory and Applications (AETA-2022), Vietnam, Dec 8-10, 2022.
-
 <!-- *** -->
 
 <!-- # Book Chapters -->
