@@ -18,7 +18,7 @@ description: Curriculum vitae of Duc Tai Phan
 
 Research Experience
 ============
-* Apr 2024 -- Present: Student, AiTA Lab, FPT University of Vietnam
+* Apr 2024 -- May 2026: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam
 
 ***
 

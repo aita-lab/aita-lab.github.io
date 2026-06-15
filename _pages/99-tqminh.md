@@ -21,13 +21,13 @@ description: Curriculum vitae of Minh Quang Tran
 
 Research Experience
 ============
-* Jun 2025 – Present: Student, AiTA Lab, FPT University of Vietnam.
+* Jun 2025 – May 2026: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam
 
 ***
 
 Education
 ============
-* Dec 2023 – Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.
+* Dec 2023 – Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam
 ***
 
 Awards & Grants

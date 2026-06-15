@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nhut Minh Nguyen, B.Sc. student"
+title: "Nhut Minh Nguyen, B.Sc."
 permalink: /member/nmnhut
 image: 
 description: Curriculum vitae of Nhut Minh Nguyen
@@ -27,12 +27,16 @@ Research Experience
 
 Education
 ============
-* Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.
+* Dec 2022 -- May 2026: B.Sc. Student, Faculty of Information Tecnology, FPT University, Ho Chi Minh City, Vietnam.
 
 ***
 
 Journal Publications
 ============
+* Duc Tai Phan, Nhut Minh Nguyen, Khang Phuc Nguyen, Phuong-Nam Tran, Nhat Truong Pham, Linh Le, Choong Seon Hong, and Duc Ngoc Minh Dang, "From object difficulty to image scoring: A strategy for active learning in object detection", Knowledge-Based Systems, Apr 2026.
+
+* Nhut Minh Nguyen, Thu Thuy Le, Thanh Trung Nguyen, Hanh Ngoc Dang, Luu Phuong Vo, and Duc Ngoc Minh Dang, "HyperDyG: Hypergraph-Driven Dynamic Fusion for Semi-Supervised Multimodal Emotion Recognition", EAI Endorsed Transactions on Industrial Networks and Intelligent Systems Journal, Feb 2026.
+
 * Nhut Minh Nguyen, Thanh Trung Nguyen, and Duc Ngoc Minh Dang, "HemoGAT: Heterogeneous multimodal speech emotion recognition with cross-modal transformer and graph attention network", Advances in Electrical and Electronic Engineering, 2026. 
 
 * Nhut Minh Nguyen, Minh Trung Nguyen, Thanh Trung Nguyen, Phuong-Nam Tran, Nhat Truong Pham, Linh Le, OTHMANI Alice, Abdulmotaleb El Saddik, and Duc Ngoc Minh Dang, "Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion", Engineering Applications of Artificial Intelligence.
@@ -43,6 +47,10 @@ Journal Publications
 
 Conference Proceedings
 ============
+* Thanh Trung Nguyen, Nhut Minh Nguyen, Duc Tai Phan, Quang Nhan Hoang, Tri Minh Pham, and Duc Ngoc Minh Dang, "Swin Transformer V2 for Optical Chemical Structure Recognition: Comparison with Convolutional Neural Networks and Swin Transformer Variants", Chonburi, Thailand, May 27-30, 2026.
+
+* Nhut Minh Nguyen, Thu Thuy Le, Thanh Trung Nguyen, and Duc Ngoc Minh Dang, "SemiFedER: Semi-supervised Federated Averaging for Multimodal Emotion Recognition", The 7th International Conference on Machine Learning and Human-Computer Interaction (MLHMI 2026), Tokyo, Japan, Mar 17-19, 2026.
+
 * Phuong Lam Nguyen, Duc Tai Phan, Thanh Trung Nguyen, Nhut Minh Nguyen, and Duc Ngoc Minh Dang, "YOLOv5-powered Smart Parking System with IoT-based Real-Time Slot Monitoring", 2025 RIVF International Conference on Computing and Communication Technologies, Ho Chi Minh City, Vietnam, Dec 18-20, 2025.
 
 * Thu Thuy Le, Nhut Minh Nguyen, Nhat Truong Pham, Phuong-Nam Tran, Nguyen Doan Hieu Nguyen, Phuong Luu Vo, Balachandran Manavalan, and Duc Ngoc Minh Dang, “Federated Semi-Supervised FixMatch: Enhancing CutMix for Medical Image Segmentation”, 2025 IEEE International Conference on Big Data, Macau SAR, China, 2025.
@@ -73,5 +81,6 @@ Awards & Grants
 ============
 * Apr 2025: Champion Prize in the Student Research Competition at FPT University.
 * Aug 2025: Consolation Prize FPT Research Festival - ResFes 2025.
+* Dec 2025: Consolation Prize in the 27th Euréka Award for Student Research.
 
 ***

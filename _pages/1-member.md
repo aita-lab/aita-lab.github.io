@@ -20,7 +20,7 @@ Duc Ngoc Minh Dang received the B.Eng. and M.Eng. degrees in Electronics and Tel
 
 He is currently an Associate Professor at FPT University, Ho Chi Minh City, Vietnam, and Director of the AiTA Lab. His research interests include wireless ad hoc networks, vehicular networks, speech emotion recognition, multimodal learning, federated learning, and the Internet of Things.
 
-- 2025 -- Present: Associate Professor, FPT University, Vietnam
+- 2026 -- Present: Associate Professor, Dean, Faculty of Information Technology, FPT University, Vietnam
 - 2022 -- Present: Lecturer - Researcher, FPT University, Vietnam
 - 2017 -- 2022: Vice Dean, School of Graduate Studies, Ton Duc Thang University, Vietnam
 - 2015 -- 2017: Head of Electronics - Telecommunications Department, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam
@@ -71,67 +71,26 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 	</tr>
 </table>
 
----
-
-# Undergraduate Research Assistants
-
----
-
-###### <a href="/member/nmnhut" target="_blank">Nhut Minh Nguyen</a> (Dec 2022 -- Present)
+###### <a href="/member/nmnhut" target="_blank">Nhut Minh Nguyen</a> (Jun 2026 -- Present)
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmnhut/avatar.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/Researchers/nmnhut/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>					
-			<li>Research Interests: Speech emotion recognition, Graph Neural Networks</li>	
+			<li>Jun 2026 -- Present: Assistant Researcher, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Dec 2022 -- May 2026: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>						
+			<li>Research Interests: Speech Emotion Recognition, Graph Neural Networks</li>	
             <li><a href="https://orcid.org/0009-0003-1281-5346" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
 			<li><a href="https://nhut-ngnn.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
 </table>
 
-###### <a href="/member/pvhnam" target="_blank">Hai Nam Van Phan</a> (Dec 2022 -- Present)
+---
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/pvhnam/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
-			<li>Research Interests: Handwritten mathematical expressions recognition</li>	
-            <li><a href="https://orcid.org/0009-0008-2588-5235" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
-			<li><a href="https://neeze.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
+# Undergraduate Research Assistants
 
-###### <a href="/member/ltthuy" target="_blank">Thu Thuy Le</a> (Dec 2022 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ltthuy/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>		
-			<li>Research Interests: Federated Learning, Image Segmentation</li>			
-			<li><a href="https://orcid.org/0009-0006-9046-4774" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
-            <li><a href="https://shuilee.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-###### <a href="/member/nttrung" target="_blank">Thanh Trung Nguyen</a> (Dec 2022 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nttrung/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
-			<li>Research Interests: Handwritten mathematical expressions recognition</li>
-			<li><a href="https://orcid.org/0009-0004-7553-4848" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
-            <li><a href="https://github.com/trungtndev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
+---
 
 ###### <a href="/member/ptduc" target="_blank">Duc Tai Phan</a> (Sep 2023 -- Present)
 
@@ -139,37 +98,10 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ptduc/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Jan 2024 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Jan 2024 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
 			<li>Research Interests: Active Learning, Computer Vision</li>	
 			<li><a href="https://orcid.org/0009-0005-2578-0626" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
             <li><a href="https://taiduc1001.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-###### <a href="/member/nmtrung" target="_blank">Trung Minh Nguyen</a> (Oct 2022 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmtrung/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Oct 2022 -- Present: B.Sc. student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>		
-			<li>Research Interests: Speech emotion recognition, Knowledge Distillation</li>	
-			<li><a href="https://orcid.org/0009-0007-0504-3412" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
-            <li><a href="https://nmihtrug.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-###### <a href="/member/nmkhoa" target="_blank">Minh-Khoa Nguyen</a> (Oct 2024 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nmkhoa/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Oct 2024 -- Present: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
-			<li>Research Interests: Handwritten mathematical expressions recognition</li>
-            <li><a href="https://github.com/Purin1410" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
 </table>
@@ -180,7 +112,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
     <tr valign="top">
         <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/hqnhan/avatar.jpg"/></td>  
         <td><ul>
-            <li>Jan 2025 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>
+            <li>Jan 2025 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
 			<li>Research Interests: Quantum Machine Learning</li>
             <li><a href="https://github.com/nhanhqq" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
             <li><a href="https://orcid.org/0009-0003-1597-6890" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
@@ -189,41 +121,15 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
     </tr>
 </table>
 
-###### <a href="/member/lmdat" target="_blank">Dat Le Minh</a> (Oct 2024 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/lmdat/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Dec 2022 -- Present: B.Sc. Student, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam</li>	
-			<li>Research Interests: Autonomous Driving</li>
-            <li><a href="https://github.com/mnhdat" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
 ###### <a href="/member/npkhang" target="_blank">Phuc Khang Nguyen</a> (Oct 2024 -- Present)
 
 <table border="0">  
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/npkhang/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>	
 			<li>Research Interests: Federated Learning, Secure Systems </li>
             <li><a href="https://github.com/Freeftish" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-###### <a href="/member/htanh" target="_blank">Tuan Anh Hoang</a> (Oct 2024 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/htanh/avatar.jpg"/></td>  
-		<td><ul>
-			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>	
-			<li>Research Interests: Autonomous Driving</li>
-            <li><a href="https://github.com/anhht9824" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 		</ul></td>
 	</tr>
 </table>
@@ -234,7 +140,7 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/tntri/avatar.jpg"/></td>  
 		<td><ul>
-			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Jan 2024 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>	
 			<li>Research Interests: Emotion recognition</li>
             <li><a href="https://github.com/trissnguyenn2210" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
 			<li><a href="https://orcid.org/0009-0003-1353-5899" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>	
@@ -242,28 +148,158 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 	</tr>
 </table>
 
-<!-- ###### <a href="/member/dtdkhoa" target="_blank">Dang Khoa Tran Do</a> (Jun 2025 -- Present)
-<table border="0">
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/dtdkhoa/avatar.jpg"/></td>
-		<td><ul>
-			<li>Jan 2024 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>
-            <li><a href="https://dangkhoaai.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
-			<li><a href="https://orcid.org/0009-0008-3166-384X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table> -->
-
 ###### <a href="/member/tqminh" target="_blank">Minh Quang Tran</a> (Jun 2025 -- Present)
 
 <table border="0">  
     <tr valign="top">
         <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/tqminh/avatar.jpg"/></td>  
         <td><ul>
-            <li>Jan 2025 -- Present: Student, AiTA Lab, FPT University, Ho Chi Minh City, Vietnam.</li>
+            <li>Jan 2025 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
 			<li>Research Interests: Spiking Neural Networks</li>
             <li><a href="https://github.com/Minhtrna" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
             <li><a href="https://orcid.org/0009-0001-2238-2180" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/dnhduc" target="_blank">Duc Nguyen Huu Dang</a> (Dec 2025 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/dnhduc/avatar.png"/></td>  
+        <td><ul>
+            <li>Dec 2025 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: EEG-based Emotion Recognition, Graph Neural Networks</li>
+            <li><a href="https://github.com/DucHuu0104" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0006-2449-2873" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+			<li><a href="https://duchuu0104.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/dtquan" target="_blank">Do Trung Quan</a> (Sep 2025 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/dtquan/avatar.png"/></td>  
+        <td><ul>
+            <li>Sep 2025 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Computational Biology, Bioinformatics</li>
+            <li><a href="https://github.com/36JungKwan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0002-8715-9462" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/lnkhanh" target="_blank">Khanh Nhat Le</a> (Jun 2026 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/lnkhanh/avatar.jpg"/></td>  
+        <td><ul>
+            <li>Jun 2026 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Efficient Federated Multimodal Learning, Multimodal Emotion Recognition</li>
+            <li><a href="https://github.com/Chonf-pkz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0009-3832-4661" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/lthuy" target="_blank">Huy Le Tuan</a> (Jun 2026 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/lthuy/avatar.jpeg"/></td>  
+        <td><ul>
+            <li>Jun 2026 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Secure Systems, Federated Learning</li>
+            <li><a href="https://github.com/letuanhuy26" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0002-6517-9788" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/nhdat" target="_blank">Ngo Huu Dat</a> (Sep 2025 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nhdat/avatar.png"/></td>  
+        <td><ul>
+            <li>Sep 2025 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Computational Biology, Bioinformatics</li>
+            <li><a href="https://github.com/datngo196" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0005-8174-2384" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/nqbao" target="_blank">Bao Quoc Nguyen</a> (Dec 2025 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/nqbao/avatar.jpg"/></td>  
+        <td><ul>
+            <li>Dec 2025 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Emotion Recognition in Conversation, Graph Neural Networks</li>
+            <li><a href="https://github.com/nqbao-ng" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0001-0649-5839" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+			<li><a href="https://nqbao-ng.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/ntdung" target="_blank">Nguyen Tri Dung</a> (Sep 2025 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ntdung/avatar.jpg"/></td>  
+        <td><ul>
+            <li>Sep 2025 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Computational Biology, Bioinformatics</li>
+            <li><a href="https://github.com/Lan0-NTD" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0005-7969-7764" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/ntky" target="_blank">Ky Nguyen Thu</a> (Jun 2026 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ntky/avatar.png"/></td>  
+        <td><ul>
+            <li>Jun 2026 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Efficient Federated Multimodal Learning, Multimodal Emotion Recognition</li>
+            <li><a href="https://github.com/nguyenky092006" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0004-0656-7240" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/thkhang" target="_blank">Hoang Khang Trang</a> (Dec 2025 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/thkhang/avatar.png"/></td>  
+        <td><ul>
+            <li>Dec 2025 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Emotion Recognition in Conversation, Graph Neural Networks</li>
+            <li><a href="https://github.com/xchilryhkang" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+            <li><a href="https://orcid.org/0009-0003-3072-3939" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+        </ul></td>
+    </tr>
+</table>
+
+###### <a href="/member/ttmanh" target="_blank">Tran Thi Minh Anh</a> (Sep 2025 -- Present)
+
+<table border="0">  
+    <tr valign="top">
+        <td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/UndergraduateResearchAssistants/ttmanh/avatar.png"/></td>  
+        <td><ul>
+            <li>Sep 2025 -- Present: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>
+			<li>Research Interests: Computational Biology, Bioinformatics</li>
+            <li><a href="https://orcid.org/0009-0004-5477-7808" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+			<li><a href="https://scholar.google.com/citations?user=PnIdM9IAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white"></a></li>
         </ul></td>
     </tr>
 </table>
@@ -342,6 +378,102 @@ He is currently an Associate Professor at FPT University, Ho Chi Minh City, Viet
 		</ul></td>
 	</tr>
 </table>
+
+###### <a href="/member/pvhnam" target="_blank">Hai Nam Van Phan</a> (Dec 2022 -- May 2026)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/Alumni/pvhnam/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- May 2026: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Research Interests: Handwritten mathematical expressions recognition</li>	
+            <li><a href="https://orcid.org/0009-0008-2588-5235" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+			<li><a href="https://neeze.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/ltthuy" target="_blank">Thu Thuy Le</a> (Dec 2022 -- May 2026)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/Alumni/ltthuy/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- May 2026: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>		
+			<li>Research Interests: Federated Learning, Image Segmentation</li>			
+			<li><a href="https://orcid.org/0009-0006-9046-4774" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+            <li><a href="https://shuilee.github.io/ShuiLee/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/nttrung" target="_blank">Thanh Trung Nguyen</a> (Dec 2022 -- May 2026)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/Alumni/nttrung/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2022 -- May 2026: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Research Interests: Handwritten mathematical expressions recognition</li>
+			<li><a href="https://orcid.org/0009-0004-7553-4848" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+            <li><a href="https://github.com/trungtndev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/nmtrung" target="_blank">Trung Minh Nguyen</a> (Oct 2022 -- May 2026)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/Alumni/nmtrung/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Oct 2022 -- May 2026: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>		
+			<li>Research Interests: Speech emotion recognition, Knowledge Distillation</li>	
+			<li><a href="https://orcid.org/0009-0007-0504-3412" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a></li>
+            <li><a href="https://nmihtrug.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/nmkhoa" target="_blank">Minh-Khoa Nguyen</a> (Oct 2024 -- May 2026)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/Alumni/nmkhoa/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Oct 2024 -- May 2026: AiTA Lab, Student, FPT University, Ho Chi Minh City, Vietnam.</li>	
+			<li>Research Interests: Handwritten mathematical expressions recognition</li>
+            <li><a href="https://github.com/Purin1410" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/lmdat" target="_blank">Dat Le Minh</a> (Oct 2024 -- May 2026)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/Alumni/lmdat/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Oct 2024 -- May 2026: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Research Interests: Autonomous Driving</li>
+            <li><a href="https://github.com/mnhdat" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### <a href="/member/htanh" target="_blank">Tuan Anh Hoang</a> (Oct 2024 -- May 2026)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="/images/Members/Alumni/htanh/avatar.jpg"/></td>  
+		<td><ul>
+			<li>Jan 2024 -- May 2026: Student, AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City, Vietnam</li>	
+			<li>Research Interests: Autonomous Driving</li>
+            <li><a href="https://github.com/anhht9824" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
 ***
 # Collaborators
 ***
